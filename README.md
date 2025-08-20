@@ -108,5 +108,5 @@ Create a virtual environment & install dependencies:
 - python 6_churn_prediction.py  
 
 ## 📜 Author
-👤 Devaprakash R
+👤 Devaprakash R 
 Aspiring Analyst | Skilled in Python, SQL, Tableau, Power BI, Advanced Excel
