@@ -108,9 +108,7 @@ Improve lifetime value (LTV) and reduce churn rate.
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/Data-Driven-Customer-Retention-Churn-Modeling-with-Data-Analytics.git
-cd Data-Driven-Customer-Retention-Churn-Modeling-with-Data-Analytics
-
+git clone https://github.com/devaprakash27r/Data-Driven-Customer-Retention-Churn-Modeling-with-Data-Analytics.git
 
 Create a virtual environment & install dependencies:
 
