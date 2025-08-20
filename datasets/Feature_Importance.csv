@@ -1,0 +1,42 @@
+Feature,Importance
+churn_unknown,0.2479907999553684
+tenure,0.09367198863612836
+monthly_charges,0.044550053333142145
+total_charges,0.03967819383345504
+senior_citizen,0.02215710190417822
+tech_support_yes,0.018179083172980337
+dependents_unknown,0.018135174418059057
+phone_service_yes,0.018042070325604016
+streaming_tv_unknown,0.01802303809600441
+paperless_billing_yes,0.01794612630464599
+gender_male,0.017900719533364407
+streaming_movies_unknown,0.01721386783681865
+online_backup_yes,0.01719037564141415
+online_security_unknown,0.017021114939729513
+multiple_lines_yes,0.016984569918208514
+tech_support_unknown,0.016952252797812387
+device_protection_yes,0.016934335582264863
+online_security_yes,0.016805975749545232
+dependents_yes,0.016701726005373785
+partner_yes,0.016352197477316737
+device_protection_unknown,0.01623811886406672
+phone_service_unknown,0.015723917720375367
+online_backup_unknown,0.015335512061684261
+contract_one year,0.015134979607900117
+partner_unknown,0.01491878255544945
+streaming_movies_yes,0.014782233345527621
+internet_service_no,0.014782102755981517
+contract_month-to-month,0.014737645478167444
+internet_service_fiber optic,0.014670635542007069
+payment_method_unknown,0.01378784347845886
+payment_method_electronic check,0.013742812104137386
+multiple_lines_unknown,0.013377062807771697
+internet_service_none,0.013246268020097094
+payment_method_mailed check,0.013243045222359114
+paperless_billing_unknown,0.013124583957773436
+internet_service_unknown,0.012675381016144871
+gender_unknown,0.01260080489320325
+contract_unknown,0.012428231682016656
+streaming_tv_yes,0.01235011448589338
+payment_method_credit card (automatic),0.012343804408998418
+contract_two year,0.012325354530571958

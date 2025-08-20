@@ -1,0 +1,11 @@
+customer_id,customer_name,gender,senior_citizen,partner,dependents,tenure,contract,paperless_billing,payment_method,monthly_charges,total_charges,phone_service,multiple_lines,internet_service,online_security,online_backup,device_protection,tech_support,streaming_tv,streaming_movies,churn
+C0001,John Smith,Male,0,Yes,No,12,Month-to-month,Yes,Electronic check,70.35,844.2,Yes,No,DSL,No,Yes,No,Yes,Yes,No,No
+C0002,Linda Jones,Female,1,No,No,3,Month-to-month,Yes,Mailed check,45.0,135.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Yes
+C0003,Michael Clark,Male,0,Yes,Yes,24,Two year,No,Bank transfer (automatic),89.5,2148.0,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,No
+C0004,Susan Davis,Female,0,No,No,5,Month-to-month,Yes,Credit card (automatic),65.4,327.0,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Yes
+C0005,Robert Lee,Male,1,Yes,No,8,One year,Yes,Mailed check,55.6,444.8,Yes,No,DSL,Yes,No,No,Yes,Yes,No,No
+C0006,Patricia Brown,Female,0,No,Yes,15,One year,No,Bank transfer (automatic),80.9,1213.5,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,No
+C0007,James Wilson,Male,0,Yes,Yes,35,Two year,No,Credit card (automatic),95.7,3349.5,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,No
+C0008,Mary Johnson,Female,1,No,No,1,Month-to-month,Yes,Electronic check,29.95,29.95,No,No,None,No,No,No,No,No,No,Yes
+C0009,William Martin,Male,0,Yes,No,18,One year,Yes,Bank transfer (automatic),60.1,1081.8,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,No
+C0010,Elizabeth White,Female,0,Yes,Yes,48,Two year,No,Credit card (automatic),99.99,4799.5,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,No

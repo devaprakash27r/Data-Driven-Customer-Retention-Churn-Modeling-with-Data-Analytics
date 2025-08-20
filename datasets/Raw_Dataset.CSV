@@ -1,0 +1,1501 @@
+customer_id,customer_name,gender,senior_citizen,partner,dependents,tenure,contract,paperless_billing,payment_method,monthly_charges,total_charges,phone_service,multiple_lines,internet_service,online_security,online_backup,device_protection,tech_support,streaming_tv,streaming_movies,churn
+CUST0001,John doe,male,0,yes,no,64,month to month,Yes,Electronic Check,,,No,no phone service,DSL,,,,,,,yes
+CUST0002,Lauren Vaughan,female,1,,,25,month to month,YES,,,,No,,NO INTERNET,,Yes,,,,,
+CUST0003,Mrs. Elizabeth Turner DDS,MALE,1,,No,61,One year,No,Electronic Check,twenty,,,no phone service,NO INTERNET,,,No,,,No,
+CUST0004,Tiffany Johnson,FEMALE,1,,Yes,49,,YES,,115.37,2698.62,No,No,DSL,Yes,No,,,,,Yes
+CUST0005,Dr. Janice Berg,FEMALE,1,NO,Yes,47,,No,,,5180.88,No,,,,,No,Yes,,No,yes
+CUST0006,Daniel Russell MD,female,0,No,,58,Month-to-month,,Electronic Check,,,No,Yes,Fiber optic,,No,Yes,Yes,,No,yes
+CUST0007,Daniel Bradshaw,female,0,YES,Yes,31,month to month,YES,Bank Transfer,62.59,,Yes,no phone service,DSL,,No,Yes,,,No,Yes
+CUST0008,Willie Walton,Male,1,NO,No,2,Month-to-month,No,Mailed check,,,,Yes,No,No,Yes,No,Yes,No,,yes
+CUST0009,Patricia Lopez,,1,NO,,66,Month-to-month,YES,Mailed check,twenty,,No,Yes,NO INTERNET,,Yes,Yes,,,No,Yes
+CUST0010,William Munoz,female,0,Yes,,19,month to month,Yes,Bank Transfer,,,No,Yes,No,Yes,No,Yes,,,No,yes
+CUST0011,Jamie Wallace,female,1,No,,59,month to month,NO,Mailed check,,,No,,Fiber optic,,No,,Yes,,,No
+CUST0012,Michael Thomas,female,1,Yes,Yes,60,Month-to-month,,Electronic Check,,,No,Yes,Fiber optic,No,,Yes,No,,Yes,Yes
+CUST0013,Jacqueline Cruz,Male,1,No,,67,month to month,NO,Mailed check,,"1,000.50",Yes,No,No,Yes,No,,,Yes,No,
+CUST0014,Sherry George,,1,Yes,No,7,Month-to-month,No,Mailed check,,459.00,Yes,No,No,,Yes,No,Yes,,,no
+CUST0015,Jennifer Garcia,Male,1,,,31,,No,,69.88,"1,000.50",No,Yes,No,No,Yes,,No,,Yes,no
+CUST0016,Jody Ellis,,1,NO,Yes,1,One year,YES,,,,Yes,no phone service,DSL,Yes,,,Yes,Yes,,no
+CUST0017,Ricardo Steele,MALE,1,Yes,,5,,No,Mailed check,twenty,515.69,No,No,,Yes,Yes,,No,,Yes,No
+CUST0018,Samantha Blake,Male,0,Yes,Yes,20,Two Year,Yes,Electronic Check,,"1,000.50",Yes,no phone service,,No,Yes,Yes,,,Yes,
+CUST0019,Mr. Duane Rogers DDS,,1,NO,,11,Month-to-month,,Electronic Check,,,Yes,,,,No,,No,,,No
+CUST0020,Jennifer Carter,Male,0,YES,Yes,11,month to month,YES,Electronic Check,twenty,,,,No,No,No,,No,,,No
+CUST0021,Steven Hogan,,0,,Yes,67,month to month,NO,,,,No,,Fiber optic,Yes,Yes,No,,,Yes,No
+CUST0022,Jeremy Smith,MALE,1,YES,Yes,72,Two Year,Yes,Credit card (automatic),,8401.12,Yes,,Fiber optic,No,,,Yes,No,Yes,No
+CUST0023,Michael Johnson,MALE,0,NO,,62,Month-to-month,Yes,,34.66,4935.08,No,,Fiber optic,,,Yes,,,,
+CUST0024,Cynthia Holloway,Male,0,,Yes,0,month to month,Yes,Electronic Check,,"1,000.50",No,Yes,NO INTERNET,,Yes,No,Yes,,Yes,Yes
+CUST0025,Isaac Ray,FEMALE,0,No,,2,One year,Yes,Electronic Check,,"1,000.50",,Yes,DSL,No,Yes,,Yes,,,yes
+CUST0026,Joshua Porter,Male,1,No,No,38,One year,Yes,,,,No,,,Yes,Yes,No,,,,
+CUST0027,Emily Trevino,female,1,No,Yes,15,One year,NO,,84.57,1619.09,No,No,NO INTERNET,,No,No,,Yes,,no
+CUST0028,Darin Rodriguez,FEMALE,0,,Yes,34,Two Year,YES,Electronic Check,twenty,2997.92,No,No,NO INTERNET,Yes,Yes,,Yes,,No,
+CUST0029,Cynthia Velasquez,FEMALE,0,,Yes,57,Month-to-month,NO,Mailed check,,"1,000.50",No,,NO INTERNET,Yes,Yes,No,Yes,,,No
+CUST0030,Paul Evans,FEMALE,0,YES,Yes,46,Two Year,YES,Credit card (automatic),31.20,2531.06,No,no phone service,Fiber optic,,,,No,Yes,,No
+CUST0031,Sarah Thompson,Male,0,NO,Yes,36,Month-to-month,No,Electronic Check,twenty,,Yes,No,DSL,Yes,No,No,No,,,
+CUST0032,Alan Patterson,Male,0,No,,18,Two Year,Yes,Mailed check,67.42,,No,No,DSL,,No,,Yes,Yes,Yes,no
+CUST0033,Marcus Williams,,1,NO,,56,Two Year,,Credit card (automatic),,3232.80,Yes,No,Fiber optic,,No,No,,Yes,,
+CUST0034,Sarah Shaw,MALE,0,No,No,36,Two Year,No,Electronic Check,112.43,,Yes,no phone service,DSL,,Yes,No,Yes,Yes,,No
+CUST0035,Leah Newman,Male,1,YES,No,58,One year,Yes,Bank Transfer,twenty,,,no phone service,Fiber optic,Yes,No,Yes,Yes,Yes,No,No
+CUST0036,Johnathan Russo,,0,No,Yes,14,Month-to-month,,,31.90,,No,no phone service,NO INTERNET,,No,Yes,Yes,Yes,,No
+CUST0037,Ronald Gomez,,1,Yes,,6,Month-to-month,No,Mailed check,100.64,,Yes,,Fiber optic,No,,Yes,No,Yes,,
+CUST0038,Juan Booker,FEMALE,0,Yes,Yes,20,Two Year,,Bank Transfer,,"1,000.50",No,No,,Yes,,No,,,,
+CUST0039,Peter Haynes,MALE,0,YES,Yes,17,One year,NO,Mailed check,,,No,No,Fiber optic,Yes,,Yes,,Yes,No,No
+CUST0040,Austin Duncan,female,0,Yes,,7,Two Year,YES,Mailed check,71.87,,No,No,,No,No,,No,No,Yes,Yes
+CUST0041,Michelle Mitchell,female,1,YES,,45,Month-to-month,Yes,Bank Transfer,,4057.73,,no phone service,NO INTERNET,Yes,Yes,No,No,Yes,,
+CUST0042,Carolyn Ramsey,FEMALE,1,Yes,Yes,21,One year,No,Mailed check,48.71,"1,000.50",Yes,No,NO INTERNET,,,Yes,No,,,Yes
+CUST0043,Ms. Megan Parrish MD,female,0,Yes,No,27,Month-to-month,NO,Mailed check,twenty,,Yes,Yes,NO INTERNET,,,,,Yes,,no
+CUST0044,Shane Newman,female,0,No,,51,month to month,NO,,twenty,3856.02,,No,NO INTERNET,No,No,Yes,Yes,,,
+CUST0045,Angela Evans,female,0,No,No,48,month to month,NO,Credit card (automatic),,,Yes,,DSL,,,,,,Yes,no
+CUST0046,Catherine Brown,Male,1,No,,62,month to month,,Electronic Check,44.53,"1,000.50",,,No,No,Yes,,,,No,No
+CUST0047,Joseph Brown,FEMALE,1,NO,,44,One year,NO,Electronic Check,twenty,"1,000.50",No,no phone service,,No,Yes,Yes,,No,,
+CUST0048,Julia Stevenson,Male,1,Yes,No,33,Month-to-month,,Electronic Check,twenty,"1,000.50",,No,No,No,Yes,No,No,,,Yes
+CUST0049,Angela Smith,MALE,1,YES,,63,,,,104.70,,,No,NO INTERNET,Yes,,,,,No,Yes
+CUST0050,Joel Freeman,female,0,NO,Yes,25,Month-to-month,NO,Bank Transfer,31.68,"1,000.50",Yes,,,,No,Yes,No,,No,Yes
+CUST0051,Sergio Walker,Male,0,NO,,5,month to month,,Bank Transfer,39.83,154.05,Yes,No,Fiber optic,Yes,,,Yes,Yes,No,Yes
+CUST0052,Anthony Rowe,,1,,,37,month to month,Yes,Credit card (automatic),twenty,1319.69,,no phone service,Fiber optic,No,,No,Yes,No,,yes
+CUST0053,Alan White,female,1,YES,,18,month to month,YES,Electronic Check,twenty,"1,000.50",Yes,No,NO INTERNET,,No,No,,No,No,
+CUST0054,Melissa Cline,Male,0,Yes,,49,One year,YES,Credit card (automatic),52.64,"1,000.50",,No,NO INTERNET,No,Yes,Yes,Yes,No,,
+CUST0055,Alexander Jackson,FEMALE,1,NO,No,26,Two Year,,Credit card (automatic),112.68,2037.04,No,no phone service,Fiber optic,Yes,Yes,No,,Yes,,
+CUST0056,Allison Ramirez,FEMALE,1,No,,60,month to month,No,Credit card (automatic),twenty,,No,Yes,,No,,No,Yes,,,
+CUST0057,Sylvia Gordon,FEMALE,1,Yes,Yes,56,One year,Yes,Credit card (automatic),twenty,,Yes,Yes,DSL,,Yes,Yes,,No,,
+CUST0058,Scott Nash,MALE,1,Yes,Yes,68,Two Year,Yes,,twenty,"1,000.50",No,Yes,Fiber optic,No,,,Yes,,,no
+CUST0059,Lindsey Garza,female,1,YES,Yes,19,Month-to-month,Yes,Mailed check,,,Yes,Yes,No,No,,,,Yes,,Yes
+CUST0060,Bradley Sellers,Male,0,NO,No,3,Month-to-month,YES,Electronic Check,,,,No,,Yes,,No,,,,
+CUST0061,Joseph Jones,FEMALE,1,NO,Yes,23,Month-to-month,,Bank Transfer,twenty,1472.23,,Yes,No,No,Yes,No,,No,,No
+CUST0062,Teresa Rodriguez,MALE,1,,,18,One year,No,Electronic Check,,"1,000.50",No,,NO INTERNET,No,No,No,Yes,No,,no
+CUST0063,Jeffrey Hogan,MALE,1,YES,No,40,One year,,Mailed check,,,No,No,No,Yes,Yes,,,Yes,,
+CUST0064,Betty Martin,,1,,,19,One year,Yes,Credit card (automatic),94.70,614.76,No,no phone service,,No,Yes,Yes,,,No,Yes
+CUST0065,Christian Guzman,Male,1,,No,27,One year,NO,Bank Transfer,twenty,,No,,NO INTERNET,No,No,No,,No,Yes,no
+CUST0066,Angela Kennedy,MALE,0,NO,Yes,12,Month-to-month,Yes,Bank Transfer,,762.83,No,No,,No,,No,No,,Yes,
+CUST0067,Megan Howell,Male,0,NO,,20,month to month,Yes,Bank Transfer,twenty,"1,000.50",No,no phone service,No,No,Yes,,No,Yes,Yes,
+CUST0068,Ryan Bailey,female,1,No,,32,month to month,No,Electronic Check,,1211.69,,,,,No,,Yes,,Yes,
+CUST0069,Adam Wilkinson,,0,Yes,,18,One year,NO,,,,Yes,No,DSL,Yes,,Yes,Yes,,,Yes
+CUST0070,Gregory Hubbard,MALE,1,Yes,No,32,,YES,Electronic Check,twenty,,No,,No,Yes,No,Yes,No,Yes,Yes,
+CUST0071,Amy Dyer,MALE,0,YES,,57,Two Year,NO,Mailed check,,"1,000.50",No,no phone service,NO INTERNET,,Yes,Yes,,Yes,Yes,yes
+CUST0072,Michael Ramirez,,1,No,,22,month to month,Yes,Mailed check,78.95,,,no phone service,Fiber optic,Yes,Yes,No,,,,yes
+CUST0073,Andrew Davis,Male,1,No,No,47,Month-to-month,NO,,,,Yes,No,No,,,No,Yes,,No,Yes
+CUST0074,Miss Andrea Jones,Male,1,No,No,12,One year,,Credit card (automatic),44.59,"1,000.50",Yes,Yes,No,,Yes,,No,No,,no
+CUST0075,Kevin Williamson,MALE,0,YES,Yes,15,Month-to-month,YES,Bank Transfer,87.80,"1,000.50",,no phone service,,,Yes,Yes,,No,No,No
+CUST0076,Samuel Clark,FEMALE,0,YES,,52,Month-to-month,YES,Credit card (automatic),twenty,"1,000.50",No,No,No,,,,,Yes,Yes,yes
+CUST0077,Sandra Sanchez,Male,0,NO,No,65,Month-to-month,YES,Electronic Check,twenty,,No,No,Fiber optic,No,,No,No,,No,no
+CUST0078,Dominique Shaw,,1,,,6,One year,NO,Bank Transfer,twenty,131.74,No,No,NO INTERNET,Yes,No,Yes,No,No,,
+CUST0079,Edward Warner,FEMALE,0,No,No,3,month to month,NO,Mailed check,,109.90,,No,NO INTERNET,Yes,Yes,No,No,,Yes,Yes
+CUST0080,Kelsey Smith,FEMALE,0,YES,,30,,Yes,Bank Transfer,twenty,"1,000.50",No,no phone service,No,,Yes,Yes,Yes,,Yes,No
+CUST0081,Cynthia Salinas,female,1,,Yes,37,month to month,Yes,,100.96,"1,000.50",No,Yes,NO INTERNET,,Yes,Yes,No,No,,No
+CUST0082,Tara Edwards,MALE,0,No,,27,Month-to-month,NO,Electronic Check,,,,no phone service,Fiber optic,No,Yes,No,No,,,No
+CUST0083,Jeffrey Hall,female,0,No,Yes,24,month to month,NO,Electronic Check,twenty,,,no phone service,DSL,,Yes,No,No,Yes,,No
+CUST0084,Brian Carpenter,female,0,Yes,Yes,59,month to month,,,63.77,"1,000.50",Yes,no phone service,,No,No,No,,,No,yes
+CUST0085,Shawn Nelson,Male,1,,,39,,NO,Mailed check,24.49,"1,000.50",No,Yes,,Yes,No,,Yes,No,,
+CUST0086,Carla Olson,FEMALE,1,Yes,No,31,Month-to-month,No,Electronic Check,,,Yes,No,NO INTERNET,No,No,No,,,,No
+CUST0087,Joshua Kelley,MALE,0,,Yes,59,Two Year,No,Bank Transfer,18.35,"1,000.50",No,no phone service,NO INTERNET,No,No,No,Yes,No,,Yes
+CUST0088,Jeremy Mccarthy,female,0,No,No,11,month to month,Yes,Electronic Check,twenty,1057.10,Yes,,No,,No,No,,Yes,,
+CUST0089,Tabitha Johnson,Male,0,,No,10,Two Year,YES,,24.76,,,,,Yes,No,,No,No,No,
+CUST0090,Steven Harris,FEMALE,0,YES,No,52,One year,,Credit card (automatic),,,No,No,No,No,,,No,,No,
+CUST0091,Jonathan Mercer,MALE,1,Yes,No,15,One year,Yes,Mailed check,101.17,,Yes,No,No,No,,,Yes,,No,
+CUST0092,William Gibson,female,0,YES,No,70,Month-to-month,No,Credit card (automatic),,"1,000.50",,No,NO INTERNET,,No,No,No,No,,yes
+CUST0093,Courtney Aguilar,,1,YES,No,45,Month-to-month,No,Credit card (automatic),107.08,"1,000.50",,Yes,DSL,Yes,No,No,No,,,
+CUST0094,Jenna Cox,FEMALE,1,NO,,11,month to month,YES,Mailed check,40.35,,Yes,no phone service,NO INTERNET,Yes,Yes,No,,,,yes
+CUST0095,Robert Marshall,,1,,Yes,61,month to month,NO,,75.68,,No,No,DSL,No,Yes,Yes,No,Yes,No,no
+CUST0096,Scott Rivers,,1,No,,43,month to month,,Electronic Check,twenty,,No,No,No,Yes,Yes,No,,,,Yes
+CUST0097,Stephanie Smith,Male,1,Yes,No,51,month to month,NO,Mailed check,twenty,,Yes,No,,Yes,No,No,Yes,,,Yes
+CUST0098,Renee Krueger,MALE,1,,No,53,,,Bank Transfer,,,,no phone service,,,No,Yes,Yes,Yes,No,
+CUST0099,Mr. Mark Gordon Jr.,FEMALE,0,YES,,16,month to month,No,Credit card (automatic),,1149.43,No,Yes,DSL,Yes,No,Yes,,,,Yes
+CUST0100,John Harris,Male,1,No,No,42,,,,twenty,3259.78,,Yes,NO INTERNET,No,Yes,,,,,yes
+CUST0101,Carol Meza,MALE,0,YES,Yes,5,Month-to-month,No,Credit card (automatic),twenty,,,,No,Yes,No,Yes,No,,Yes,yes
+CUST0102,Craig Boone,Male,0,,,20,Two Year,No,Bank Transfer,,,No,,No,,,No,No,,,
+CUST0103,Kathleen Baker,Male,0,YES,No,54,One year,NO,Electronic Check,26.50,,Yes,,,No,,Yes,No,Yes,,
+CUST0104,Michelle Swanson,Male,0,No,Yes,39,,NO,Electronic Check,51.28,2655.60,Yes,Yes,No,,,No,No,No,,Yes
+CUST0105,Cindy Wilkerson,,1,Yes,Yes,58,One year,YES,,,,Yes,No,NO INTERNET,,No,,Yes,Yes,Yes,Yes
+CUST0106,Daniel Butler,Male,1,NO,No,21,month to month,NO,Credit card (automatic),twenty,"1,000.50",Yes,,,,No,,,,Yes,yes
+CUST0107,Matthew Snyder,FEMALE,0,Yes,No,25,month to month,NO,Mailed check,82.47,1760.21,No,no phone service,NO INTERNET,Yes,Yes,No,Yes,Yes,,yes
+CUST0108,Jill Brown,,1,Yes,,33,month to month,YES,Mailed check,30.00,,,,Fiber optic,Yes,,Yes,No,,,No
+CUST0109,Tiffany Alvarado,female,1,No,,16,Two Year,YES,Credit card (automatic),twenty,"1,000.50",,,No,,No,Yes,Yes,,,yes
+CUST0110,Lindsay Williams,female,1,YES,,67,Month-to-month,,Bank Transfer,twenty,"1,000.50",No,,,Yes,No,,No,Yes,,
+CUST0111,Jennifer Scott,,0,NO,,3,,Yes,Bank Transfer,91.94,,Yes,No,,Yes,,Yes,No,No,Yes,No
+CUST0112,Ricardo Case,,1,,No,62,One year,NO,Credit card (automatic),twenty,6091.09,No,,No,No,Yes,,No,,No,
+CUST0113,Patrick Yang,Male,0,No,,31,,YES,,,"1,000.50",No,Yes,No,,Yes,No,No,No,No,yes
+CUST0114,Brent Washington,female,1,YES,Yes,46,,YES,,69.40,,No,,Fiber optic,,No,,,Yes,No,
+CUST0115,Brent Marshall MD,FEMALE,0,NO,,31,month to month,Yes,Mailed check,59.60,,,Yes,Fiber optic,No,,Yes,Yes,No,,No
+CUST0116,Michael Daniels,,1,YES,,31,Two Year,NO,,twenty,2160.93,No,Yes,,,,,Yes,,Yes,
+CUST0117,Michael Murray,FEMALE,1,No,,38,month to month,Yes,Electronic Check,,,,Yes,,,,,,,,
+CUST0118,Cindy Martin,,1,YES,,38,month to month,Yes,Bank Transfer,twenty,,,,No,Yes,Yes,,No,Yes,No,
+CUST0119,Cynthia Huynh,Male,1,YES,Yes,24,,Yes,,,,Yes,no phone service,Fiber optic,Yes,,Yes,No,,,Yes
+CUST0120,Melanie Curry,MALE,1,YES,No,8,One year,Yes,Bank Transfer,twenty,"1,000.50",Yes,,,,Yes,No,,,No,
+CUST0121,Amy Stone,Male,1,NO,No,8,Two Year,NO,Electronic Check,83.39,"1,000.50",Yes,Yes,,,No,Yes,,,No,
+CUST0122,Michael Pena,female,1,YES,Yes,4,Month-to-month,Yes,Bank Transfer,twenty,,,,NO INTERNET,Yes,No,No,Yes,No,,
+CUST0123,Laura Krause,MALE,0,No,No,4,month to month,YES,Bank Transfer,38.99,281.76,No,No,Fiber optic,No,Yes,Yes,,,,
+CUST0124,Carolyn Velasquez,,0,YES,No,72,,YES,Credit card (automatic),,7051.47,No,No,,Yes,Yes,No,,No,,No
+CUST0125,Brittney Brown,female,1,Yes,Yes,19,Month-to-month,YES,Electronic Check,94.79,"1,000.50",Yes,No,NO INTERNET,,No,Yes,No,No,No,yes
+CUST0126,Benjamin Rivera,MALE,1,No,No,36,Two Year,Yes,Bank Transfer,109.19,"1,000.50",,No,No,Yes,No,No,,,,Yes
+CUST0127,Christina Shelton,Male,1,,,49,month to month,,,68.32,,No,no phone service,No,No,No,,No,No,,yes
+CUST0128,Maria Edwards,MALE,0,NO,No,43,One year,No,Credit card (automatic),twenty,3959.25,Yes,no phone service,DSL,,,,,,,
+CUST0129,Douglas Gross,Male,0,,No,52,,YES,Electronic Check,38.23,1696.81,,,NO INTERNET,No,Yes,Yes,No,,,Yes
+CUST0130,Oscar Gonzalez,,0,NO,Yes,35,Month-to-month,No,Credit card (automatic),70.43,"1,000.50",No,no phone service,,,No,,,,,
+CUST0131,Nicolas Kramer,MALE,0,YES,,40,One year,,Electronic Check,twenty,,Yes,no phone service,DSL,Yes,,Yes,Yes,No,Yes,
+CUST0132,Meredith Smith,,0,,Yes,49,,,Bank Transfer,twenty,,No,no phone service,DSL,No,Yes,No,No,No,Yes,
+CUST0133,Catherine Roberts,female,1,Yes,No,24,Two Year,NO,Electronic Check,27.29,"1,000.50",Yes,No,NO INTERNET,No,,No,,No,,
+CUST0134,Johnathan Parks,MALE,0,Yes,,3,One year,YES,,74.68,,Yes,no phone service,No,Yes,,,Yes,,Yes,yes
+CUST0135,Gabriel Burch,MALE,0,Yes,No,58,Two Year,,Credit card (automatic),,"1,000.50",,Yes,,Yes,,No,No,,,yes
+CUST0136,Kimberly Johnson,FEMALE,0,,,6,One year,NO,Credit card (automatic),,"1,000.50",,,NO INTERNET,Yes,No,,Yes,,No,yes
+CUST0137,Jackie Garcia,FEMALE,1,Yes,,47,,,,115.92,,,,No,Yes,No,No,Yes,No,Yes,
+CUST0138,Jacqueline Harris,Male,1,,,20,month to month,NO,Credit card (automatic),96.37,"1,000.50",,No,NO INTERNET,,,No,No,,,
+CUST0139,Justin Lopez,MALE,1,,,39,Month-to-month,,,twenty,1116.84,,No,NO INTERNET,No,No,,No,No,No,No
+CUST0140,Hannah Reese,,1,YES,No,13,Two Year,No,Electronic Check,27.24,"1,000.50",No,,,,Yes,No,No,No,,
+CUST0141,Kayla White,MALE,1,YES,,26,,No,Credit card (automatic),39.25,,No,no phone service,No,Yes,,Yes,,No,No,yes
+CUST0142,Shelley Hayes,MALE,0,,Yes,20,month to month,No,Credit card (automatic),,623.49,Yes,Yes,NO INTERNET,No,No,,No,,,No
+CUST0143,Cheyenne Anthony,,0,No,Yes,56,One year,Yes,Credit card (automatic),twenty,"1,000.50",,No,NO INTERNET,Yes,No,,Yes,Yes,Yes,yes
+CUST0144,Teresa Phillips,female,0,Yes,,2,Month-to-month,Yes,Electronic Check,,171.56,Yes,No,,No,No,,,,Yes,Yes
+CUST0145,Dennis Collins,Male,1,Yes,Yes,64,Month-to-month,Yes,Mailed check,,2491.59,,No,NO INTERNET,Yes,No,Yes,No,,,No
+CUST0146,Brian Gomez,MALE,1,,,27,Two Year,,Mailed check,twenty,,Yes,,No,No,Yes,,No,No,,No
+CUST0147,Luke Miller,FEMALE,0,Yes,,43,Month-to-month,NO,Mailed check,twenty,3835.15,Yes,No,No,Yes,Yes,Yes,Yes,,Yes,No
+CUST0148,Regina Spencer,FEMALE,1,Yes,,9,month to month,YES,Electronic Check,116.84,859.91,No,no phone service,No,No,No,,No,Yes,No,
+CUST0149,Cynthia Mccullough,FEMALE,1,NO,,12,Month-to-month,,,68.01,,Yes,no phone service,DSL,Yes,Yes,Yes,,Yes,,no
+CUST0150,Sara Jones,,1,YES,,2,One year,Yes,Credit card (automatic),107.97,,No,,DSL,,,No,No,,No,no
+CUST0151,Lacey Rice,,1,NO,,3,Two Year,Yes,Credit card (automatic),,,Yes,no phone service,DSL,No,Yes,,Yes,No,Yes,Yes
+CUST0152,Robert Porter,female,0,,Yes,12,,No,Bank Transfer,,,No,no phone service,,Yes,No,Yes,No,,,yes
+CUST0153,Steven Gardner,FEMALE,1,,No,31,,No,Credit card (automatic),twenty,"1,000.50",,Yes,,Yes,No,,Yes,,,no
+CUST0154,Troy Lang,MALE,0,YES,,43,One year,,,,,,No,No,,No,No,,,Yes,
+CUST0155,Anna Shah,Male,1,No,,25,,Yes,Electronic Check,twenty,"1,000.50",Yes,,NO INTERNET,No,Yes,No,Yes,,,
+CUST0156,Sherri Gates,FEMALE,1,Yes,,44,month to month,Yes,Credit card (automatic),twenty,4046.98,No,Yes,Fiber optic,,No,,Yes,Yes,No,
+CUST0157,Tammy Ruiz,female,0,Yes,No,27,,Yes,,51.66,,,no phone service,NO INTERNET,No,No,Yes,No,Yes,No,yes
+CUST0158,Bryce Smith,FEMALE,0,No,No,51,month to month,,Mailed check,twenty,1217.40,Yes,No,No,,,,,No,No,
+CUST0159,Blake Lewis,MALE,0,,,16,,NO,Electronic Check,twenty,969.84,,,Fiber optic,Yes,No,No,Yes,,Yes,
+CUST0160,Jordan Carlson,MALE,0,NO,No,52,One year,,Bank Transfer,twenty,"1,000.50",No,,,No,Yes,,Yes,,No,yes
+CUST0161,Jorge Hines,female,1,NO,,69,month to month,NO,Bank Transfer,107.44,"1,000.50",Yes,No,Fiber optic,No,No,Yes,Yes,No,,Yes
+CUST0162,Kenneth Atkinson,FEMALE,0,YES,Yes,32,month to month,NO,Credit card (automatic),twenty,,,,NO INTERNET,,No,Yes,,,No,Yes
+CUST0163,Clayton Brooks,,1,No,No,58,Two Year,YES,Bank Transfer,,,Yes,no phone service,Fiber optic,No,Yes,No,Yes,Yes,Yes,
+CUST0164,Curtis Robbins,FEMALE,1,NO,No,5,,,Bank Transfer,53.46,,Yes,No,DSL,No,No,No,No,No,Yes,No
+CUST0165,Ashley Johnson,,0,No,,48,Two Year,NO,Credit card (automatic),,,No,no phone service,,No,No,Yes,,,Yes,
+CUST0166,James Moore,MALE,1,Yes,,54,month to month,,Mailed check,twenty,,No,no phone service,NO INTERNET,,Yes,Yes,No,,,No
+CUST0167,Jane Fowler,female,1,,,2,Two Year,No,Credit card (automatic),twenty,"1,000.50",,No,No,Yes,Yes,Yes,,No,Yes,
+CUST0168,Nathan Smith,MALE,0,NO,Yes,26,One year,YES,Mailed check,twenty,,,Yes,NO INTERNET,No,Yes,Yes,Yes,No,Yes,no
+CUST0169,John Blair,MALE,0,Yes,,41,Month-to-month,NO,Credit card (automatic),89.51,"1,000.50",Yes,Yes,,Yes,Yes,Yes,No,,,Yes
+CUST0170,Brittany Smith,MALE,1,No,,58,Month-to-month,YES,Mailed check,,,Yes,,DSL,,Yes,,,,,no
+CUST0171,Heather Ramsey,female,0,No,,50,One year,NO,Bank Transfer,,"1,000.50",Yes,no phone service,NO INTERNET,Yes,Yes,No,Yes,Yes,,Yes
+CUST0172,Sandy Atkins,female,0,YES,Yes,70,,,Credit card (automatic),twenty,,,,DSL,No,,Yes,No,No,,
+CUST0173,Cathy Holland,female,0,YES,,6,Month-to-month,,Bank Transfer,,,,No,NO INTERNET,Yes,Yes,No,,,,Yes
+CUST0174,Eric Norton,,0,,Yes,16,One year,Yes,Credit card (automatic),,,No,Yes,NO INTERNET,No,Yes,No,Yes,,,
+CUST0175,Brian Wright,Male,0,YES,Yes,38,Month-to-month,No,Credit card (automatic),,"1,000.50",No,,Fiber optic,Yes,No,No,Yes,Yes,Yes,Yes
+CUST0176,Robert Douglas,FEMALE,1,,,66,Month-to-month,Yes,Bank Transfer,twenty,,Yes,,,Yes,,Yes,No,,Yes,
+CUST0177,Kelly Hall,FEMALE,1,Yes,Yes,16,,Yes,Electronic Check,62.11,"1,000.50",No,no phone service,No,,,No,,,,
+CUST0178,Deborah Noble,female,1,No,,47,Month-to-month,Yes,Electronic Check,twenty,,,no phone service,Fiber optic,,No,,No,,,
+CUST0179,Joseph Houston,female,1,No,,56,Month-to-month,NO,Mailed check,119.62,,,,DSL,No,,,No,Yes,Yes,
+CUST0180,Kimberly White,female,1,No,,54,,,Credit card (automatic),twenty,,Yes,No,NO INTERNET,,Yes,Yes,Yes,,,Yes
+CUST0181,Brian Patrick,FEMALE,1,,,51,month to month,NO,Credit card (automatic),twenty,"1,000.50",No,No,DSL,No,,Yes,,,,Yes
+CUST0182,James Small,female,0,YES,Yes,1,Month-to-month,No,Credit card (automatic),,72.23,No,,,Yes,,Yes,,,,No
+CUST0183,Chelsea Jones,FEMALE,0,,,7,month to month,,Bank Transfer,twenty,"1,000.50",Yes,No,Fiber optic,No,,,No,Yes,No,
+CUST0184,Jaime Houston,female,1,YES,No,71,One year,No,Bank Transfer,44.19,1926.52,,Yes,,No,Yes,,Yes,,No,
+CUST0185,Jennifer Martin,female,1,YES,Yes,39,month to month,YES,,63.15,,Yes,Yes,NO INTERNET,No,Yes,,,Yes,No,No
+CUST0186,Kevin Osborn,female,0,No,Yes,10,One year,YES,,43.39,,Yes,no phone service,DSL,,Yes,,No,Yes,Yes,
+CUST0187,Caitlin Davis,FEMALE,1,NO,,16,,NO,Electronic Check,,1041.55,,No,No,Yes,No,Yes,Yes,,Yes,no
+CUST0188,Antonio Miller,MALE,1,No,,1,Month-to-month,No,Bank Transfer,twenty,104.55,,No,No,,Yes,No,No,,No,no
+CUST0189,Francisco Young,Male,0,YES,Yes,26,Two Year,No,Bank Transfer,43.94,,No,,No,Yes,Yes,No,Yes,No,,No
+CUST0190,Jennifer Scott,female,0,No,,11,month to month,NO,Bank Transfer,86.46,1141.18,No,No,,,Yes,,Yes,,,
+CUST0191,Susan Arnold,female,1,No,Yes,33,,NO,,,866.98,No,No,,,Yes,No,No,Yes,,
+CUST0192,George Klein DVM,,0,NO,,35,month to month,NO,Mailed check,81.07,,Yes,,No,,,,,No,Yes,Yes
+CUST0193,Kari Leon,MALE,1,No,Yes,65,month to month,No,,,"1,000.50",Yes,,Fiber optic,No,No,,,,,no
+CUST0194,Barbara Fletcher,female,1,Yes,Yes,31,Month-to-month,YES,Credit card (automatic),,850.87,No,No,No,,,No,Yes,,,Yes
+CUST0195,Mary Alvarez,female,1,,No,71,Two Year,Yes,,61.31,,,No,NO INTERNET,,No,No,,,,Yes
+CUST0196,Robert Cordova,female,1,NO,,66,month to month,YES,Bank Transfer,18.94,,No,Yes,NO INTERNET,,,No,,No,,yes
+CUST0197,Tom Roach,MALE,0,YES,Yes,44,,,Credit card (automatic),twenty,,No,no phone service,,,Yes,,No,,Yes,
+CUST0198,Linda Stephenson,Male,0,YES,,47,Two Year,No,Bank Transfer,,3818.67,No,,,,Yes,Yes,No,,,
+CUST0199,Nicole Cardenas,Male,0,No,Yes,41,,No,Mailed check,66.22,,No,no phone service,NO INTERNET,No,No,No,,,,Yes
+CUST0200,Kevin Hoffman,Male,0,Yes,Yes,33,,No,,58.80,,No,,No,Yes,,Yes,Yes,,,no
+CUST0201,Aaron Reyes,Male,1,,,17,Two Year,,Credit card (automatic),78.33,1663.08,No,no phone service,Fiber optic,Yes,Yes,,Yes,No,,No
+CUST0202,Walter Ali,MALE,0,NO,,71,,YES,Bank Transfer,twenty,,,,,,No,,,,No,yes
+CUST0203,Cynthia Newman,,0,,No,71,Month-to-month,NO,Bank Transfer,,,Yes,,,,Yes,,No,,Yes,Yes
+CUST0204,Marisa Allen,Male,0,YES,Yes,68,Month-to-month,,Electronic Check,twenty,"1,000.50",,Yes,No,No,Yes,No,No,,,No
+CUST0205,David Rodriguez,Male,1,No,Yes,62,Month-to-month,YES,Bank Transfer,,"1,000.50",Yes,No,NO INTERNET,,Yes,,,Yes,,No
+CUST0206,Jerry Parks DVM,,0,No,,40,One year,YES,,twenty,,,Yes,Fiber optic,No,Yes,No,No,No,,no
+CUST0207,William Schneider,female,0,NO,No,54,Month-to-month,No,Credit card (automatic),108.66,,Yes,no phone service,NO INTERNET,Yes,Yes,,Yes,No,Yes,
+CUST0208,Pamela Bowers,MALE,1,No,,12,Two Year,Yes,Electronic Check,twenty,,No,No,,Yes,Yes,Yes,No,No,Yes,no
+CUST0209,Ronnie Grant,female,1,No,Yes,44,month to month,No,Bank Transfer,twenty,"1,000.50",,No,No,,,No,No,,,No
+CUST0210,Rebecca Huff,female,0,,,12,Month-to-month,NO,Bank Transfer,99.86,,No,,NO INTERNET,Yes,No,,,,No,
+CUST0211,Jonathan Hardy,Male,1,No,,71,One year,Yes,Credit card (automatic),118.85,"1,000.50",,,DSL,Yes,Yes,No,Yes,,,
+CUST0212,Kevin Snow,MALE,0,NO,,36,Month-to-month,NO,Electronic Check,,,No,No,DSL,No,No,,,No,,Yes
+CUST0213,Laura Ford,female,1,,,28,,No,Bank Transfer,twenty,,No,no phone service,Fiber optic,Yes,,No,,Yes,No,
+CUST0214,Haley Calderon,FEMALE,1,YES,No,7,month to month,Yes,Mailed check,,448.02,,No,NO INTERNET,Yes,Yes,No,No,,No,Yes
+CUST0215,Carolyn Peterson,female,1,NO,,32,,,Bank Transfer,,,,no phone service,,Yes,Yes,No,No,,,
+CUST0216,Jennifer Williams,female,0,,Yes,17,month to month,Yes,Credit card (automatic),twenty,,Yes,no phone service,NO INTERNET,No,Yes,No,,,,Yes
+CUST0217,Miss Donna Jones,Male,0,YES,,24,month to month,,,twenty,,,,No,No,Yes,Yes,No,,No,
+CUST0218,Joan Hayes,female,1,No,,21,month to month,No,,twenty,,Yes,,,No,No,No,No,,No,Yes
+CUST0219,Patrick Russell,,1,Yes,,51,One year,No,Electronic Check,96.47,6003.73,Yes,No,No,No,,,,Yes,No,no
+CUST0220,Troy Sanders,MALE,1,YES,No,36,month to month,No,Electronic Check,twenty,990.14,No,no phone service,Fiber optic,Yes,Yes,Yes,Yes,No,No,
+CUST0221,Gary Wells,FEMALE,0,,Yes,65,One year,NO,Credit card (automatic),twenty,,No,no phone service,NO INTERNET,No,Yes,Yes,,,No,yes
+CUST0222,Melody Butler,Male,0,,Yes,32,,NO,Mailed check,112.84,2488.76,Yes,No,NO INTERNET,Yes,,Yes,No,,No,
+CUST0223,Sharon Ruiz,female,0,NO,No,8,Month-to-month,NO,Bank Transfer,,"1,000.50",Yes,No,NO INTERNET,Yes,,Yes,,,,No
+CUST0224,Ethan Combs,FEMALE,1,,No,65,Two Year,No,,65.01,"1,000.50",Yes,No,,No,No,Yes,Yes,Yes,Yes,No
+CUST0225,Molly Hunter,FEMALE,1,Yes,No,31,,NO,,twenty,,No,No,No,No,,No,,,Yes,yes
+CUST0226,Tricia Williams,FEMALE,1,No,Yes,38,One year,No,,92.16,,No,no phone service,NO INTERNET,No,,No,No,,Yes,no
+CUST0227,Michael Lewis,,0,,Yes,48,,YES,Bank Transfer,,"1,000.50",Yes,No,NO INTERNET,Yes,No,No,,No,,yes
+CUST0228,Diane Dixon,female,0,Yes,Yes,62,Two Year,YES,Mailed check,52.93,"1,000.50",No,,,,No,No,Yes,No,Yes,No
+CUST0229,Alexis Warner,FEMALE,0,NO,No,37,Two Year,No,Credit card (automatic),twenty,,No,Yes,DSL,No,,Yes,,,,No
+CUST0230,Jason Berg,female,0,NO,,50,Month-to-month,NO,Bank Transfer,twenty,,Yes,,Fiber optic,No,Yes,No,Yes,Yes,No,No
+CUST0231,Andrew Holmes,,1,,,45,Month-to-month,No,Credit card (automatic),,,Yes,no phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,No
+CUST0232,Tracy Bryant,FEMALE,1,NO,No,4,Month-to-month,,Electronic Check,,,,no phone service,DSL,Yes,,Yes,Yes,No,,yes
+CUST0233,Daniel Morgan,Male,1,No,No,48,One year,No,Mailed check,twenty,,,Yes,No,No,,Yes,No,,Yes,Yes
+CUST0234,Dawn Cohen,Male,0,NO,Yes,54,,No,,,"1,000.50",No,no phone service,Fiber optic,Yes,No,No,,,,yes
+CUST0235,Heidi Kirk,FEMALE,1,,No,33,month to month,,,117.80,,Yes,no phone service,No,Yes,No,No,No,,No,Yes
+CUST0236,Melody Willis,FEMALE,0,YES,,35,Month-to-month,,Credit card (automatic),118.03,3739.47,Yes,No,NO INTERNET,Yes,Yes,,,,Yes,
+CUST0237,Bethany Ward,Male,1,,,51,Month-to-month,NO,Credit card (automatic),,1631.33,No,No,DSL,Yes,,Yes,,No,,Yes
+CUST0238,Ryan Morris,,0,YES,,54,Two Year,YES,Electronic Check,68.94,,No,no phone service,Fiber optic,No,No,,,No,,no
+CUST0239,Melanie Trevino,female,0,,,36,One year,No,Mailed check,twenty,,No,No,DSL,,No,,,Yes,,
+CUST0240,Annette White,female,1,YES,,20,One year,No,Electronic Check,twenty,,Yes,No,,,,Yes,No,Yes,No,Yes
+CUST0241,Douglas Wallace,female,1,YES,,61,One year,NO,Mailed check,,4466.89,No,,DSL,No,Yes,Yes,,,,Yes
+CUST0242,Cynthia Smith,MALE,1,YES,No,41,One year,No,Mailed check,,,Yes,No,NO INTERNET,Yes,No,No,No,,No,no
+CUST0243,Nicole Lowery,female,1,Yes,,45,One year,NO,Electronic Check,71.86,1824.19,,,NO INTERNET,,Yes,,Yes,Yes,,No
+CUST0244,Melissa Hall,Male,1,,No,63,,No,Bank Transfer,31.82,,,no phone service,NO INTERNET,,,,Yes,Yes,Yes,
+CUST0245,Jeffrey Robertson,MALE,1,,No,46,month to month,No,Credit card (automatic),54.87,,No,No,,No,Yes,Yes,Yes,,,No
+CUST0246,Lisa Alexander,,1,YES,No,16,,NO,Mailed check,72.37,1152.06,No,Yes,DSL,,Yes,No,No,,,no
+CUST0247,Veronica Weaver,Male,0,Yes,,28,Two Year,,Credit card (automatic),,,Yes,no phone service,DSL,,Yes,No,Yes,No,,no
+CUST0248,Gregory Williams,FEMALE,1,,,53,,No,,twenty,6087.23,No,Yes,Fiber optic,,Yes,No,,,Yes,
+CUST0249,Brian Mcclure,female,1,No,,63,,Yes,Electronic Check,twenty,"1,000.50",No,no phone service,Fiber optic,No,Yes,No,,No,No,yes
+CUST0250,Miranda Lopez,MALE,0,No,Yes,2,,YES,Credit card (automatic),117.49,"1,000.50",,no phone service,,Yes,Yes,Yes,No,Yes,,
+CUST0251,James Brown,Male,1,Yes,Yes,65,month to month,,,twenty,1259.02,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,,Yes,
+CUST0252,Mr. John Bolton,female,0,NO,No,20,month to month,No,Credit card (automatic),,1539.28,No,No,DSL,No,Yes,,,,,yes
+CUST0253,Keith Dunn,MALE,0,NO,,13,month to month,NO,Electronic Check,69.58,802.91,No,Yes,Fiber optic,Yes,,,Yes,,,yes
+CUST0254,Joshua Roberson,FEMALE,0,,Yes,13,One year,,Electronic Check,twenty,"1,000.50",No,,NO INTERNET,No,,,No,Yes,,no
+CUST0255,Kelly Bishop,,0,Yes,,48,One year,,Electronic Check,,"1,000.50",Yes,,Fiber optic,No,Yes,,,,,
+CUST0256,Matthew Wright,FEMALE,0,Yes,,43,,,Bank Transfer,,"1,000.50",No,,DSL,Yes,Yes,,Yes,,Yes,yes
+CUST0257,Gabriel Jackson,female,0,Yes,,21,One year,YES,Credit card (automatic),24.28,"1,000.50",No,no phone service,DSL,,Yes,,,No,,Yes
+CUST0258,Lindsey Duncan,,0,YES,,70,Month-to-month,No,Credit card (automatic),46.24,5093.70,Yes,Yes,NO INTERNET,Yes,No,No,No,Yes,,yes
+CUST0259,John Randolph,,0,Yes,Yes,12,One year,NO,,twenty,,Yes,No,DSL,,No,,Yes,,Yes,yes
+CUST0260,Melanie Francis,MALE,1,No,,38,,NO,Electronic Check,twenty,"1,000.50",Yes,No,,Yes,No,Yes,Yes,No,No,
+CUST0261,Amanda Park,MALE,0,,,2,Month-to-month,NO,Credit card (automatic),,,,no phone service,DSL,Yes,Yes,,Yes,No,,No
+CUST0262,Katrina Barnes,Male,1,Yes,Yes,29,Month-to-month,,Bank Transfer,twenty,,No,No,NO INTERNET,,Yes,,No,,Yes,Yes
+CUST0263,Andrea Newman,female,1,NO,,22,,YES,,twenty,"1,000.50",,no phone service,,Yes,No,,No,Yes,,
+CUST0264,Emily Weaver,female,0,YES,No,6,month to month,Yes,Credit card (automatic),21.38,"1,000.50",,No,No,,,No,No,Yes,,
+CUST0265,Andrew Powers,female,1,NO,Yes,24,Two Year,No,Bank Transfer,twenty,,,Yes,DSL,Yes,No,,,No,,no
+CUST0266,Charlotte Padilla,Male,0,NO,No,44,Month-to-month,YES,Bank Transfer,,"1,000.50",No,Yes,Fiber optic,No,No,No,,,No,No
+CUST0267,Heidi Taylor,,1,No,,44,,YES,Mailed check,102.84,,No,no phone service,Fiber optic,,Yes,No,,,Yes,
+CUST0268,Walter Holland,Male,0,YES,No,23,Two Year,Yes,,twenty,,,No,NO INTERNET,,No,No,,,No,
+CUST0269,William Nguyen DVM,female,0,YES,No,69,Two Year,,Bank Transfer,,,,no phone service,NO INTERNET,Yes,,,,No,,Yes
+CUST0270,Crystal Brennan,MALE,0,Yes,Yes,16,,No,Mailed check,,1543.01,,,DSL,,No,Yes,No,Yes,,
+CUST0271,Ricardo Branch,MALE,1,NO,,14,,No,Credit card (automatic),,"1,000.50",Yes,No,DSL,Yes,No,No,No,Yes,No,
+CUST0272,Veronica Cole,MALE,0,No,Yes,13,month to month,Yes,Electronic Check,twenty,,,Yes,DSL,Yes,Yes,,No,,No,
+CUST0273,Patrick Hunter,,1,NO,No,42,Two Year,Yes,Mailed check,,,No,,No,,Yes,Yes,No,,Yes,Yes
+CUST0274,Richard Kelly,,1,NO,,35,Month-to-month,YES,Mailed check,26.02,,,no phone service,Fiber optic,No,No,,No,No,No,No
+CUST0275,Caleb Olson,FEMALE,1,Yes,,3,Two Year,NO,Electronic Check,,,No,no phone service,Fiber optic,No,No,No,Yes,,Yes,yes
+CUST0276,Cody Gould,FEMALE,1,NO,,7,Month-to-month,No,Mailed check,114.06,,No,no phone service,No,,,No,No,Yes,No,
+CUST0277,Aaron Russell,Male,1,Yes,,16,,Yes,Mailed check,twenty,,No,No,,Yes,Yes,,,,,
+CUST0278,Timothy Hatfield,MALE,1,No,Yes,7,Two Year,,Bank Transfer,,"1,000.50",Yes,,DSL,Yes,Yes,,No,,Yes,
+CUST0279,Cassandra Cobb,MALE,1,NO,,1,,Yes,Credit card (automatic),twenty,,,no phone service,DSL,No,No,,,,,No
+CUST0280,Renee Hess,Male,1,Yes,,1,One year,NO,,,,,,NO INTERNET,,,Yes,Yes,No,Yes,No
+CUST0281,Harry Francis,,1,,No,8,month to month,No,,78.51,,No,,NO INTERNET,,Yes,,,No,,
+CUST0282,Sara Robertson,MALE,1,Yes,Yes,62,One year,NO,,twenty,"1,000.50",,No,NO INTERNET,,No,Yes,,,,
+CUST0283,Jennifer Smith,Male,0,YES,Yes,45,,,Credit card (automatic),28.18,,,Yes,No,Yes,,,No,,Yes,No
+CUST0284,Miss Erica Walker,,0,YES,Yes,16,month to month,,Mailed check,twenty,,Yes,No,Fiber optic,No,Yes,No,Yes,,Yes,No
+CUST0285,Vanessa Adams,,0,Yes,,16,One year,No,Credit card (automatic),,"1,000.50",,no phone service,,No,,,No,,Yes,No
+CUST0286,Guy Underwood,FEMALE,1,No,No,4,One year,,Credit card (automatic),100.59,,,No,No,,Yes,,,Yes,No,
+CUST0287,James Young,FEMALE,1,,Yes,46,,Yes,Electronic Check,44.73,"1,000.50",Yes,Yes,NO INTERNET,,Yes,Yes,,Yes,,Yes
+CUST0288,Mark Johnson,Male,1,No,Yes,45,Month-to-month,No,Mailed check,,,No,Yes,DSL,No,Yes,,Yes,Yes,,
+CUST0289,Angela Scott,,1,,,6,,Yes,Bank Transfer,twenty,691.28,Yes,Yes,DSL,No,No,Yes,,,No,no
+CUST0290,Jacob Carson,MALE,1,YES,Yes,37,month to month,No,,43.42,"1,000.50",No,,No,No,Yes,Yes,Yes,,No,yes
+CUST0291,Daniel Smith,Male,1,YES,Yes,48,Two Year,No,Mailed check,33.55,"1,000.50",No,no phone service,DSL,No,No,Yes,No,,No,No
+CUST0490,Ashley Guerra,female,0,YES,Yes,21,,NO,Mailed check,twenty,,,no phone service,Fiber optic,No,Yes,,,,Yes,
+CUST0292,Cassandra Sosa,MALE,0,YES,,18,One year,Yes,Credit card (automatic),74.58,,,no phone service,No,No,No,Yes,Yes,Yes,No,
+CUST0293,Sara Castaneda,MALE,0,Yes,,14,Two Year,No,Electronic Check,22.51,"1,000.50",,Yes,,No,,Yes,No,,,
+CUST0294,Mark Santiago,Male,1,NO,,14,One year,No,Electronic Check,twenty,"1,000.50",,No,NO INTERNET,,Yes,Yes,No,No,,No
+CUST0295,Jessica Goodwin,,0,No,,9,,Yes,Electronic Check,44.47,,No,No,Fiber optic,Yes,Yes,No,Yes,,No,
+CUST0296,Mary Vaughn,,0,Yes,No,1,Month-to-month,No,Bank Transfer,,,No,,,,No,,No,No,No,No
+CUST0297,Sharon Lowery,FEMALE,1,,,55,month to month,Yes,Credit card (automatic),115.44,,Yes,no phone service,DSL,,Yes,,,,No,no
+CUST0298,Stephanie Walker,MALE,1,YES,No,61,One year,No,Mailed check,,"1,000.50",No,no phone service,Fiber optic,Yes,,No,Yes,,Yes,Yes
+CUST0299,Stephanie Olson,FEMALE,1,NO,No,53,One year,NO,Bank Transfer,twenty,,Yes,no phone service,NO INTERNET,No,,Yes,,No,Yes,
+CUST0300,Misty Hampton,FEMALE,0,Yes,,57,month to month,,Mailed check,twenty,"1,000.50",,No,Fiber optic,No,,Yes,Yes,,No,
+CUST0301,Melissa Wood,female,0,No,No,45,Month-to-month,No,,107.68,,Yes,,No,,Yes,,Yes,,,
+CUST0302,Gregory Harris,FEMALE,1,,No,25,,YES,Credit card (automatic),103.72,,No,no phone service,,No,No,Yes,,Yes,,
+CUST0303,Lisa Farrell,Male,1,YES,No,37,month to month,NO,Electronic Check,,,Yes,Yes,NO INTERNET,,No,No,,No,Yes,
+CUST0304,Ronald Johnson,female,0,NO,,69,month to month,YES,,twenty,"1,000.50",No,No,NO INTERNET,Yes,No,Yes,Yes,,No,no
+CUST0305,Cynthia Clark,,1,YES,,63,One year,NO,Bank Transfer,twenty,3299.25,Yes,Yes,DSL,No,,No,Yes,,No,
+CUST0306,Daniel Price,,0,,No,60,Two Year,,Mailed check,89.49,2882.33,,no phone service,No,,,Yes,No,Yes,No,no
+CUST0307,Pamela Vincent,Male,1,NO,,48,,NO,Bank Transfer,21.97,,Yes,no phone service,,No,Yes,No,Yes,No,Yes,Yes
+CUST0308,Alexa Davis,MALE,0,Yes,,13,One year,Yes,Credit card (automatic),twenty,,No,no phone service,NO INTERNET,No,No,,No,,,Yes
+CUST0309,Jennifer York,Male,1,Yes,,21,One year,NO,Credit card (automatic),twenty,"1,000.50",No,Yes,No,,No,,,No,Yes,yes
+CUST0310,Daniel Rodriguez DVM,MALE,0,,No,38,month to month,No,Credit card (automatic),twenty,,Yes,no phone service,DSL,,Yes,Yes,,Yes,Yes,
+CUST0311,Gavin Baker,Male,1,YES,,60,month to month,NO,Mailed check,,1831.77,,no phone service,NO INTERNET,No,No,No,No,,,Yes
+CUST0312,Philip Hodge,Male,0,No,Yes,44,month to month,,,,"1,000.50",No,no phone service,No,No,No,No,,Yes,,
+CUST0313,Brittany Carr,MALE,0,,,57,Two Year,,Electronic Check,,"1,000.50",,No,NO INTERNET,No,No,Yes,,Yes,,
+CUST0314,Heidi Jenkins,FEMALE,0,,No,21,One year,,Mailed check,88.28,"1,000.50",No,,No,Yes,,No,,Yes,No,
+CUST0315,Scott Potter,FEMALE,0,YES,Yes,59,Month-to-month,No,,114.64,5916.63,,Yes,No,Yes,,No,,,Yes,No
+CUST0316,Roberto Robinson,FEMALE,0,Yes,No,52,One year,,Credit card (automatic),twenty,,No,no phone service,,No,Yes,,No,Yes,No,Yes
+CUST0317,Christian Wilson,MALE,0,,No,32,One year,YES,,25.28,923.42,Yes,Yes,Fiber optic,No,,No,,,No,No
+CUST0318,Joann Smith,MALE,1,No,,55,Two Year,No,Credit card (automatic),38.32,,,Yes,,,Yes,Yes,No,,,No
+CUST0319,James Madden,FEMALE,0,,No,63,Month-to-month,,Mailed check,32.66,,Yes,No,Fiber optic,Yes,No,No,,Yes,Yes,no
+CUST0320,Heather Carey,MALE,0,YES,,47,Two Year,YES,Mailed check,106.85,,Yes,Yes,,Yes,No,Yes,Yes,,No,
+CUST0321,Mrs. Heather Mcguire MD,female,1,,Yes,14,Month-to-month,Yes,Bank Transfer,twenty,,Yes,,NO INTERNET,No,,,No,,,no
+CUST0322,Susan Gilmore,female,1,Yes,,38,One year,Yes,Electronic Check,,"1,000.50",No,no phone service,Fiber optic,No,No,,No,Yes,No,
+CUST0323,Scott Johnson,,0,No,,70,Month-to-month,No,Credit card (automatic),twenty,,Yes,No,No,No,Yes,Yes,No,,No,no
+CUST0324,Brittany Pena,female,0,,,49,One year,YES,Mailed check,,,Yes,No,NO INTERNET,Yes,No,No,No,Yes,No,
+CUST0325,James Contreras,MALE,1,NO,,24,,Yes,,,"1,000.50",,no phone service,NO INTERNET,No,No,Yes,,No,Yes,
+CUST0326,Jacqueline Anderson,Male,0,YES,,29,,YES,,twenty,"1,000.50",No,No,Fiber optic,Yes,No,No,Yes,,Yes,Yes
+CUST0327,Kyle Carroll,FEMALE,1,No,Yes,31,month to month,No,Credit card (automatic),,,No,No,NO INTERNET,Yes,,Yes,,,,No
+CUST0328,Jennifer Robinson,MALE,0,NO,,47,month to month,No,Electronic Check,,1128.86,Yes,Yes,NO INTERNET,No,No,No,No,No,No,No
+CUST0329,Anthony Anderson,Male,1,Yes,,38,Two Year,No,Electronic Check,twenty,1386.21,Yes,no phone service,,No,No,Yes,,No,,Yes
+CUST0330,Marcus Knight,female,1,No,,67,month to month,NO,Credit card (automatic),,"1,000.50",,Yes,,No,,Yes,No,,Yes,No
+CUST0331,Jeffrey Lynch,Male,1,NO,No,7,Month-to-month,YES,,,,No,no phone service,Fiber optic,No,,No,Yes,Yes,Yes,No
+CUST0332,Christian Meyer,female,0,No,No,22,month to month,No,Credit card (automatic),twenty,1071.30,No,,DSL,,No,No,No,No,,yes
+CUST0333,Bobby Williams,Male,0,NO,,36,One year,YES,Credit card (automatic),40.25,,,,Fiber optic,Yes,Yes,Yes,,,Yes,No
+CUST0334,Anthony Sullivan,MALE,1,,Yes,12,,,Mailed check,twenty,"1,000.50",Yes,Yes,No,,,No,No,,Yes,
+CUST0335,Vanessa Ward,,1,Yes,No,53,,,Electronic Check,59.14,,Yes,,DSL,,Yes,Yes,No,No,,No
+CUST0336,Brandon Grant,female,0,No,,4,One year,No,,twenty,"1,000.50",No,No,Fiber optic,Yes,No,,Yes,,Yes,no
+CUST0337,Natasha Holt,Male,1,NO,Yes,50,One year,,,twenty,2465.93,,,NO INTERNET,,No,No,No,Yes,,yes
+CUST0338,Stephanie Martinez,,1,NO,Yes,69,Two Year,,,40.27,,No,Yes,NO INTERNET,No,No,No,Yes,Yes,No,No
+CUST0339,Jonathan Owens,Male,0,NO,Yes,44,Month-to-month,Yes,Mailed check,112.31,2423.02,,No,Fiber optic,,,No,,,,
+CUST0340,Patrick Robinson,MALE,1,NO,Yes,40,,Yes,Mailed check,twenty,2946.75,,Yes,DSL,,,No,,,,No
+CUST0341,Pamela Bartlett,,1,YES,Yes,65,,YES,Electronic Check,twenty,4157.22,No,no phone service,NO INTERNET,No,No,,Yes,Yes,No,
+CUST0342,Lee Taylor,FEMALE,1,Yes,No,62,One year,YES,Bank Transfer,twenty,1449.86,No,Yes,,No,,,Yes,No,No,Yes
+CUST0343,Jennifer Strickland,FEMALE,1,YES,,67,month to month,YES,Electronic Check,,2983.04,No,Yes,Fiber optic,,No,No,No,Yes,Yes,no
+CUST0344,William Hughes,female,1,YES,No,48,One year,NO,Mailed check,,,Yes,Yes,DSL,Yes,,,No,No,,
+CUST0345,Robert Pearson,,0,Yes,Yes,30,,,Electronic Check,twenty,"1,000.50",,,NO INTERNET,No,Yes,Yes,Yes,Yes,Yes,
+CUST0346,Shelley Coleman,MALE,1,YES,No,16,One year,NO,Credit card (automatic),,,Yes,Yes,No,,,Yes,Yes,,,yes
+CUST0347,Carolyn Miller,FEMALE,1,,,3,Month-to-month,NO,Mailed check,twenty,,No,Yes,Fiber optic,No,,,,Yes,,no
+CUST0348,Destiny Carson,,0,Yes,No,4,One year,,Electronic Check,45.21,153.96,,no phone service,NO INTERNET,,No,,No,,,No
+CUST0349,Amber Crane,,0,YES,No,58,month to month,,Credit card (automatic),,,,,DSL,,,,Yes,No,,
+CUST0350,John Wood,MALE,1,YES,,69,Month-to-month,Yes,,twenty,"1,000.50",Yes,no phone service,Fiber optic,No,No,,,,Yes,
+CUST0351,Sharon Kelly,FEMALE,1,Yes,No,4,month to month,,Electronic Check,,,No,No,Fiber optic,Yes,,,,No,Yes,
+CUST0352,Ernest Johnson,female,0,NO,,43,month to month,No,,twenty,1158.46,No,No,Fiber optic,Yes,No,,,No,Yes,
+CUST0353,Thomas Thompson,,0,No,,57,month to month,NO,Credit card (automatic),twenty,5613.35,No,No,NO INTERNET,Yes,No,Yes,,,No,
+CUST0354,Olivia Perez,female,1,No,No,57,Month-to-month,Yes,Electronic Check,,1731.69,Yes,No,DSL,No,,,Yes,,No,No
+CUST0355,Matthew Martin,female,0,NO,Yes,71,Two Year,No,Electronic Check,,,Yes,,No,No,Yes,No,No,,,no
+CUST0356,Jessica Griffin,Male,1,Yes,Yes,30,Month-to-month,No,Electronic Check,,,Yes,no phone service,Fiber optic,Yes,,No,Yes,,No,No
+CUST0357,Ronald West,Male,1,,Yes,61,Two Year,No,,,,Yes,,NO INTERNET,No,,No,,,,
+CUST0358,Jennifer Hall,,1,YES,,48,,YES,Mailed check,101.65,,No,Yes,,Yes,,,Yes,,,no
+CUST0359,Elizabeth Jenkins,female,1,YES,No,65,Two Year,Yes,Electronic Check,twenty,6629.12,,No,No,No,,No,Yes,Yes,No,
+CUST0360,Richard Howe,Male,1,,,4,month to month,,Mailed check,62.67,,No,,NO INTERNET,Yes,,,Yes,Yes,,
+CUST0361,Jacob Johnson,FEMALE,1,YES,,33,One year,NO,Credit card (automatic),,3392.52,No,No,,No,No,No,Yes,No,Yes,No
+CUST0362,Glenn Shaffer,MALE,0,No,,71,month to month,NO,,twenty,,Yes,No,Fiber optic,No,,,Yes,Yes,No,No
+CUST0363,Michael Craig,Male,1,Yes,Yes,0,Month-to-month,No,Mailed check,twenty,0.00,Yes,,No,Yes,No,No,Yes,,Yes,Yes
+CUST0364,Shannon Cunningham,,1,Yes,,40,Month-to-month,,Bank Transfer,58.54,2886.75,Yes,No,,,No,,Yes,Yes,,
+CUST0365,Michael Ayala,,1,NO,,9,month to month,,,62.29,449.16,Yes,,NO INTERNET,No,No,No,,,No,
+CUST0366,Dr. Keith Ayers,female,0,YES,Yes,9,month to month,NO,Bank Transfer,,,Yes,Yes,Fiber optic,,Yes,,Yes,,No,no
+CUST0367,Lacey Bender,FEMALE,0,YES,No,24,Month-to-month,NO,,106.50,"1,000.50",Yes,,DSL,Yes,,,Yes,Yes,,
+CUST0368,Matthew Pennington,MALE,1,,Yes,3,Two Year,No,Mailed check,56.40,63.69,,no phone service,No,Yes,No,No,No,Yes,,no
+CUST0369,Kimberly Weber,Male,1,No,,71,One year,YES,,twenty,,Yes,,DSL,Yes,Yes,No,No,,No,No
+CUST0370,Dylan Cortez,FEMALE,0,No,No,9,Two Year,YES,Bank Transfer,,,,No,,Yes,,No,No,,Yes,Yes
+CUST0371,Scott Mcdaniel,female,1,,Yes,36,Two Year,,Credit card (automatic),84.74,,Yes,Yes,No,,No,No,,,,
+CUST0372,Chelsea Valdez,,0,,Yes,61,Two Year,YES,Credit card (automatic),118.01,,No,No,Fiber optic,Yes,,Yes,,,,Yes
+CUST0373,Daniel Browning,MALE,0,,Yes,52,,Yes,Credit card (automatic),69.64,,Yes,no phone service,No,Yes,No,Yes,Yes,,,no
+CUST0374,Kenneth Walls,MALE,1,No,,18,month to month,No,Mailed check,73.67,,,no phone service,Fiber optic,Yes,,Yes,,,Yes,No
+CUST0375,Kathleen Freeman,Male,0,YES,Yes,26,month to month,YES,Bank Transfer,,,No,,DSL,Yes,No,,Yes,Yes,Yes,
+CUST0376,Wendy Beltran,Male,1,Yes,No,49,One year,No,,24.03,"1,000.50",Yes,no phone service,No,No,Yes,Yes,Yes,,,no
+CUST0377,Nicole Chen,FEMALE,1,Yes,Yes,41,Two Year,NO,,twenty,"1,000.50",Yes,No,Fiber optic,,No,,,,Yes,yes
+CUST0378,Richard Hernandez,,0,NO,,38,One year,,Electronic Check,109.20,"1,000.50",,Yes,No,,Yes,Yes,No,Yes,,
+CUST0379,Angelica Park,Male,1,NO,Yes,50,Two Year,NO,Bank Transfer,85.01,"1,000.50",Yes,No,NO INTERNET,Yes,,,No,,No,no
+CUST0380,John Cooley,FEMALE,1,NO,Yes,32,Month-to-month,NO,Credit card (automatic),,,Yes,no phone service,NO INTERNET,No,No,,Yes,Yes,,No
+CUST0381,Jay Mooney,Male,0,,No,57,One year,YES,Bank Transfer,,,No,,,No,No,No,No,Yes,Yes,yes
+CUST0382,Heather Jenkins,Male,1,YES,No,60,,Yes,Bank Transfer,114.43,"1,000.50",Yes,,DSL,Yes,Yes,Yes,Yes,,Yes,
+CUST0383,Eric Benjamin,MALE,0,,,56,Two Year,YES,,117.15,2260.58,No,no phone service,DSL,,No,Yes,Yes,No,,No
+CUST0384,Patrick Acevedo,FEMALE,0,No,No,32,,YES,Bank Transfer,58.47,"1,000.50",Yes,no phone service,No,,No,,Yes,,No,
+CUST0385,David Adams,MALE,1,YES,No,69,,YES,Bank Transfer,90.68,4862.42,Yes,Yes,No,,No,,Yes,,Yes,no
+CUST0386,James Wilson,Male,1,YES,,62,Month-to-month,NO,Bank Transfer,,,No,no phone service,,No,,,Yes,No,,
+CUST0387,Amanda Allen,Male,1,No,Yes,32,Month-to-month,YES,Electronic Check,twenty,3099.04,Yes,,DSL,,,Yes,,Yes,No,no
+CUST0388,Maxwell Robinson,MALE,0,YES,,8,Month-to-month,YES,Credit card (automatic),twenty,,No,no phone service,NO INTERNET,No,Yes,No,Yes,Yes,,Yes
+CUST0389,Judith Delgado,female,0,Yes,No,3,month to month,Yes,Mailed check,,,Yes,No,Fiber optic,No,No,Yes,No,,Yes,yes
+CUST0390,Tammy Reeves,,0,,Yes,44,month to month,Yes,Mailed check,47.13,,Yes,No,,Yes,No,,Yes,,,Yes
+CUST0391,Tonya Wilson,Male,0,YES,,8,Month-to-month,Yes,Credit card (automatic),twenty,378.07,No,No,Fiber optic,Yes,,Yes,,No,No,no
+CUST0392,Michelle Cox,female,0,YES,,64,month to month,,Credit card (automatic),twenty,,,no phone service,No,No,,,Yes,,,Yes
+CUST0393,Crystal Alexander,MALE,1,NO,,11,month to month,NO,Bank Transfer,,,,No,No,Yes,Yes,No,,,Yes,yes
+CUST0394,Olivia Robles,,1,YES,No,46,Two Year,Yes,,45.23,,Yes,,NO INTERNET,Yes,No,No,,Yes,Yes,no
+CUST0395,Eric Martin,MALE,0,No,,3,One year,,Electronic Check,,"1,000.50",,,NO INTERNET,Yes,Yes,No,Yes,No,Yes,no
+CUST0396,Destiny Fernandez,female,1,NO,No,32,Two Year,No,,95.89,,Yes,no phone service,,,No,Yes,No,,,no
+CUST0397,Alice Horn,female,0,NO,Yes,11,Month-to-month,YES,Bank Transfer,104.78,,Yes,no phone service,,No,,No,No,,No,yes
+CUST0398,Christine Wells,,0,NO,No,19,Two Year,,Credit card (automatic),twenty,,,Yes,NO INTERNET,No,No,No,No,,No,Yes
+CUST0399,Fred Harding,FEMALE,1,YES,No,8,month to month,,Electronic Check,86.05,,No,,No,,,,,,Yes,yes
+CUST0400,Lauren Cruz,female,1,Yes,,31,Two Year,No,,24.24,"1,000.50",No,Yes,No,,No,Yes,Yes,Yes,No,yes
+CUST0401,Samantha Morris,MALE,1,Yes,,52,month to month,YES,Electronic Check,twenty,,,No,DSL,,No,Yes,No,Yes,No,
+CUST0402,Joanna Doyle,Male,0,Yes,Yes,0,Two Year,Yes,,twenty,,Yes,no phone service,No,Yes,,Yes,,,Yes,Yes
+CUST0403,Kimberly Johnson,,1,NO,,13,Month-to-month,YES,Mailed check,twenty,"1,000.50",Yes,,No,Yes,,No,,,No,Yes
+CUST0404,Anna Butler,FEMALE,0,No,,48,,Yes,,twenty,,,Yes,Fiber optic,,Yes,,Yes,,No,yes
+CUST0405,Alicia Harris,female,0,No,,25,month to month,No,Bank Transfer,twenty,"1,000.50",No,,,Yes,Yes,,No,Yes,No,no
+CUST0406,Eileen Rangel,,1,NO,Yes,17,month to month,No,Credit card (automatic),63.04,,Yes,Yes,Fiber optic,,Yes,No,No,,,
+CUST0407,Kristin Moss,female,1,YES,No,66,,NO,Mailed check,twenty,2601.63,No,Yes,,,,No,No,No,Yes,
+CUST0408,Deanna Gross,FEMALE,0,Yes,,33,Month-to-month,Yes,Electronic Check,,3707.33,Yes,No,DSL,Yes,No,,Yes,,No,No
+CUST0409,Dorothy Thompson,female,1,YES,,54,Month-to-month,No,Credit card (automatic),,6358.77,No,No,No,,,No,,No,,No
+CUST0410,Steven Wilson DVM,Male,0,No,No,29,Two Year,YES,,43.93,,,no phone service,NO INTERNET,,,Yes,Yes,,No,No
+CUST0411,Joseph Mendez,MALE,0,No,,6,Month-to-month,NO,Electronic Check,twenty,,No,Yes,,No,Yes,Yes,No,,No,No
+CUST0412,Michael Delgado,MALE,1,No,,69,Month-to-month,YES,Credit card (automatic),100.37,"1,000.50",,Yes,No,Yes,Yes,No,,,,
+CUST0413,Claudia Knight,MALE,0,Yes,,58,,,Electronic Check,118.93,,,no phone service,Fiber optic,No,No,Yes,No,,No,
+CUST0414,Carrie Cunningham,MALE,0,No,,27,One year,,Bank Transfer,46.17,,,Yes,NO INTERNET,Yes,No,Yes,No,,Yes,
+CUST0415,Jessica Salazar,Male,1,No,,43,One year,NO,,twenty,2147.29,,,DSL,,,,,No,,No
+CUST0416,Zachary Weiss,FEMALE,1,No,,68,,YES,Credit card (automatic),45.19,,Yes,No,Fiber optic,No,No,No,,Yes,,
+CUST0417,Larry Randolph,,0,,,39,,Yes,Electronic Check,,"1,000.50",No,no phone service,,No,,,,,No,
+CUST0418,Bradley Lopez,female,1,No,,41,One year,No,Bank Transfer,twenty,4216.82,Yes,No,DSL,,,,Yes,,Yes,yes
+CUST0419,Marcus Mcdowell,Male,1,YES,Yes,65,,,Mailed check,twenty,6443.85,,Yes,No,Yes,Yes,Yes,Yes,,,No
+CUST0420,James Beltran,female,0,No,No,28,,YES,Electronic Check,twenty,"1,000.50",No,No,,No,Yes,Yes,Yes,No,No,
+CUST0421,Darin Day,,0,NO,,2,Month-to-month,YES,Bank Transfer,67.27,"1,000.50",No,No,DSL,,No,No,Yes,,Yes,No
+CUST0422,Lisa Carter,female,1,Yes,Yes,23,Two Year,,,23.21,505.42,No,no phone service,Fiber optic,No,No,No,,No,,Yes
+CUST0423,Terry Anderson,,1,NO,,61,,NO,Mailed check,twenty,,Yes,no phone service,NO INTERNET,,No,Yes,No,No,,no
+CUST0424,Thomas Lawson,,1,Yes,,21,,NO,Electronic Check,,,,no phone service,Fiber optic,Yes,Yes,,,,,
+CUST0425,Rebecca Lozano,Male,1,NO,No,9,Month-to-month,,Credit card (automatic),twenty,,No,No,Fiber optic,Yes,No,Yes,Yes,Yes,No,No
+CUST0426,Stephanie Lopez,FEMALE,0,,,57,Two Year,,Mailed check,65.41,2883.14,Yes,,DSL,No,,Yes,,No,,yes
+CUST0427,Jessica Gibson,FEMALE,0,YES,Yes,33,month to month,YES,,twenty,,,No,NO INTERNET,No,,Yes,Yes,,,No
+CUST0428,Elizabeth Warren,MALE,0,Yes,Yes,35,Month-to-month,Yes,Credit card (automatic),,1558.71,,,NO INTERNET,Yes,Yes,No,,,,No
+CUST0429,Shannon Shelton,,0,,,9,,Yes,,twenty,,,,No,,No,No,Yes,Yes,No,Yes
+CUST0430,Christina Miller,FEMALE,0,Yes,No,71,,,Credit card (automatic),twenty,,Yes,no phone service,Fiber optic,,Yes,No,,,,
+CUST0431,John Goodman,FEMALE,1,,No,69,month to month,,Bank Transfer,95.78,5701.34,,No,,,No,No,Yes,No,,no
+CUST0432,Matthew Mathis,female,0,Yes,,35,Month-to-month,,Credit card (automatic),64.77,,No,,No,,No,,,,,
+CUST0433,Adrienne Thomas,MALE,0,Yes,,37,,No,,,,Yes,Yes,,,No,No,No,No,No,No
+CUST0434,Suzanne Gordon,FEMALE,0,YES,Yes,65,Month-to-month,YES,,111.39,"1,000.50",No,Yes,,,No,,,,Yes,Yes
+CUST0435,Nina Lopez,female,0,,Yes,15,One year,YES,Bank Transfer,twenty,681.39,Yes,Yes,Fiber optic,No,Yes,Yes,,No,Yes,No
+CUST0436,Joshua Lyons,FEMALE,1,No,,21,,Yes,Credit card (automatic),twenty,1674.21,,No,,No,Yes,,,,Yes,
+CUST0437,Elizabeth Woodard,Male,0,No,No,5,One year,No,Electronic Check,81.80,,Yes,No,NO INTERNET,No,,No,Yes,,,no
+CUST0438,Katrina Thomas,Male,1,NO,,62,One year,NO,Electronic Check,twenty,"1,000.50",,no phone service,,Yes,,No,No,No,,yes
+CUST0439,Gregory Cowan,Male,1,NO,,13,,Yes,Electronic Check,36.43,,,No,NO INTERNET,Yes,No,No,Yes,,,No
+CUST0440,Rachel Miller,MALE,0,No,,60,One year,,,twenty,,No,No,No,,Yes,Yes,No,No,,No
+CUST0441,Pamela Green,Male,0,No,No,36,,No,Mailed check,,2408.93,No,no phone service,,No,,Yes,No,No,No,No
+CUST0442,Joseph Love,FEMALE,0,YES,Yes,14,month to month,YES,,twenty,,Yes,No,NO INTERNET,,,No,Yes,,Yes,
+CUST0443,Douglas Grant,Male,0,NO,,50,One year,YES,Mailed check,21.15,,,No,,Yes,No,,Yes,Yes,,No
+CUST0444,Holly Richmond,Male,0,YES,Yes,25,One year,NO,Bank Transfer,,,No,Yes,NO INTERNET,Yes,,No,Yes,Yes,Yes,yes
+CUST0445,Jennifer Garza,Male,1,YES,Yes,26,month to month,YES,Credit card (automatic),twenty,2810.14,No,,No,No,Yes,,,,Yes,no
+CUST0446,Mark Morales,Male,1,No,No,65,Two Year,,Electronic Check,twenty,"1,000.50",No,no phone service,,Yes,Yes,Yes,Yes,,,
+CUST0447,Richard Chambers Jr.,MALE,0,YES,No,70,,,,107.34,,Yes,,No,,Yes,,Yes,,,
+CUST0448,Kelly Sanchez,MALE,0,,Yes,34,Two Year,Yes,Bank Transfer,,1829.42,Yes,No,NO INTERNET,Yes,Yes,Yes,,No,,
+CUST0449,Veronica Nicholson,Male,0,YES,No,21,,Yes,Bank Transfer,,,Yes,Yes,,,No,,Yes,,,
+CUST0450,Mary Cunningham,female,1,Yes,No,24,,,Mailed check,82.42,,No,no phone service,NO INTERNET,Yes,Yes,No,,Yes,,
+CUST0451,Patrick May,,1,Yes,,35,One year,Yes,Mailed check,,"1,000.50",No,Yes,,Yes,Yes,No,Yes,Yes,,
+CUST0452,Jacqueline Bauer,,1,No,Yes,28,Two Year,,,95.40,,No,,NO INTERNET,No,,No,No,No,No,
+CUST0453,Wesley Rivera,,0,Yes,,20,Two Year,Yes,,,604.37,Yes,,DSL,No,Yes,,No,No,No,no
+CUST0454,Dr. David Stein,,0,,No,31,,Yes,Mailed check,110.62,,Yes,,DSL,Yes,Yes,Yes,,No,,
+CUST0455,Bryan Andersen,female,1,YES,Yes,21,,No,,45.76,,Yes,Yes,NO INTERNET,,,No,Yes,No,,yes
+CUST0456,Bailey Walters,Male,1,NO,,22,One year,Yes,Electronic Check,twenty,,No,no phone service,,Yes,,No,No,,No,
+CUST0457,Susan Freeman,MALE,0,Yes,,49,One year,,Credit card (automatic),twenty,,,No,DSL,No,Yes,,Yes,No,No,
+CUST0458,Thomas Trevino,FEMALE,1,YES,Yes,36,One year,YES,,,"1,000.50",Yes,No,DSL,,Yes,,No,Yes,,no
+CUST0459,Jamie White,,1,,,26,,YES,Electronic Check,,,No,No,No,,No,No,Yes,,No,yes
+CUST0460,Jamie Ford,female,0,No,Yes,60,,,Credit card (automatic),85.02,,No,Yes,No,,,,No,,No,
+CUST0461,Robert Chen,Male,1,,,72,Month-to-month,YES,Credit card (automatic),,"1,000.50",Yes,no phone service,NO INTERNET,,No,Yes,,Yes,No,
+CUST0462,Michael Garcia,female,1,,,43,One year,Yes,Credit card (automatic),,,,,NO INTERNET,Yes,Yes,Yes,No,Yes,No,Yes
+CUST0463,Lisa Baker MD,female,1,Yes,Yes,63,Two Year,No,,,"1,000.50",No,,DSL,,Yes,No,No,,No,No
+CUST0464,Michelle Thompson,MALE,0,Yes,,14,month to month,No,Mailed check,115.51,795.75,,No,No,No,,Yes,,,,
+CUST0465,Paul Larson,Male,1,Yes,Yes,46,One year,Yes,Credit card (automatic),,,,No,Fiber optic,,,,No,,No,
+CUST0466,Nancy Reid,Male,0,,,14,Two Year,YES,Credit card (automatic),twenty,,Yes,,Fiber optic,,No,Yes,Yes,,No,Yes
+CUST0467,Mr. Scott Jones MD,FEMALE,0,No,No,16,One year,NO,,102.91,,No,no phone service,DSL,No,,,Yes,,Yes,No
+CUST0468,Michael Brown,female,0,NO,,61,,NO,Bank Transfer,,6159.46,Yes,Yes,,Yes,No,Yes,No,,Yes,Yes
+CUST0469,Chad Cervantes,Male,1,No,No,17,One year,Yes,Credit card (automatic),twenty,,,no phone service,Fiber optic,No,,Yes,No,No,Yes,
+CUST0470,Samuel Ortiz,Male,1,No,,16,,Yes,Credit card (automatic),twenty,,No,Yes,DSL,No,No,Yes,Yes,No,,
+CUST0471,Heidi Nichols,FEMALE,0,YES,,47,Month-to-month,NO,Electronic Check,30.44,"1,000.50",,,No,No,No,Yes,,Yes,Yes,No
+CUST0472,Breanna Hanna,female,1,,Yes,23,Two Year,Yes,Mailed check,76.65,1806.09,No,Yes,NO INTERNET,Yes,Yes,,,Yes,Yes,Yes
+CUST0473,Phillip Greene,MALE,1,NO,No,43,Month-to-month,YES,Bank Transfer,59.53,"1,000.50",,,DSL,,,Yes,No,,No,no
+CUST0474,Ann Brooks,,1,,,17,Two Year,YES,,,,No,Yes,No,,No,Yes,Yes,No,Yes,Yes
+CUST0475,Lynn Harris,MALE,1,YES,Yes,38,,YES,Bank Transfer,,1262.02,Yes,no phone service,No,,Yes,,,,No,
+CUST0476,Tammy Mayo,,0,YES,No,52,Month-to-month,YES,Electronic Check,twenty,4941.49,,Yes,,Yes,No,,,,No,
+CUST0477,Elizabeth Jones,female,1,YES,,42,,,,,3510.71,,,,,,,,No,,no
+CUST0478,Jacob Mata,MALE,0,No,,42,month to month,,Electronic Check,,2227.61,Yes,no phone service,DSL,No,,No,,No,Yes,
+CUST0479,Keith Mathis,MALE,1,Yes,,19,Two Year,,Mailed check,twenty,,Yes,Yes,,No,No,No,Yes,Yes,No,yes
+CUST0480,Julie Schmidt,FEMALE,1,Yes,,41,One year,Yes,Electronic Check,twenty,"1,000.50",No,No,Fiber optic,,Yes,No,No,No,,yes
+CUST0481,Dr. Christopher Oneal,,1,Yes,,18,month to month,,Mailed check,60.63,788.08,No,No,DSL,,Yes,,No,,Yes,Yes
+CUST0482,Andrew Burton,Male,1,No,,11,One year,NO,,,850.12,Yes,No,Fiber optic,Yes,,,Yes,Yes,,
+CUST0483,James Scott,,1,YES,No,20,,NO,Bank Transfer,,,,,NO INTERNET,Yes,No,,,,,Yes
+CUST0484,Cameron Love,,1,Yes,No,27,One year,NO,Bank Transfer,twenty,,No,No,NO INTERNET,Yes,,No,,No,Yes,
+CUST0485,Denise Clark,female,0,Yes,,51,One year,Yes,,,2611.18,Yes,,No,No,No,No,Yes,,No,No
+CUST0486,Joseph Hall,FEMALE,1,NO,No,53,Two Year,No,Mailed check,twenty,4290.54,No,No,,Yes,,Yes,,Yes,No,yes
+CUST0487,Bailey Yates,FEMALE,0,YES,Yes,63,Month-to-month,Yes,Electronic Check,,1591.20,Yes,Yes,No,No,Yes,Yes,,No,Yes,Yes
+CUST0488,Kelli Boyd,Male,0,Yes,,43,Two Year,,,,,No,,DSL,No,No,No,Yes,Yes,No,no
+CUST0489,Susan Wolfe,Male,0,YES,Yes,36,,NO,,97.22,,,no phone service,Fiber optic,Yes,,No,No,,,
+CUST0491,Julie Martin,,0,YES,Yes,39,month to month,Yes,Bank Transfer,twenty,899.04,,no phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,yes
+CUST0492,Justin Schroeder,MALE,1,YES,Yes,40,month to month,YES,,twenty,,,Yes,Fiber optic,No,,,No,Yes,Yes,
+CUST0493,Paul Trevino,female,1,YES,Yes,12,Month-to-month,NO,Electronic Check,twenty,853.05,Yes,,DSL,,Yes,Yes,,Yes,,
+CUST0494,Jasmine Anthony,,1,Yes,Yes,5,Two Year,No,Electronic Check,112.26,,Yes,Yes,No,,Yes,Yes,No,No,,yes
+CUST0495,James Carr,,1,Yes,Yes,67,Month-to-month,YES,,80.74,,Yes,,DSL,Yes,,No,,No,,no
+CUST0496,Annette Garcia,FEMALE,0,No,,42,month to month,No,Electronic Check,,,Yes,Yes,DSL,,,,No,No,Yes,yes
+CUST0497,Deborah Berger,female,1,No,No,53,month to month,Yes,Electronic Check,98.38,,,,DSL,Yes,No,,No,No,,no
+CUST0498,Savannah Davis,FEMALE,1,YES,,26,month to month,NO,Bank Transfer,64.52,1277.53,,Yes,,,No,,,Yes,Yes,no
+CUST0499,Sara Wilson,female,1,No,,30,Two Year,No,Electronic Check,84.23,,Yes,Yes,,Yes,,,,,,No
+CUST0500,Timothy Peterson,,0,NO,,54,,YES,Bank Transfer,twenty,,,No,,No,,,Yes,Yes,,No
+CUST0501,Mary Smith,,1,,No,72,One year,NO,,twenty,,No,Yes,,Yes,Yes,No,,,,
+CUST0502,Kaitlyn Smith,FEMALE,1,No,,25,Month-to-month,No,Credit card (automatic),99.27,"1,000.50",Yes,,DSL,No,,Yes,Yes,,,Yes
+CUST0503,Samantha Clark,Male,1,NO,,4,Month-to-month,YES,,twenty,244.72,,,Fiber optic,Yes,,Yes,No,Yes,Yes,
+CUST0504,Daniel Griffin,MALE,0,Yes,,23,Month-to-month,,Mailed check,56.94,,No,No,,,No,Yes,No,,Yes,Yes
+CUST0505,Dillon Robinson,Male,0,Yes,,56,Two Year,Yes,Mailed check,,6497.86,Yes,,,Yes,,No,,Yes,,no
+CUST0506,Deborah Garcia,FEMALE,0,Yes,Yes,30,,Yes,Credit card (automatic),twenty,,No,Yes,Fiber optic,,,No,No,Yes,No,Yes
+CUST0507,Jonathan Smith,MALE,1,No,,9,One year,NO,,114.28,"1,000.50",Yes,,No,,No,,,Yes,,No
+CUST0508,Ashley Ramirez,MALE,1,YES,,25,Month-to-month,Yes,Mailed check,twenty,,,No,No,,No,No,Yes,,No,yes
+CUST0509,Rachel Lane,,0,Yes,Yes,15,Month-to-month,NO,Credit card (automatic),,1140.78,,no phone service,NO INTERNET,No,,Yes,Yes,Yes,,No
+CUST0510,Mr. David Christian,FEMALE,0,,Yes,55,,No,Electronic Check,,"1,000.50",Yes,Yes,Fiber optic,,Yes,No,No,,Yes,No
+CUST0511,Anthony Brock,,1,,No,23,One year,NO,Mailed check,,,No,Yes,DSL,,No,Yes,No,Yes,,
+CUST0512,Timothy Larson,,0,NO,Yes,31,One year,NO,Electronic Check,56.64,,,No,,No,No,,No,,Yes,
+CUST0513,Walter Stokes,MALE,1,Yes,,30,Two Year,NO,Credit card (automatic),twenty,1911.81,Yes,No,No,Yes,Yes,No,Yes,,,yes
+CUST0514,Janice Johnson,,1,NO,No,63,One year,YES,Bank Transfer,,,Yes,,Fiber optic,,,,No,,No,
+CUST0515,Sandra Noble,MALE,1,Yes,No,72,,,Mailed check,,,,no phone service,NO INTERNET,,Yes,No,No,,,
+CUST0516,Amanda Williams,FEMALE,0,,,58,Month-to-month,NO,Bank Transfer,84.76,2082.95,No,Yes,NO INTERNET,No,Yes,,No,,Yes,No
+CUST0517,James Mcclure,,1,NO,,27,Month-to-month,,Electronic Check,twenty,,Yes,No,,No,,Yes,,Yes,,yes
+CUST0518,Joshua Marks,Male,0,,,41,,,Electronic Check,twenty,3402.74,No,no phone service,Fiber optic,Yes,No,No,Yes,Yes,No,Yes
+CUST0519,Linda Perry,,0,YES,,22,,No,Bank Transfer,twenty,1927.04,,no phone service,Fiber optic,No,Yes,No,Yes,,,Yes
+CUST0520,William Perez,female,1,,No,3,month to month,NO,Bank Transfer,36.04,,,Yes,,Yes,No,,Yes,,No,
+CUST0521,Jermaine Padilla,FEMALE,1,Yes,,37,Month-to-month,,Bank Transfer,32.39,"1,000.50",,No,No,Yes,Yes,No,,Yes,,yes
+CUST0522,Jessica Moon,Male,1,No,No,0,month to month,Yes,Bank Transfer,,0.00,No,Yes,NO INTERNET,No,Yes,No,No,,No,
+CUST0523,Christie Martinez,,1,NO,Yes,14,month to month,YES,Credit card (automatic),twenty,1432.23,No,Yes,NO INTERNET,No,No,Yes,,Yes,Yes,No
+CUST0524,Alan Ross,FEMALE,0,,No,11,,Yes,Mailed check,,,No,,Fiber optic,No,,,No,No,Yes,
+CUST0525,Kyle Holmes,MALE,1,NO,No,8,Two Year,NO,,102.85,,Yes,,Fiber optic,,No,No,No,,,yes
+CUST0526,Steve Duran,MALE,0,YES,,3,Month-to-month,No,Mailed check,twenty,301.25,,,NO INTERNET,Yes,,No,,,Yes,yes
+CUST0527,Kristen Hill MD,MALE,1,NO,No,50,month to month,NO,,twenty,,Yes,no phone service,No,Yes,No,,Yes,No,No,
+CUST0528,Brandon Garcia,MALE,1,No,No,62,,No,Electronic Check,twenty,"1,000.50",,Yes,,No,,,Yes,No,,No
+CUST0529,Tracy Miller,,0,,,62,Two Year,Yes,Mailed check,,,No,,,,No,No,,,Yes,Yes
+CUST0530,Daniel Hurley,female,0,YES,No,66,Two Year,NO,Credit card (automatic),43.06,,Yes,no phone service,Fiber optic,Yes,Yes,No,,,,
+CUST0531,Jeremy Reed,,1,Yes,,32,Two Year,YES,,twenty,"1,000.50",No,,,Yes,Yes,Yes,,No,Yes,
+CUST0532,Michael Kelley,MALE,0,,No,26,Two Year,No,Mailed check,twenty,1681.31,,no phone service,No,Yes,No,,Yes,No,,no
+CUST0533,James Harris,FEMALE,1,,No,12,month to month,NO,Bank Transfer,twenty,393.67,Yes,Yes,,Yes,,Yes,No,Yes,No,yes
+CUST0534,Andrea Howard,,0,YES,,44,Two Year,No,Electronic Check,twenty,"1,000.50",No,No,NO INTERNET,No,No,Yes,,,No,yes
+CUST0535,Teresa Estrada,MALE,1,NO,No,28,Two Year,Yes,Bank Transfer,18.10,,No,No,No,Yes,No,,Yes,Yes,No,
+CUST0536,Anna Carson,Male,0,No,Yes,31,Month-to-month,No,Credit card (automatic),30.03,,Yes,Yes,Fiber optic,Yes,,No,Yes,,No,yes
+CUST0537,Martin Young,female,0,NO,,22,Two Year,Yes,Bank Transfer,,,,Yes,NO INTERNET,,No,No,Yes,No,,
+CUST0538,Tiffany Santiago,female,0,,,24,One year,YES,,twenty,1216.07,Yes,,Fiber optic,No,No,Yes,,Yes,No,
+CUST0539,Andrew Koch,,0,Yes,No,57,month to month,Yes,,twenty,,,,DSL,No,No,No,,,,No
+CUST0540,Chris Pearson,MALE,0,YES,No,27,Two Year,YES,Credit card (automatic),,,Yes,,NO INTERNET,Yes,No,,No,No,,Yes
+CUST0541,Cody Cox,Male,0,,No,61,month to month,YES,,96.73,,,,No,No,Yes,,No,,,
+CUST0542,James Davis,Male,0,Yes,,69,,No,Credit card (automatic),,1377.78,No,Yes,No,No,Yes,,,No,,Yes
+CUST0543,John Watson,,0,NO,Yes,63,Month-to-month,,,,"1,000.50",,,DSL,Yes,,,,Yes,,
+CUST0544,Joshua Davis,Male,1,No,,57,month to month,Yes,Credit card (automatic),,,,,DSL,No,Yes,No,No,,,no
+CUST0545,Andre Smith,FEMALE,1,YES,,11,,NO,,,,No,no phone service,,,,No,,,,no
+CUST0546,Amanda Moore,female,1,YES,,40,Month-to-month,YES,,twenty,,No,Yes,DSL,Yes,No,No,Yes,No,Yes,no
+CUST0547,Elizabeth Sanders,MALE,1,,,30,Month-to-month,YES,Electronic Check,,"1,000.50",,,No,,No,No,Yes,Yes,No,
+CUST0548,Robyn Strickland,MALE,0,NO,,43,One year,No,Electronic Check,twenty,,No,no phone service,NO INTERNET,Yes,,,Yes,Yes,Yes,yes
+CUST0549,Gabriel Johnston,Male,1,YES,No,8,Month-to-month,No,Electronic Check,twenty,,,Yes,DSL,Yes,No,No,Yes,Yes,,no
+CUST0550,Craig Mcdowell,MALE,1,NO,,50,One year,No,Mailed check,,,,no phone service,Fiber optic,Yes,,No,No,,,Yes
+CUST0551,Margaret West,MALE,0,YES,Yes,50,month to month,No,Credit card (automatic),40.85,5009.37,Yes,no phone service,DSL,Yes,No,,No,,,Yes
+CUST0552,Collin Stephens,,0,YES,,66,Month-to-month,YES,Credit card (automatic),,,Yes,Yes,DSL,No,Yes,Yes,No,No,,Yes
+CUST0553,Donald Barton,FEMALE,0,Yes,,69,One year,NO,Bank Transfer,111.83,"1,000.50",Yes,No,Fiber optic,,Yes,Yes,,,,No
+CUST0554,Rebecca Schneider,FEMALE,0,Yes,,34,month to month,Yes,Bank Transfer,,"1,000.50",No,No,DSL,Yes,No,No,Yes,No,,No
+CUST0555,Kimberly Monroe,MALE,0,YES,,7,One year,,Mailed check,,,,no phone service,,,No,,,,,
+CUST0556,Alexander Moyer,MALE,0,Yes,,45,,,Bank Transfer,109.89,"1,000.50",Yes,,Fiber optic,,No,,,No,,yes
+CUST0557,Christopher Mason,Male,0,No,No,21,month to month,Yes,,twenty,,Yes,no phone service,Fiber optic,Yes,,,,No,No,
+CUST0558,Alyssa Gonzalez,FEMALE,1,,Yes,67,One year,Yes,,,"1,000.50",No,no phone service,Fiber optic,Yes,,,No,Yes,,Yes
+CUST0559,Angela Burke,FEMALE,0,,Yes,5,,Yes,,65.14,,No,No,NO INTERNET,Yes,,Yes,,No,,no
+CUST0560,Taylor Payne,female,1,Yes,Yes,22,,,Electronic Check,,1082.02,Yes,No,No,,Yes,Yes,,,No,yes
+CUST0561,Dylan Alvarado DDS,Male,1,YES,,72,Month-to-month,NO,,,,,,DSL,Yes,No,Yes,Yes,Yes,,
+CUST0562,Margaret White,,0,Yes,Yes,17,,NO,Credit card (automatic),,,,no phone service,Fiber optic,,,,No,Yes,No,No
+CUST0563,Chase Molina,female,0,Yes,Yes,60,,No,Electronic Check,twenty,4455.31,,,NO INTERNET,Yes,No,,Yes,,Yes,yes
+CUST0564,Christopher Reynolds,Male,1,Yes,,53,Month-to-month,NO,Electronic Check,,3107.31,No,no phone service,No,No,,Yes,,,,no
+CUST0565,Caroline Cisneros,FEMALE,1,NO,Yes,41,One year,NO,Mailed check,twenty,1997.44,No,No,No,,Yes,No,No,,,No
+CUST0566,Jerome Hall,female,0,No,Yes,54,One year,YES,Bank Transfer,,4212.71,Yes,no phone service,DSL,,Yes,,,,Yes,Yes
+CUST0567,Michelle Williams,Male,0,YES,,50,month to month,,,,5436.92,No,Yes,Fiber optic,Yes,,,,,,Yes
+CUST0568,Matthew Weiss,,1,No,,7,month to month,No,Mailed check,,592.60,,,,No,No,,No,,No,
+CUST0569,Joseph Taylor,FEMALE,1,Yes,No,38,Two Year,,Mailed check,115.62,2926.33,Yes,,,,No,Yes,,,,Yes
+CUST0570,Summer Smith,FEMALE,1,,,58,One year,YES,,,,No,,NO INTERNET,,Yes,Yes,Yes,Yes,Yes,
+CUST0571,Alexander Smith,,1,No,,56,month to month,,Electronic Check,twenty,,No,Yes,Fiber optic,Yes,,No,Yes,,,yes
+CUST0572,Kenneth Wiggins,Male,1,YES,No,55,One year,YES,Credit card (automatic),,"1,000.50",Yes,Yes,NO INTERNET,,No,,No,,Yes,yes
+CUST0573,Eric Taylor,Male,1,No,,37,,Yes,Mailed check,,"1,000.50",Yes,No,Fiber optic,,,,,,No,
+CUST0574,Joshua Keith MD,,1,,,34,Two Year,YES,Bank Transfer,twenty,1625.20,No,No,NO INTERNET,,,,,No,,
+CUST0575,Jenny Parks,Male,1,NO,,15,month to month,YES,Electronic Check,,,No,No,DSL,No,No,Yes,,Yes,,
+CUST0576,Willie Bennett,female,0,No,,11,Month-to-month,YES,Electronic Check,twenty,,,,DSL,,,Yes,Yes,Yes,No,yes
+CUST0577,Cassandra Miller,female,0,NO,,72,Two Year,,Electronic Check,twenty,,No,,DSL,Yes,,,No,No,,no
+CUST0578,Luis Reyes,,1,,Yes,7,month to month,YES,Mailed check,,"1,000.50",Yes,,,No,Yes,No,Yes,,,
+CUST0579,Jonathan Barrett,MALE,0,Yes,No,33,month to month,No,Mailed check,,,No,No,NO INTERNET,Yes,,Yes,,,,yes
+CUST0580,Teresa Wagner,,0,NO,,12,,,Electronic Check,60.13,"1,000.50",No,Yes,,No,Yes,Yes,Yes,No,Yes,
+CUST0581,Robert Ryan,MALE,0,YES,,5,Two Year,NO,Mailed check,twenty,"1,000.50",,,NO INTERNET,,Yes,,,,,
+CUST0582,Gerald Hawkins,,1,,No,21,One year,No,Bank Transfer,78.56,2280.54,Yes,no phone service,,No,Yes,Yes,Yes,Yes,No,No
+CUST0583,Robert Bean,MALE,1,No,No,10,Month-to-month,No,Bank Transfer,twenty,,Yes,no phone service,Fiber optic,,,,Yes,,No,
+CUST0584,Marc Reyes,,1,No,,28,month to month,NO,Mailed check,twenty,"1,000.50",Yes,no phone service,DSL,,Yes,,,,,yes
+CUST0585,Jason Turner,MALE,1,Yes,Yes,27,month to month,,,69.16,,No,,,Yes,Yes,No,,Yes,No,yes
+CUST0586,Sabrina Brown,,1,Yes,,8,Month-to-month,,,18.49,432.53,No,No,NO INTERNET,No,Yes,Yes,No,,No,
+CUST0587,Rebecca Atkinson,FEMALE,1,,,54,month to month,YES,Credit card (automatic),28.33,"1,000.50",,,NO INTERNET,Yes,No,,Yes,No,,
+CUST0588,Richard Collier,Male,0,Yes,No,58,Month-to-month,No,Mailed check,,1471.91,Yes,No,No,,,No,Yes,,,
+CUST1187,Michael Taylor II,FEMALE,1,NO,No,55,,NO,,29.14,,No,No,Fiber optic,Yes,No,No,Yes,Yes,No,
+CUST0589,Christopher Olsen,female,0,NO,No,52,Month-to-month,NO,Credit card (automatic),,1347.86,,no phone service,Fiber optic,No,,No,No,Yes,Yes,yes
+CUST0590,Maurice Watson,female,1,No,,14,Month-to-month,No,Electronic Check,,"1,000.50",,No,NO INTERNET,Yes,,No,,Yes,,No
+CUST0591,Carol Novak,,1,,,25,Two Year,Yes,,69.65,1758.30,,,NO INTERNET,,No,Yes,,,,
+CUST0592,Michael Morgan,Male,1,,No,2,,,Electronic Check,88.51,155.23,Yes,Yes,Fiber optic,No,No,No,No,No,,No
+CUST0593,Wanda Mayo,MALE,0,YES,,34,Month-to-month,Yes,Bank Transfer,,,Yes,no phone service,No,,Yes,No,,No,Yes,No
+CUST0594,Mr. Jeffrey Mays,FEMALE,0,No,,61,One year,NO,,109.99,,,,DSL,Yes,Yes,,Yes,No,No,No
+CUST0595,Calvin Ochoa,Male,1,No,,14,Two Year,,,95.28,1443.82,Yes,No,No,,,,,,,yes
+CUST0596,Kevin Gonzalez,female,0,,,18,Two Year,,,,"1,000.50",,no phone service,No,Yes,Yes,,No,Yes,,
+CUST0597,Mikayla Jackson,female,1,Yes,,23,month to month,YES,Credit card (automatic),,912.65,Yes,,,Yes,,Yes,No,,,
+CUST0598,Matthew Fowler,,0,YES,No,12,One year,YES,Bank Transfer,,,No,No,NO INTERNET,,,,Yes,,No,yes
+CUST0599,Julie Anderson,female,0,,Yes,65,One year,NO,Credit card (automatic),,,Yes,no phone service,,Yes,No,,,Yes,Yes,Yes
+CUST0600,William Allen,FEMALE,0,NO,,50,Two Year,No,Mailed check,45.46,"1,000.50",Yes,Yes,Fiber optic,No,No,Yes,,,Yes,Yes
+CUST0601,Michael Baldwin,Male,0,YES,,53,Two Year,YES,,51.81,,,No,DSL,No,Yes,No,,,,Yes
+CUST0602,Ashlee Shah,female,0,NO,Yes,59,Two Year,,Credit card (automatic),twenty,,Yes,no phone service,DSL,,,Yes,No,Yes,Yes,Yes
+CUST0603,Tim Johnson,Male,1,YES,,7,month to month,YES,Mailed check,twenty,,Yes,Yes,No,No,No,Yes,,,,Yes
+CUST0604,Morgan Stafford,FEMALE,0,No,,43,Month-to-month,YES,Credit card (automatic),twenty,1711.17,Yes,Yes,NO INTERNET,,No,No,No,Yes,Yes,Yes
+CUST0605,Sydney Brooks,MALE,0,NO,No,40,,YES,,twenty,3872.46,Yes,No,,No,No,No,,,,Yes
+CUST0606,Laura Wolf,,1,Yes,,62,month to month,Yes,Electronic Check,,7313.71,Yes,No,No,No,Yes,,No,Yes,No,yes
+CUST0607,Oscar Torres,female,1,Yes,,3,,Yes,Credit card (automatic),,343.56,,,DSL,Yes,Yes,,No,Yes,,no
+CUST0608,Danny Smith,FEMALE,0,Yes,,71,One year,,,,,Yes,no phone service,NO INTERNET,No,,Yes,Yes,,,
+CUST0609,Kristine Stone,Male,0,Yes,,38,,,Bank Transfer,,3625.77,Yes,no phone service,No,Yes,No,Yes,,,No,Yes
+CUST0610,Angela Flores,female,1,No,,45,One year,NO,Bank Transfer,twenty,"1,000.50",Yes,Yes,No,No,No,,No,,No,Yes
+CUST0611,Tina Alexander,Male,0,No,,71,Month-to-month,No,Electronic Check,60.00,,,,DSL,Yes,Yes,,Yes,,,
+CUST0612,Daniel Edwards,female,0,No,Yes,70,Month-to-month,NO,,,,No,no phone service,DSL,,Yes,,Yes,,,no
+CUST0613,Barbara Snyder,FEMALE,0,YES,No,54,,YES,Electronic Check,,,Yes,no phone service,,No,,,,,,no
+CUST0614,Gwendolyn Best,Male,0,NO,Yes,40,One year,NO,Mailed check,twenty,"1,000.50",,no phone service,Fiber optic,No,,No,Yes,Yes,No,
+CUST0615,Timothy Green,female,0,Yes,No,51,One year,Yes,Bank Transfer,87.59,4368.36,No,Yes,Fiber optic,No,No,,,Yes,Yes,no
+CUST0616,Dr. Christine Brady,female,0,,No,63,One year,,Electronic Check,twenty,"1,000.50",Yes,,,No,No,No,,No,,yes
+CUST0617,John Davis,female,1,Yes,No,48,Two Year,No,,,,Yes,,Fiber optic,No,No,,,,,No
+CUST0618,Barbara King,Male,1,,Yes,11,One year,,Credit card (automatic),78.12,,,No,No,Yes,,,Yes,No,No,Yes
+CUST0619,Chad Campos,female,1,Yes,,36,Two Year,Yes,Electronic Check,24.76,,Yes,No,Fiber optic,No,Yes,,No,No,Yes,No
+CUST0620,Jonathan Knight,female,1,YES,Yes,57,Month-to-month,No,Mailed check,,,Yes,Yes,DSL,,No,,,,,No
+CUST0621,Deborah Ballard,Male,1,YES,No,43,One year,YES,,,"1,000.50",Yes,no phone service,NO INTERNET,No,No,No,No,,,
+CUST0622,Ashley Schultz,FEMALE,0,Yes,Yes,16,One year,,Bank Transfer,twenty,,No,no phone service,NO INTERNET,Yes,No,Yes,Yes,,Yes,
+CUST0623,Jasmine White,,0,Yes,No,35,Two Year,,,55.96,,Yes,no phone service,No,No,,Yes,,Yes,Yes,yes
+CUST0624,Todd Johnson,,0,No,Yes,41,month to month,NO,Credit card (automatic),twenty,"1,000.50",,No,NO INTERNET,,Yes,,,No,,
+CUST0625,Dr. Nicole Burgess DDS,female,0,Yes,,62,,NO,Credit card (automatic),69.77,1762.85,No,Yes,,No,Yes,Yes,No,Yes,Yes,
+CUST0626,Kenneth White,FEMALE,0,YES,Yes,3,Two Year,Yes,Electronic Check,twenty,,No,No,NO INTERNET,,Yes,,No,Yes,Yes,
+CUST0627,Jennifer Hill,Male,0,YES,Yes,56,month to month,,Electronic Check,twenty,,No,Yes,DSL,Yes,No,,,Yes,Yes,
+CUST0628,Valerie Bailey,FEMALE,1,YES,Yes,40,Month-to-month,YES,Bank Transfer,twenty,,,No,DSL,No,Yes,Yes,Yes,Yes,Yes,yes
+CUST0629,Kayla Barton,FEMALE,0,Yes,Yes,70,Month-to-month,No,Mailed check,twenty,"1,000.50",,Yes,Fiber optic,,,,No,,No,No
+CUST0630,Frank Shelton,MALE,1,No,,68,month to month,Yes,Credit card (automatic),110.17,,,No,Fiber optic,No,No,No,,Yes,No,Yes
+CUST0631,James Franco,Male,0,No,No,20,Month-to-month,YES,,82.49,,,Yes,NO INTERNET,,Yes,No,No,Yes,,no
+CUST0632,Whitney Brown,,0,NO,,17,,,Electronic Check,,,Yes,No,No,,,No,,No,,Yes
+CUST0633,Bruce Brown,Male,1,No,,25,,NO,Bank Transfer,,,,,,Yes,Yes,,No,,Yes,yes
+CUST0634,Haley Shepherd,FEMALE,1,NO,Yes,57,,No,Bank Transfer,twenty,,Yes,No,NO INTERNET,Yes,No,Yes,No,No,No,No
+CUST0635,Erika Cooley,MALE,1,NO,,34,Month-to-month,YES,Mailed check,twenty,,,,No,Yes,No,No,,No,Yes,
+CUST0636,Christopher Medina,FEMALE,1,NO,No,63,Two Year,Yes,Electronic Check,twenty,"1,000.50",,Yes,Fiber optic,Yes,Yes,Yes,No,,,
+CUST0637,Sarah Newton,Male,0,,,34,Month-to-month,Yes,Bank Transfer,twenty,,,no phone service,No,,No,,No,No,,no
+CUST0638,Kathleen Bennett,,0,YES,,38,Two Year,No,Bank Transfer,,"1,000.50",,No,DSL,No,Yes,No,,,No,No
+CUST0639,Scott Ruiz,FEMALE,1,Yes,Yes,0,Two Year,No,Credit card (automatic),twenty,,No,no phone service,NO INTERNET,,,,No,,,no
+CUST0640,Alyssa Bush,Male,0,NO,,53,,YES,Mailed check,,6076.75,Yes,,DSL,Yes,Yes,,,No,,no
+CUST0641,Michael Hernandez,female,1,Yes,Yes,15,month to month,No,,,,,no phone service,No,No,Yes,Yes,Yes,Yes,,Yes
+CUST0642,Lisa Wilson,female,1,,Yes,62,,Yes,Mailed check,20.91,6515.06,Yes,,,Yes,,No,No,,No,no
+CUST0643,Jessica Smith,FEMALE,1,YES,Yes,2,Month-to-month,,,60.85,,No,Yes,Fiber optic,No,,Yes,,,,yes
+CUST0644,Joshua Brown,FEMALE,1,,,22,,,Mailed check,twenty,1093.30,No,Yes,NO INTERNET,No,Yes,Yes,Yes,,,no
+CUST0645,Shannon Hooper,MALE,1,NO,Yes,67,One year,YES,Mailed check,28.79,,,No,No,Yes,No,No,Yes,,No,
+CUST0646,Amanda Lewis,Male,0,Yes,Yes,64,One year,NO,,80.27,,No,No,,,No,No,Yes,,Yes,yes
+CUST0647,Stephanie Campbell,FEMALE,0,No,No,16,Month-to-month,NO,Electronic Check,,,Yes,Yes,No,No,,Yes,Yes,,,no
+CUST0648,Gregory Jones,MALE,0,No,No,39,Month-to-month,No,,,3920.61,Yes,No,No,Yes,Yes,No,,Yes,Yes,no
+CUST0649,Jasmine Harris,female,0,NO,,23,Month-to-month,Yes,Bank Transfer,twenty,,Yes,no phone service,Fiber optic,No,No,No,,No,,no
+CUST0650,Debbie Gonzales,,0,,No,40,month to month,YES,Credit card (automatic),twenty,3803.78,,No,NO INTERNET,No,No,Yes,,No,No,
+CUST0651,Christine Lawson,,1,No,No,15,month to month,YES,Bank Transfer,,"1,000.50",Yes,No,DSL,No,,Yes,Yes,No,No,
+CUST0652,Stephanie Johnson,female,0,NO,,58,Month-to-month,,,79.33,4970.89,Yes,,NO INTERNET,No,Yes,Yes,,,Yes,Yes
+CUST0653,Dylan Williams,Male,0,Yes,,24,Two Year,YES,,,"1,000.50",,No,,,No,No,,,Yes,Yes
+CUST0654,Julie Blanchard,FEMALE,0,Yes,,34,month to month,YES,Bank Transfer,94.30,3258.36,,,NO INTERNET,,Yes,No,,Yes,No,
+CUST0655,Melanie Williams,MALE,0,Yes,,5,One year,NO,Bank Transfer,92.96,,,no phone service,Fiber optic,,,No,,Yes,,Yes
+CUST0656,Frank Barber,Male,1,No,,39,Two Year,,,twenty,"1,000.50",No,Yes,DSL,No,,No,,,,Yes
+CUST0657,Gavin Cox,,1,No,,37,Two Year,Yes,Mailed check,,,,Yes,,,No,Yes,Yes,,No,No
+CUST0658,Kathryn Price,Male,0,NO,,53,,Yes,,112.29,4585.95,Yes,Yes,Fiber optic,No,No,No,,,,
+CUST0659,Krystal Williamson,,1,YES,,43,month to month,Yes,,twenty,4748.47,Yes,No,Fiber optic,No,,Yes,,Yes,,yes
+CUST0660,Dominic Smith,female,1,YES,No,26,Two Year,No,Mailed check,twenty,"1,000.50",No,No,,Yes,,Yes,Yes,,,
+CUST0661,Christine Krause,,0,YES,,66,month to month,YES,Mailed check,twenty,,,no phone service,Fiber optic,,,No,No,Yes,,
+CUST0662,Adriana Douglas,,0,YES,Yes,4,month to month,Yes,Bank Transfer,,,Yes,No,Fiber optic,Yes,No,No,No,,No,No
+CUST0663,Christopher Jordan,,0,YES,Yes,41,Two Year,NO,Electronic Check,twenty,,No,Yes,NO INTERNET,No,Yes,Yes,Yes,,,No
+CUST0664,Sarah Martinez,FEMALE,0,YES,,29,Month-to-month,NO,Electronic Check,,"1,000.50",,no phone service,No,,Yes,,Yes,No,,yes
+CUST0665,Suzanne Adams,,0,YES,,37,Two Year,Yes,Credit card (automatic),twenty,,No,Yes,,No,No,Yes,Yes,,Yes,No
+CUST0666,Lee Allen,Male,0,YES,,62,Month-to-month,NO,Bank Transfer,88.48,2569.81,Yes,,DSL,Yes,,No,Yes,No,Yes,no
+CUST0667,Lisa Pugh,MALE,0,No,,72,,NO,Electronic Check,60.39,,,no phone service,,No,Yes,Yes,,Yes,Yes,
+CUST0668,Jennifer Davidson,FEMALE,0,NO,,9,One year,No,Credit card (automatic),twenty,,,No,DSL,No,Yes,,,No,No,no
+CUST0669,Rodney Phillips,FEMALE,1,Yes,,69,One year,NO,Bank Transfer,62.75,,Yes,Yes,Fiber optic,,,No,Yes,No,,
+CUST0670,Micheal Parsons,FEMALE,1,No,Yes,38,Two Year,,Credit card (automatic),twenty,3548.58,Yes,no phone service,DSL,,Yes,No,No,,No,
+CUST0671,Kevin Hancock,FEMALE,0,YES,,26,month to month,No,Electronic Check,35.32,"1,000.50",No,Yes,NO INTERNET,,No,No,,,Yes,
+CUST0672,Jeffrey Farrell,female,0,YES,,46,Two Year,No,Mailed check,62.91,,No,No,NO INTERNET,No,Yes,No,Yes,Yes,,Yes
+CUST0673,David Miller,MALE,0,,Yes,67,Two Year,No,Electronic Check,,7929.14,,no phone service,DSL,No,,,Yes,,,
+CUST0674,Jennifer Waters,,0,YES,No,29,,No,Credit card (automatic),,,Yes,No,DSL,No,No,No,Yes,Yes,No,Yes
+CUST0675,Daniel Torres,Male,1,,,45,,Yes,Bank Transfer,twenty,4378.79,Yes,no phone service,No,,Yes,Yes,,,Yes,yes
+CUST0676,Paige Wright,female,1,NO,Yes,65,Month-to-month,NO,Electronic Check,,,No,Yes,,Yes,Yes,Yes,Yes,No,No,
+CUST0677,Nicole Murphy,female,0,Yes,Yes,38,Month-to-month,,Bank Transfer,twenty,,,,No,,No,Yes,Yes,,,yes
+CUST0678,Melissa Ramsey,MALE,1,YES,,72,One year,Yes,Credit card (automatic),,,No,,,No,No,No,,No,Yes,
+CUST0679,Katelyn Ruiz,MALE,1,,No,50,Two Year,No,Electronic Check,104.21,,No,Yes,,Yes,,No,Yes,,Yes,yes
+CUST0680,Misty Vazquez,,1,Yes,,72,One year,No,Credit card (automatic),114.53,,,no phone service,DSL,Yes,,Yes,,No,,
+CUST0681,Lori Morales,,0,No,,66,month to month,NO,,101.76,,No,Yes,Fiber optic,,Yes,Yes,Yes,Yes,,Yes
+CUST0682,Amy Mitchell,female,1,No,,34,,No,Mailed check,104.48,"1,000.50",,Yes,NO INTERNET,No,,,,Yes,,No
+CUST0683,Nicolas Oliver,Male,0,No,Yes,46,Month-to-month,YES,Bank Transfer,23.44,2017.12,,no phone service,DSL,Yes,No,,Yes,Yes,,
+CUST0684,Lisa Padilla,female,0,Yes,,16,One year,No,Mailed check,,"1,000.50",Yes,No,DSL,No,,,No,Yes,Yes,Yes
+CUST0685,Sheila Johnson MD,MALE,0,No,Yes,55,Month-to-month,NO,,79.08,,Yes,Yes,No,No,Yes,Yes,No,,,No
+CUST0686,Cynthia Russell,female,1,No,No,48,One year,No,Bank Transfer,,,Yes,,NO INTERNET,,No,Yes,,No,Yes,
+CUST0687,Jill Keller,FEMALE,1,No,,58,One year,YES,Credit card (automatic),68.35,,,no phone service,,No,Yes,No,No,No,,yes
+CUST0688,Paul Jones,Male,1,YES,No,5,month to month,Yes,Mailed check,,"1,000.50",,No,No,,,,,,,yes
+CUST0689,Edward Richardson,female,0,,,13,,,Electronic Check,,"1,000.50",,Yes,No,Yes,,Yes,Yes,,,Yes
+CUST0690,Lisa Mitchell,Male,1,NO,,68,Month-to-month,YES,Bank Transfer,,"1,000.50",No,Yes,,No,Yes,Yes,,,,
+CUST0691,Tracy Mueller,MALE,1,YES,Yes,10,Month-to-month,NO,Mailed check,twenty,,No,No,DSL,Yes,,No,Yes,,,yes
+CUST0692,Sarah Fisher,MALE,0,No,,30,,,,51.45,"1,000.50",No,No,,No,No,No,No,,,
+CUST0693,Tracy Jones,Male,1,NO,,28,,YES,Mailed check,,"1,000.50",,,Fiber optic,Yes,No,,No,,,
+CUST0694,Aaron Schneider,female,0,No,Yes,19,Month-to-month,Yes,Mailed check,82.08,446.54,,Yes,,Yes,No,,,,,
+CUST0695,Mr. Andrew Hodge,,0,Yes,,11,One year,Yes,Electronic Check,twenty,562.56,,No,No,No,Yes,No,No,Yes,,No
+CUST0696,Laurie Rodriguez,MALE,0,NO,No,29,,,,twenty,,,,NO INTERNET,,,,,,,no
+CUST0697,Troy Williams,female,1,,No,71,month to month,No,Electronic Check,,,Yes,,DSL,,Yes,,,Yes,,No
+CUST0698,James Bennett,FEMALE,0,YES,Yes,51,month to month,YES,Bank Transfer,,,Yes,no phone service,No,No,No,Yes,No,,,No
+CUST0699,Brenda Burton,FEMALE,0,No,Yes,27,One year,YES,,82.28,2534.22,,no phone service,,No,Yes,No,,,,yes
+CUST0700,Malik Lopez,,1,No,No,18,Two Year,YES,,twenty,,,no phone service,Fiber optic,,Yes,Yes,Yes,No,No,yes
+CUST0701,Randy Gonzalez,FEMALE,1,No,No,38,month to month,YES,Electronic Check,102.06,"1,000.50",Yes,Yes,No,,No,,Yes,,,
+CUST0702,Christine Edwards,,1,,,34,Two Year,Yes,Credit card (automatic),,"1,000.50",No,,,No,Yes,,,No,,
+CUST0703,Anthony Johnson,MALE,0,NO,,65,Month-to-month,,Electronic Check,twenty,4765.72,Yes,Yes,Fiber optic,,No,,No,No,,Yes
+CUST0704,Keith Gonzales,,0,NO,Yes,71,,,Bank Transfer,,"1,000.50",Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes
+CUST0705,Christopher Hernandez,Male,0,Yes,,66,Two Year,YES,Electronic Check,twenty,,,No,No,,No,Yes,No,Yes,Yes,Yes
+CUST0706,Patrick Campos,Male,0,NO,,55,One year,NO,Bank Transfer,twenty,"1,000.50",,,DSL,,Yes,,Yes,Yes,,No
+CUST0707,Christopher Herrera,MALE,0,NO,,48,One year,NO,Credit card (automatic),106.28,4799.81,No,Yes,NO INTERNET,No,No,,Yes,,Yes,
+CUST0708,Jesse Duffy,female,0,Yes,,29,,NO,Bank Transfer,twenty,,Yes,no phone service,NO INTERNET,Yes,,Yes,No,,No,yes
+CUST0709,Yvonne Lozano,,1,No,No,4,Two Year,NO,Electronic Check,27.18,463.07,Yes,No,DSL,,,,No,Yes,No,
+CUST0710,John Lewis,Male,0,NO,No,17,Two Year,No,Bank Transfer,twenty,,No,No,,No,Yes,Yes,,No,No,No
+CUST0711,Anthony Yang,Male,0,YES,No,51,Month-to-month,Yes,Mailed check,twenty,,Yes,Yes,,No,No,Yes,No,,Yes,
+CUST0712,Charles Trevino,MALE,1,NO,,68,month to month,No,Mailed check,twenty,4885.88,,Yes,NO INTERNET,No,Yes,Yes,No,,No,Yes
+CUST0713,David Robinson,,1,YES,,63,Two Year,,Mailed check,twenty,,,No,No,Yes,,No,No,,,
+CUST0714,Bryan Martinez,,1,YES,,60,month to month,Yes,Electronic Check,87.24,6798.05,Yes,,NO INTERNET,No,No,,Yes,Yes,Yes,yes
+CUST0715,Matthew Spence,MALE,0,NO,Yes,70,month to month,No,Bank Transfer,21.59,,,No,NO INTERNET,No,,Yes,Yes,,,Yes
+CUST0716,Albert Martinez,Male,1,Yes,Yes,19,Two Year,,,twenty,,,,NO INTERNET,,Yes,Yes,,,,No
+CUST0717,Courtney Olson,Male,0,YES,Yes,30,One year,NO,Bank Transfer,twenty,,,,NO INTERNET,,No,,,No,Yes,No
+CUST0718,Penny Cortez,FEMALE,1,YES,No,56,Two Year,YES,Electronic Check,twenty,,Yes,,,Yes,,No,Yes,,,no
+CUST0719,Kristin Lee,Male,0,No,Yes,38,Month-to-month,,,,,No,,DSL,,,No,No,No,,Yes
+CUST0720,Christina White,female,0,No,,69,Month-to-month,Yes,Mailed check,,,,No,,,Yes,No,No,,Yes,No
+CUST0721,Kevin Ward,Male,0,,,3,One year,YES,Mailed check,108.37,259.34,Yes,no phone service,Fiber optic,Yes,Yes,No,Yes,Yes,,yes
+CUST0722,Kevin Stewart,Male,1,,Yes,44,Month-to-month,No,Bank Transfer,,"1,000.50",No,no phone service,No,Yes,,No,No,,No,
+CUST0723,Jesse Wilson,MALE,0,NO,,61,month to month,,Electronic Check,twenty,,Yes,no phone service,Fiber optic,Yes,No,Yes,No,,No,
+CUST0724,Jacqueline Heath,FEMALE,1,No,No,51,,No,Electronic Check,twenty,,Yes,No,No,,No,Yes,Yes,,,
+CUST0725,Mark Adams,female,0,,Yes,27,One year,Yes,Mailed check,twenty,,No,No,Fiber optic,Yes,No,Yes,,Yes,No,no
+CUST0726,Elizabeth Harrison,female,0,YES,Yes,33,,NO,Electronic Check,twenty,,No,,DSL,No,No,Yes,Yes,Yes,,
+CUST0727,Ashley Vargas,Male,1,NO,,10,month to month,Yes,Mailed check,,"1,000.50",No,Yes,Fiber optic,,,Yes,,,Yes,No
+CUST0728,Steven Smith,,0,YES,,25,,NO,Mailed check,,,,Yes,,Yes,No,No,No,,Yes,no
+CUST0729,Randall West,,0,,Yes,68,month to month,NO,,91.74,,No,Yes,No,Yes,,,Yes,,,
+CUST0730,Caroline Hernandez,Male,0,,,51,One year,No,,twenty,"1,000.50",,No,NO INTERNET,No,No,No,Yes,Yes,,
+CUST0731,Rebecca Nelson,,0,NO,,9,Two Year,Yes,Bank Transfer,76.36,,,No,Fiber optic,,Yes,,,Yes,Yes,
+CUST0732,Thomas Newman,,0,,Yes,51,One year,YES,,twenty,"1,000.50",,,DSL,Yes,,No,Yes,,Yes,No
+CUST0733,Brenda Hill,MALE,0,,Yes,50,Two Year,No,Mailed check,twenty,2691.31,,no phone service,,No,No,No,No,,,No
+CUST0734,Eric Sanders,female,1,YES,,45,One year,NO,,twenty,,Yes,No,DSL,Yes,Yes,,No,Yes,No,no
+CUST0735,Gregory Wilson,,1,,,50,,Yes,Mailed check,twenty,5996.67,Yes,Yes,NO INTERNET,Yes,,No,Yes,No,,yes
+CUST0736,Ann Melton,FEMALE,1,Yes,No,50,Two Year,Yes,Electronic Check,twenty,"1,000.50",No,no phone service,DSL,Yes,,Yes,No,No,,No
+CUST0737,Frank Evans,female,1,NO,,34,month to month,No,,81.78,,Yes,No,Fiber optic,Yes,No,,,No,,no
+CUST0738,Donald Roberts,MALE,0,NO,,29,One year,NO,Electronic Check,twenty,,,no phone service,DSL,No,Yes,No,,No,,no
+CUST0739,Wendy Lee,female,0,Yes,No,10,,YES,Bank Transfer,55.19,"1,000.50",,No,NO INTERNET,,,No,No,No,No,No
+CUST0740,Laura Patterson,FEMALE,0,Yes,Yes,57,Month-to-month,Yes,Bank Transfer,86.49,,,No,DSL,Yes,,No,No,,Yes,Yes
+CUST0741,Joseph Harris,,1,,Yes,68,Month-to-month,No,Electronic Check,,7673.30,No,no phone service,,Yes,Yes,Yes,Yes,,,No
+CUST0742,Rebecca Lyons,MALE,1,YES,Yes,9,,Yes,Credit card (automatic),44.52,,Yes,,,,Yes,Yes,Yes,,,yes
+CUST0743,Dr. Louis Osborne,,0,NO,Yes,30,Month-to-month,Yes,Credit card (automatic),,,Yes,no phone service,NO INTERNET,,No,,,,Yes,no
+CUST0744,Calvin Hernandez,female,1,Yes,Yes,12,Month-to-month,No,Bank Transfer,28.77,1249.67,Yes,No,,No,No,,Yes,No,Yes,No
+CUST0745,Henry Hamilton,Male,1,YES,Yes,69,,YES,Credit card (automatic),twenty,,Yes,Yes,DSL,,,Yes,,Yes,Yes,No
+CUST0746,Sydney Ramos,MALE,1,YES,Yes,18,Two Year,NO,Mailed check,twenty,,No,No,,Yes,No,No,No,No,,
+CUST0747,Steven Armstrong,MALE,1,Yes,,58,Two Year,NO,,64.14,"1,000.50",,,No,No,Yes,Yes,No,,Yes,no
+CUST0748,Desiree Pitts,Male,1,NO,Yes,22,Month-to-month,YES,Bank Transfer,19.36,,,Yes,No,,,,No,Yes,No,
+CUST0749,Gregory Barr,Male,0,YES,Yes,28,,No,Credit card (automatic),,,,No,Fiber optic,Yes,Yes,No,No,Yes,No,yes
+CUST0750,Jennifer Massey,MALE,0,YES,,46,,YES,Electronic Check,twenty,5189.97,,no phone service,No,,Yes,No,,,,No
+CUST0751,Mark Adams,FEMALE,1,No,,71,One year,YES,Bank Transfer,twenty,"1,000.50",No,Yes,No,Yes,Yes,Yes,Yes,,Yes,
+CUST0752,Mary Martin,female,1,Yes,Yes,31,One year,,Credit card (automatic),,1989.23,Yes,No,NO INTERNET,,Yes,No,No,Yes,No,Yes
+CUST0753,Courtney Frederick,MALE,0,Yes,Yes,28,,Yes,,,,No,No,NO INTERNET,No,Yes,No,,No,,
+CUST0754,Tyler Smith,Male,0,Yes,No,4,,Yes,Bank Transfer,,,No,No,NO INTERNET,Yes,,No,,,No,no
+CUST0755,Chad Young,MALE,1,YES,,57,,,Credit card (automatic),twenty,"1,000.50",No,no phone service,DSL,Yes,No,No,,No,No,no
+CUST0756,Jodi Jefferson,FEMALE,0,NO,Yes,62,Month-to-month,Yes,Mailed check,,,Yes,No,No,No,,No,No,,,
+CUST0757,Timothy Clements,,1,YES,,34,Two Year,YES,,twenty,,No,,DSL,Yes,No,Yes,No,Yes,,Yes
+CUST0758,Janice Clark,,0,,,58,month to month,,Mailed check,63.66,,No,Yes,No,,,,Yes,No,,yes
+CUST0759,Christina Hill,female,1,,,45,One year,,Bank Transfer,,,No,,Fiber optic,Yes,No,Yes,Yes,No,Yes,No
+CUST0760,Crystal Perez,MALE,0,No,,25,One year,,,39.87,,Yes,No,,,Yes,Yes,No,No,,
+CUST0761,Sandra Mendoza,female,1,No,,55,Month-to-month,,Credit card (automatic),twenty,"1,000.50",No,,NO INTERNET,Yes,,Yes,Yes,Yes,No,Yes
+CUST0762,Joe Walsh,FEMALE,1,,,26,Two Year,YES,Mailed check,twenty,,Yes,Yes,NO INTERNET,,Yes,Yes,,No,Yes,no
+CUST0763,Katie Williams,Male,1,YES,,56,One year,YES,Credit card (automatic),,,Yes,,No,,No,Yes,No,,No,
+CUST0764,Stephanie Nichols,Male,1,,,46,month to month,YES,Electronic Check,twenty,4411.09,,,,,,,,Yes,,
+CUST0765,Mary Guerra,,0,No,Yes,69,Two Year,YES,,,"1,000.50",No,No,Fiber optic,Yes,No,Yes,Yes,No,,yes
+CUST0766,Holly Taylor,,0,NO,,30,,NO,Mailed check,68.74,,No,no phone service,NO INTERNET,Yes,Yes,,No,,Yes,yes
+CUST0767,Linda Mcintyre,Male,0,,No,64,One year,YES,Bank Transfer,,,,No,NO INTERNET,,No,No,,Yes,,yes
+CUST0768,Jeffery Rodriguez,Male,1,No,,32,One year,,Mailed check,52.44,2661.75,,,NO INTERNET,No,Yes,Yes,Yes,,,No
+CUST0769,Tiffany Davis,FEMALE,0,No,,46,One year,No,Credit card (automatic),,,Yes,Yes,,Yes,No,,,,Yes,No
+CUST0770,Marcus Robinson,,0,,No,3,Two Year,Yes,Mailed check,56.72,,,no phone service,DSL,,Yes,No,Yes,,,yes
+CUST0771,Hunter Harris,Male,1,Yes,,29,Month-to-month,,Bank Transfer,twenty,,Yes,No,Fiber optic,No,,No,No,Yes,Yes,yes
+CUST0772,Austin Francis,female,1,,,57,,Yes,Mailed check,24.13,,No,Yes,Fiber optic,No,No,,Yes,No,,No
+CUST0773,Carol Long DDS,MALE,0,Yes,No,47,month to month,NO,Electronic Check,,,Yes,Yes,DSL,,No,,No,,,No
+CUST0774,Vanessa Fitzgerald,MALE,1,,,8,Month-to-month,NO,Bank Transfer,68.91,"1,000.50",No,Yes,,,,No,No,Yes,Yes,No
+CUST0775,Gene Velasquez,MALE,0,YES,No,65,Two Year,No,Credit card (automatic),,,No,no phone service,DSL,Yes,Yes,,Yes,Yes,Yes,No
+CUST0776,Timothy Brown,female,1,NO,,48,Month-to-month,NO,Electronic Check,71.45,,,No,Fiber optic,,Yes,No,,Yes,No,no
+CUST0777,Hector Wallace,MALE,1,Yes,No,1,Two Year,,Credit card (automatic),twenty,,,No,No,Yes,,,,Yes,,
+CUST0778,Katrina Hart,,0,No,Yes,65,month to month,,Bank Transfer,35.96,3000.85,Yes,,,,No,,Yes,,,yes
+CUST0779,Casey Ruiz,Male,1,No,Yes,4,month to month,Yes,,,,No,,,,No,Yes,Yes,,Yes,Yes
+CUST0780,Brian Gonzalez,Male,0,Yes,Yes,62,Two Year,,Bank Transfer,,,No,Yes,DSL,No,Yes,,Yes,No,No,
+CUST0781,Christopher Powers,female,1,No,Yes,48,month to month,No,Electronic Check,twenty,"1,000.50",,Yes,No,,Yes,No,,,No,
+CUST0782,John Drake II,,1,No,,65,Two Year,YES,,twenty,,,Yes,NO INTERNET,Yes,No,No,Yes,,Yes,
+CUST0783,Thomas Hernandez,female,0,Yes,Yes,41,month to month,NO,,,1824.14,No,no phone service,Fiber optic,,No,No,Yes,,Yes,No
+CUST0784,Marissa Hogan,female,0,NO,Yes,47,month to month,,,twenty,,No,Yes,Fiber optic,,Yes,No,,Yes,,yes
+CUST0785,Natalie Norman,,1,Yes,Yes,3,Month-to-month,No,Bank Transfer,87.67,302.14,,no phone service,No,Yes,No,No,Yes,,No,
+CUST0786,Deborah Harris,Male,1,YES,Yes,36,Two Year,No,,18.33,,,,No,Yes,Yes,,No,Yes,No,yes
+CUST0787,Shawn Walsh,female,1,YES,No,61,One year,,Electronic Check,,,Yes,no phone service,No,Yes,No,Yes,,No,,yes
+CUST0788,Madison Richards,MALE,1,No,,72,Two Year,NO,,29.12,,,,DSL,,Yes,Yes,,,Yes,
+CUST0789,Megan Frazier,FEMALE,0,,No,23,Two Year,Yes,Bank Transfer,twenty,,No,no phone service,Fiber optic,,No,No,,No,Yes,
+CUST0790,Stacey Brown,FEMALE,1,No,Yes,26,One year,Yes,,,"1,000.50",Yes,No,,No,No,Yes,Yes,,No,
+CUST0791,Michael Harris,,0,No,Yes,56,month to month,YES,Mailed check,,,Yes,No,DSL,No,Yes,No,,No,,yes
+CUST0792,Carla Miller,FEMALE,0,,,26,Month-to-month,YES,Credit card (automatic),28.42,,No,,Fiber optic,,No,No,No,,,
+CUST0793,Ashley Collins,MALE,1,Yes,,64,month to month,YES,Credit card (automatic),21.30,"1,000.50",No,,DSL,,Yes,,Yes,No,Yes,Yes
+CUST0794,Andrew May,,1,Yes,No,17,,YES,Mailed check,72.37,"1,000.50",Yes,No,No,No,Yes,,Yes,,Yes,
+CUST0795,Mr. John Brown,Male,1,,Yes,11,Two Year,NO,Bank Transfer,,,Yes,,Fiber optic,,No,No,,,No,no
+CUST0796,Mckenzie Rodriguez,female,1,,No,27,One year,NO,Electronic Check,,,Yes,Yes,Fiber optic,No,,No,Yes,No,No,
+CUST0797,Corey Roberts,FEMALE,0,YES,,35,,No,Mailed check,116.83,"1,000.50",No,,,Yes,No,No,No,,,No
+CUST0798,Kelly Gaines,MALE,0,YES,No,46,month to month,Yes,Electronic Check,twenty,,,Yes,No,No,No,No,Yes,No,No,
+CUST0799,Samuel Coleman,MALE,0,,Yes,20,One year,YES,Electronic Check,,442.61,,no phone service,No,,No,No,Yes,,No,No
+CUST0800,Lauren Lynch,FEMALE,0,NO,Yes,55,,No,Credit card (automatic),,,Yes,no phone service,NO INTERNET,No,No,Yes,Yes,,Yes,
+CUST0801,Richard Pope,female,0,YES,Yes,59,month to month,Yes,Electronic Check,,,,Yes,No,No,Yes,,,No,Yes,Yes
+CUST0802,Sara Bass,MALE,1,NO,No,13,,Yes,Mailed check,72.77,,No,no phone service,DSL,No,,Yes,No,No,,
+CUST0803,April Steele,FEMALE,1,,,23,One year,NO,Mailed check,64.75,1537.11,,No,DSL,Yes,Yes,,,,,
+CUST0804,Shannon Boyle,,0,,,11,,NO,Bank Transfer,101.14,1226.93,No,no phone service,,,Yes,Yes,,,No,Yes
+CUST0805,Albert Martinez,,1,No,,1,Month-to-month,Yes,,twenty,78.59,No,no phone service,Fiber optic,No,,Yes,,Yes,,
+CUST0806,Curtis Munoz,,1,,Yes,72,One year,Yes,Mailed check,twenty,6942.91,,No,No,,No,No,Yes,Yes,No,No
+CUST0807,Jack Young,Male,0,NO,No,35,,,Mailed check,,,No,no phone service,DSL,Yes,,Yes,No,Yes,,
+CUST0808,Lance Wiley,,0,YES,,37,One year,No,Mailed check,100.02,"1,000.50",,no phone service,NO INTERNET,,Yes,,,,Yes,yes
+CUST0809,Gary Reeves,MALE,0,Yes,,37,One year,,Bank Transfer,82.43,3907.64,,,Fiber optic,Yes,Yes,Yes,,,Yes,No
+CUST0810,Natasha Madden MD,,1,Yes,Yes,37,month to month,No,,,"1,000.50",No,no phone service,NO INTERNET,,Yes,,,No,No,No
+CUST0811,Tina Garcia,FEMALE,1,YES,,20,Two Year,YES,Bank Transfer,,"1,000.50",Yes,no phone service,DSL,Yes,,,No,,,yes
+CUST0812,Monica Fisher,,0,NO,No,58,Two Year,No,Electronic Check,,,,Yes,NO INTERNET,,Yes,,,,,Yes
+CUST0813,Natasha Thompson,MALE,1,Yes,,31,,Yes,Mailed check,twenty,,Yes,,Fiber optic,No,Yes,Yes,,No,No,No
+CUST0814,Chelsea Mills,MALE,0,NO,,51,Month-to-month,,Mailed check,twenty,2306.65,,no phone service,No,,,,No,,,
+CUST0815,Aaron Bishop,FEMALE,1,No,,48,One year,YES,,43.95,3664.23,,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,
+CUST0816,Dillon Duncan II,,1,YES,,27,,,Mailed check,70.48,"1,000.50",Yes,,DSL,Yes,,No,No,No,Yes,
+CUST0817,Anthony Gonzalez,MALE,0,No,,66,Month-to-month,YES,Bank Transfer,50.13,,No,No,NO INTERNET,Yes,,,,No,,yes
+CUST0818,Gregory Evans,female,1,Yes,,39,,YES,Mailed check,68.07,"1,000.50",No,No,Fiber optic,,No,Yes,,Yes,,Yes
+CUST0819,Edward Miles,,1,NO,Yes,38,One year,NO,Electronic Check,twenty,,No,no phone service,Fiber optic,No,Yes,,,,Yes,yes
+CUST0820,Marissa Hill,,0,,No,45,Two Year,YES,Mailed check,118.12,1125.18,No,No,Fiber optic,Yes,,Yes,,No,No,no
+CUST0821,Elizabeth Farley,FEMALE,1,Yes,No,32,Two Year,No,Credit card (automatic),,2044.87,No,no phone service,DSL,Yes,,Yes,Yes,,,No
+CUST0822,George Hernandez,MALE,1,No,No,29,Month-to-month,YES,Mailed check,64.46,1135.10,No,no phone service,,Yes,,Yes,No,,No,No
+CUST0823,William Andrews,,1,NO,,24,,YES,Mailed check,twenty,1243.10,No,no phone service,NO INTERNET,,No,Yes,No,Yes,Yes,Yes
+CUST0824,Sandra Gamble,FEMALE,0,,Yes,15,month to month,NO,,,"1,000.50",,Yes,Fiber optic,Yes,,,Yes,Yes,,
+CUST0825,Amber Roberts MD,MALE,0,NO,Yes,69,,Yes,Mailed check,twenty,,No,No,No,No,Yes,,No,No,,Yes
+CUST0826,Melanie Rodriguez,,0,NO,Yes,48,One year,NO,Mailed check,106.49,,,No,DSL,No,No,Yes,,No,,
+CUST0827,Joshua Spears,female,0,Yes,,13,,Yes,Electronic Check,,,No,,DSL,Yes,No,No,No,Yes,,Yes
+CUST0828,Barbara Solis,MALE,0,YES,No,57,One year,NO,Mailed check,,3436.02,No,,No,Yes,No,No,Yes,Yes,No,No
+CUST0829,Laura Thompson,FEMALE,0,Yes,Yes,38,Month-to-month,Yes,Mailed check,41.80,,Yes,,,No,,No,Yes,,,no
+CUST0830,Lisa Spencer,MALE,1,YES,No,19,Two Year,Yes,Electronic Check,48.49,"1,000.50",No,No,,,No,Yes,Yes,,,no
+CUST0831,Jessica Jackson,female,1,,,35,,Yes,Mailed check,,"1,000.50",No,No,Fiber optic,Yes,Yes,,,,,
+CUST0832,Timothy Hurst,FEMALE,0,Yes,No,3,,,Electronic Check,,,Yes,,,Yes,,,Yes,Yes,Yes,Yes
+CUST0833,Meghan Anderson,MALE,0,No,,65,,No,Credit card (automatic),twenty,"1,000.50",No,no phone service,,No,Yes,No,,No,Yes,yes
+CUST0834,Jonathan Fernandez,female,0,YES,,22,,,Mailed check,89.09,"1,000.50",,No,No,,,,,Yes,,no
+CUST0835,Amanda Nichols,female,1,Yes,Yes,2,Two Year,No,Credit card (automatic),92.68,220.51,,no phone service,No,Yes,,No,,Yes,,No
+CUST0836,Stephen Johnson,,0,,Yes,42,Two Year,NO,Electronic Check,twenty,,Yes,,Fiber optic,Yes,No,No,Yes,No,,
+CUST0837,Kristi Mcmillan,MALE,0,Yes,,31,Month-to-month,,Electronic Check,twenty,"1,000.50",Yes,no phone service,Fiber optic,,No,Yes,,No,No,
+CUST0838,Ronald Newton,Male,0,YES,,51,One year,NO,Electronic Check,,,Yes,,No,No,Yes,Yes,No,Yes,,Yes
+CUST0839,Chloe Bruce,female,1,,No,5,Two Year,NO,Electronic Check,32.60,,Yes,,,,,No,No,,,No
+CUST0840,Stephanie Ward,Male,0,Yes,,34,Month-to-month,,Bank Transfer,59.11,"1,000.50",Yes,,Fiber optic,No,Yes,No,,,,
+CUST0841,Joanna Strickland,female,1,,No,61,,Yes,,63.82,4547.03,Yes,no phone service,,No,No,Yes,,,,No
+CUST0842,Dr. Katherine Matthews,Male,0,No,,8,Two Year,No,,24.79,275.50,Yes,,,,No,,,No,Yes,
+CUST0843,Robert Martinez,FEMALE,1,,No,44,month to month,NO,Electronic Check,twenty,"1,000.50",Yes,,NO INTERNET,,,No,Yes,,,
+CUST0844,Jenny Valdez,,0,Yes,Yes,29,One year,Yes,Mailed check,twenty,,Yes,No,NO INTERNET,No,Yes,Yes,,No,No,
+CUST0845,William Hicks,MALE,0,NO,Yes,1,month to month,,,90.77,113.35,No,no phone service,,No,Yes,,Yes,No,,
+CUST0846,Steven Hampton,female,0,No,Yes,0,Month-to-month,YES,Bank Transfer,70.98,"1,000.50",Yes,,,,,No,,Yes,,
+CUST0847,Marcia Garcia,female,1,YES,,67,month to month,Yes,Mailed check,33.06,"1,000.50",,,,No,,Yes,,Yes,,yes
+CUST0848,Stephen Pham,MALE,1,,No,30,Month-to-month,YES,Credit card (automatic),,"1,000.50",Yes,No,,Yes,,Yes,Yes,Yes,,no
+CUST0849,Anita Johnson,MALE,1,YES,No,49,month to month,YES,Mailed check,twenty,4934.98,No,,No,Yes,No,No,No,No,,yes
+CUST0850,Nicole Collins,female,1,,Yes,26,month to month,YES,Electronic Check,twenty,3118.40,,,DSL,,Yes,No,Yes,No,,No
+CUST0851,Holly Palmer,,0,NO,,62,Two Year,NO,Mailed check,twenty,"1,000.50",No,No,NO INTERNET,No,Yes,No,,No,Yes,Yes
+CUST0852,Willie Campbell,FEMALE,1,NO,No,31,,Yes,Credit card (automatic),67.59,,Yes,,No,,,No,No,,Yes,
+CUST0853,Michele Lee,MALE,0,YES,No,72,One year,YES,,,,Yes,no phone service,Fiber optic,No,Yes,,,,No,
+CUST0854,Chad Ramirez,Male,0,NO,No,64,One year,NO,,twenty,,No,No,No,,Yes,Yes,No,,,
+CUST0855,Jessica Anderson,,0,No,,51,Month-to-month,YES,Bank Transfer,25.89,"1,000.50",,No,NO INTERNET,Yes,No,Yes,Yes,Yes,,yes
+CUST0856,Curtis Newman,FEMALE,1,No,No,8,,Yes,Electronic Check,92.09,,,no phone service,No,No,Yes,Yes,No,Yes,,no
+CUST0857,Melissa Williams,MALE,0,,,48,Two Year,NO,Mailed check,51.94,,Yes,,DSL,Yes,,No,,,,Yes
+CUST0858,Hannah Torres,,0,Yes,No,34,month to month,YES,Credit card (automatic),38.53,3238.57,,,DSL,Yes,Yes,No,No,No,No,No
+CUST0859,Keith Price,,1,,No,32,,NO,Bank Transfer,,,,no phone service,Fiber optic,,No,Yes,No,No,,no
+CUST0860,Anthony Wright,female,0,Yes,,24,Two Year,YES,Mailed check,25.01,,Yes,No,NO INTERNET,No,No,Yes,Yes,,Yes,No
+CUST0861,Kevin Lee,MALE,1,NO,,38,,YES,Electronic Check,,1999.60,Yes,no phone service,NO INTERNET,No,Yes,,Yes,No,,no
+CUST0862,Bryan Sexton,,0,NO,,60,One year,YES,Bank Transfer,,6307.18,,no phone service,Fiber optic,Yes,Yes,No,No,Yes,No,
+CUST0863,Ashley Smith,Male,0,No,,54,One year,,,twenty,,,No,Fiber optic,No,No,No,,No,,yes
+CUST0864,Andre Downs,Male,0,No,Yes,14,Month-to-month,,Mailed check,twenty,1102.21,No,Yes,Fiber optic,,No,No,,,Yes,yes
+CUST0865,Jon Bolton,female,1,No,Yes,0,month to month,Yes,Mailed check,twenty,,Yes,,DSL,,Yes,No,No,,Yes,No
+CUST0866,Christina Marshall,,1,NO,No,67,month to month,NO,Electronic Check,107.30,,,Yes,,No,No,Yes,,Yes,,No
+CUST0867,Jesse Jones,female,1,,No,53,,YES,Mailed check,,,No,No,Fiber optic,No,Yes,Yes,No,No,,No
+CUST0868,James Taylor,female,1,,,68,Two Year,,Mailed check,,,,No,No,No,No,Yes,Yes,,,No
+CUST0869,Kelsey Jackson,MALE,0,No,,9,Month-to-month,Yes,,,"1,000.50",,No,DSL,Yes,Yes,,Yes,No,,no
+CUST0870,Dennis Stevens,FEMALE,1,No,Yes,33,Month-to-month,NO,Mailed check,twenty,,,No,NO INTERNET,,Yes,Yes,,No,,Yes
+CUST0871,Donna Fisher,FEMALE,1,NO,Yes,62,Two Year,YES,Credit card (automatic),,,No,No,No,Yes,,No,Yes,No,Yes,yes
+CUST0872,Michael Potter,female,0,YES,,47,Month-to-month,No,Mailed check,62.88,3665.09,Yes,Yes,,,,Yes,,,,No
+CUST0873,Matthew Le,female,0,No,No,16,,Yes,,118.67,"1,000.50",,Yes,Fiber optic,No,No,,Yes,,No,No
+CUST0874,Emily Cummings,female,1,YES,,7,Two Year,Yes,Electronic Check,38.53,,,No,NO INTERNET,Yes,,Yes,No,Yes,Yes,
+CUST0875,Kara Liu,Male,0,No,,25,,YES,Credit card (automatic),,2099.82,,Yes,,No,Yes,Yes,Yes,Yes,Yes,no
+CUST0876,Mrs. Laura Dunn DDS,,0,YES,,31,Month-to-month,,,twenty,,No,No,NO INTERNET,Yes,No,Yes,,,,
+CUST0877,Rachel Thomas,Male,0,YES,Yes,56,,Yes,Electronic Check,,,No,Yes,Fiber optic,No,Yes,Yes,Yes,,No,No
+CUST0878,Adam Daniels,MALE,1,YES,Yes,25,One year,Yes,,34.62,"1,000.50",No,no phone service,,No,,No,No,,Yes,No
+CUST0879,Lindsey Allen,FEMALE,1,YES,No,57,Month-to-month,No,Bank Transfer,,,No,,No,No,No,No,Yes,Yes,Yes,yes
+CUST0880,Charles Gaines,,0,Yes,,50,month to month,Yes,Bank Transfer,,,Yes,Yes,Fiber optic,No,Yes,,No,,,No
+CUST0881,Natasha Figueroa,Male,0,No,Yes,68,One year,NO,,23.88,,,,DSL,Yes,,,No,Yes,,yes
+CUST0882,Austin Trevino,Male,1,NO,,41,month to month,,Mailed check,twenty,1242.66,Yes,Yes,DSL,,Yes,Yes,No,,No,yes
+CUST0883,Anthony Chandler,Male,0,NO,,53,Two Year,NO,Electronic Check,,,No,No,No,Yes,Yes,Yes,Yes,,,
+CUST0884,Beth Green,,1,NO,No,36,,,,twenty,,No,no phone service,DSL,Yes,,No,Yes,,,
+CUST0885,Todd Sanchez,female,1,,,46,Two Year,No,,,,,no phone service,DSL,Yes,Yes,Yes,Yes,,,
+CUST0886,Michael Garcia,FEMALE,1,YES,Yes,14,Two Year,No,Electronic Check,,"1,000.50",,No,NO INTERNET,No,No,No,No,No,,yes
+CUST0887,Elijah Griffith,female,1,No,,60,Month-to-month,NO,Credit card (automatic),55.03,,No,,No,No,Yes,,Yes,Yes,,
+CUST0888,Steven Carpenter,Male,0,No,,21,month to month,,Electronic Check,twenty,,,no phone service,DSL,,,Yes,Yes,,,no
+CUST0889,Emily Lawrence,female,0,YES,,39,,Yes,Electronic Check,92.08,"1,000.50",Yes,,DSL,Yes,Yes,,Yes,No,,No
+CUST0890,Nicholas Navarro,MALE,0,YES,,46,,,Mailed check,,"1,000.50",Yes,No,DSL,,No,Yes,No,,Yes,
+CUST0891,Susan Mack,FEMALE,0,,Yes,2,One year,NO,,,,,,NO INTERNET,No,No,,,Yes,Yes,no
+CUST0892,Stephanie Johnson,FEMALE,0,No,,21,Two Year,YES,Electronic Check,42.16,"1,000.50",Yes,Yes,No,No,Yes,No,Yes,,,yes
+CUST0893,Ryan Ball,,0,YES,No,68,Two Year,No,,106.79,4047.74,No,No,DSL,Yes,,Yes,Yes,Yes,Yes,yes
+CUST0894,Kara Baker,Male,1,Yes,,28,month to month,,Credit card (automatic),twenty,,,Yes,Fiber optic,Yes,No,No,,No,,
+CUST0895,Caitlyn Morton,female,0,,No,33,Two Year,YES,Mailed check,38.11,,Yes,Yes,NO INTERNET,No,Yes,Yes,No,,,
+CUST0896,Brandon Owen,FEMALE,0,YES,,39,month to month,,,,,,Yes,NO INTERNET,No,Yes,,,Yes,Yes,No
+CUST0897,Carl Le,,0,,,69,One year,,Bank Transfer,,7123.11,,,,No,No,,No,Yes,,No
+CUST0898,Elizabeth Harrington,FEMALE,0,No,,68,,No,Mailed check,,5943.86,No,no phone service,DSL,No,Yes,,Yes,Yes,,
+CUST0899,Xavier Allen,,1,,Yes,47,Two Year,Yes,,58.99,"1,000.50",Yes,Yes,Fiber optic,No,Yes,No,,No,Yes,Yes
+CUST0900,Maurice Larson,MALE,0,No,,42,month to month,,Mailed check,twenty,2723.23,,Yes,,No,Yes,No,,Yes,,no
+CUST0901,Alexis Miller,,1,,Yes,61,month to month,No,Credit card (automatic),87.78,,No,Yes,No,Yes,No,,No,Yes,No,yes
+CUST0902,Nathan Cardenas,FEMALE,1,NO,No,63,month to month,Yes,Electronic Check,twenty,,,no phone service,DSL,No,Yes,Yes,Yes,Yes,,
+CUST0903,Alyssa Gomez,female,1,No,Yes,66,month to month,No,Credit card (automatic),twenty,2617.93,No,No,NO INTERNET,No,No,No,Yes,No,,no
+CUST0904,Joshua Gomez,FEMALE,0,,,43,,,Credit card (automatic),,,Yes,No,Fiber optic,Yes,Yes,Yes,No,,Yes,yes
+CUST0905,Katrina Bradley,female,0,No,Yes,48,,YES,Bank Transfer,twenty,,Yes,no phone service,DSL,Yes,,No,No,,No,Yes
+CUST0906,Bryan Davis,female,0,No,,58,Month-to-month,NO,,99.94,,Yes,no phone service,DSL,,No,,Yes,,,no
+CUST0907,Joanne Robertson,,0,,,57,,YES,Bank Transfer,21.70,,,Yes,DSL,,,Yes,Yes,Yes,,no
+CUST0908,David Wilson,female,0,,,47,Two Year,YES,,twenty,"1,000.50",No,Yes,Fiber optic,,No,,No,,No,Yes
+CUST0909,James Holder,FEMALE,1,NO,Yes,27,,NO,Credit card (automatic),twenty,2308.00,,Yes,No,Yes,No,,Yes,No,,Yes
+CUST0910,Steven Smith,FEMALE,1,YES,,28,month to month,No,Mailed check,43.65,"1,000.50",No,Yes,DSL,Yes,Yes,No,No,No,No,no
+CUST0911,Phillip Williamson,FEMALE,0,,,2,month to month,Yes,Mailed check,twenty,,No,,NO INTERNET,Yes,,No,,,Yes,
+CUST0912,Melissa Salazar,MALE,0,No,Yes,60,,No,Bank Transfer,twenty,1239.00,No,No,,,,,No,,,
+CUST0913,Adrian Wang,female,0,YES,No,69,One year,YES,Bank Transfer,70.85,,No,Yes,DSL,,Yes,Yes,Yes,,No,
+CUST0914,Marie Castro,female,1,,,53,,NO,Bank Transfer,,"1,000.50",No,Yes,No,,Yes,,No,No,,No
+CUST0915,Robert Salas,MALE,0,YES,,70,One year,YES,Electronic Check,,,,No,No,Yes,,,Yes,,,
+CUST0916,Christine Hansen,,0,YES,Yes,50,month to month,No,,,"1,000.50",Yes,no phone service,NO INTERNET,,Yes,,No,No,Yes,
+CUST0917,Tara Marshall,,0,Yes,No,55,month to month,NO,,,"1,000.50",,No,,No,No,No,,Yes,No,yes
+CUST0918,Jessica Beck,female,1,YES,,24,Two Year,NO,Electronic Check,,,Yes,Yes,,No,Yes,,Yes,,Yes,No
+CUST0919,Vanessa Pham,FEMALE,1,,No,19,Two Year,,Electronic Check,,,No,No,NO INTERNET,,Yes,No,,,,no
+CUST0920,Mr. John Stone,female,0,,No,62,Month-to-month,YES,Bank Transfer,twenty,5860.17,No,,Fiber optic,No,No,No,,,,
+CUST0921,Justin Flores,FEMALE,1,No,,44,Month-to-month,Yes,Mailed check,111.00,"1,000.50",Yes,,No,,No,No,No,No,,Yes
+CUST0922,Rebecca Padilla,MALE,0,NO,,71,Month-to-month,NO,,,,,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,yes
+CUST0923,Ryan Jones,female,0,NO,,1,One year,NO,Electronic Check,twenty,"1,000.50",No,Yes,No,No,No,Yes,No,,No,
+CUST0924,Omar Stevens,FEMALE,1,YES,Yes,40,One year,NO,Mailed check,twenty,,,no phone service,NO INTERNET,No,,,Yes,,No,no
+CUST0925,Patrick Fisher,Male,1,No,,59,month to month,Yes,Credit card (automatic),68.57,6684.52,,Yes,No,,,,No,No,,
+CUST0926,Patricia Tapia,MALE,0,No,Yes,31,month to month,YES,,twenty,3398.99,No,no phone service,Fiber optic,Yes,Yes,,Yes,,Yes,No
+CUST0927,Katie Dennis,MALE,1,,,26,month to month,,,112.02,"1,000.50",,no phone service,No,Yes,No,No,Yes,Yes,No,
+CUST0928,Karen Olson,FEMALE,0,Yes,Yes,46,Two Year,Yes,Credit card (automatic),115.92,,No,No,,Yes,Yes,No,,No,,No
+CUST0929,Betty Cervantes,FEMALE,1,YES,No,15,Two Year,YES,Bank Transfer,62.57,,,no phone service,Fiber optic,Yes,Yes,,No,,No,Yes
+CUST0930,Bradley Shepard,Male,1,,Yes,0,,Yes,Mailed check,,,Yes,,NO INTERNET,Yes,Yes,Yes,,,,No
+CUST0931,Robert Johnson,female,1,Yes,,72,,No,,,5310.30,,Yes,NO INTERNET,Yes,,,No,,,No
+CUST0932,Robert Sanchez,FEMALE,1,Yes,,71,month to month,No,,twenty,,Yes,,DSL,,,Yes,Yes,,,yes
+CUST0933,Maureen Cox,MALE,0,Yes,Yes,48,month to month,NO,,twenty,"1,000.50",,,No,Yes,Yes,,Yes,,,no
+CUST0934,Jonathan Gonzalez,Male,0,YES,No,34,month to month,NO,Mailed check,twenty,2104.43,,Yes,NO INTERNET,,Yes,Yes,,,Yes,Yes
+CUST0935,Scott Gray,MALE,0,NO,No,44,,,Bank Transfer,twenty,"1,000.50",Yes,Yes,No,,No,No,,No,Yes,no
+CUST0936,Dominique Bates,female,1,,No,49,Month-to-month,Yes,Credit card (automatic),,,No,No,NO INTERNET,,No,,,,No,
+CUST0937,Donald Taylor,,1,NO,Yes,33,One year,No,Bank Transfer,104.79,,Yes,Yes,Fiber optic,,Yes,Yes,Yes,No,,No
+CUST0938,Courtney Wells,MALE,1,No,,66,One year,No,Bank Transfer,,4771.56,Yes,,Fiber optic,No,Yes,,Yes,,No,yes
+CUST0939,Cristian Colon,Male,1,No,,29,One year,Yes,,twenty,"1,000.50",Yes,No,No,,,Yes,No,,,yes
+CUST0940,Jonathan Gomez,MALE,1,,,65,month to month,,,twenty,,Yes,Yes,NO INTERNET,Yes,Yes,No,,Yes,No,no
+CUST0941,James Fox,female,0,No,,30,,NO,Electronic Check,twenty,,No,No,NO INTERNET,No,No,No,Yes,Yes,,No
+CUST0942,Melinda Briggs,MALE,0,YES,No,64,,YES,Credit card (automatic),,,,,Fiber optic,No,No,Yes,Yes,No,,no
+CUST0943,Catherine Norris,Male,0,YES,Yes,13,One year,No,,,942.63,No,Yes,DSL,,,,Yes,,,Yes
+CUST0944,Brian Villanueva,,1,,,40,,No,Mailed check,,3698.18,No,no phone service,NO INTERNET,Yes,,No,No,Yes,No,
+CUST0945,Edward Hogan,FEMALE,0,YES,,69,month to month,NO,,75.96,"1,000.50",No,Yes,NO INTERNET,No,Yes,,Yes,No,,Yes
+CUST0946,Pamela Johnson,female,1,No,No,65,,Yes,Mailed check,83.94,"1,000.50",,no phone service,Fiber optic,No,No,,,Yes,,no
+CUST0947,Brittany Davis,female,0,YES,,66,Two Year,No,Bank Transfer,twenty,,No,,DSL,,,,No,,,yes
+CUST0948,Amber Moore,FEMALE,1,Yes,,70,,Yes,Mailed check,,"1,000.50",,,DSL,Yes,Yes,No,No,Yes,,
+CUST0949,Amy Mckinney,female,0,YES,,19,Month-to-month,Yes,,,,Yes,,Fiber optic,No,Yes,,Yes,No,Yes,No
+CUST0950,Charles Price,,1,Yes,,28,,NO,Credit card (automatic),,2557.09,No,,,,,No,Yes,,,No
+CUST0951,Alyssa Thomas,female,0,Yes,,13,Month-to-month,,Credit card (automatic),108.75,,,No,Fiber optic,No,,,Yes,No,Yes,no
+CUST0952,Lindsay Logan,female,0,YES,,1,month to month,,Mailed check,,,,,,No,No,No,Yes,No,Yes,No
+CUST0953,Amy Cordova,female,1,,,33,month to month,No,Bank Transfer,102.07,3509.82,No,no phone service,Fiber optic,No,Yes,No,,No,No,yes
+CUST0954,Joseph Hughes,FEMALE,0,No,,36,month to month,,Credit card (automatic),41.35,,No,No,,Yes,No,Yes,,Yes,,no
+CUST0955,Mr. Mark Dawson,Male,1,No,Yes,42,Month-to-month,,Credit card (automatic),twenty,4728.79,No,no phone service,Fiber optic,No,Yes,No,No,,,No
+CUST0956,Natalie Peters,Male,1,,Yes,40,,,Credit card (automatic),,3214.19,No,,Fiber optic,No,Yes,,Yes,,,no
+CUST0957,Nicole Richardson,Male,1,YES,,0,One year,YES,Electronic Check,86.51,,No,No,NO INTERNET,,Yes,,Yes,Yes,,Yes
+CUST0958,Anne Morales,MALE,0,YES,,17,Month-to-month,Yes,Mailed check,,,,Yes,No,,,,,,Yes,
+CUST0959,Savannah Powers,female,1,No,Yes,15,,NO,Bank Transfer,,,Yes,Yes,DSL,,No,,Yes,Yes,,yes
+CUST0960,Heather Brown,female,0,No,Yes,30,Two Year,No,Credit card (automatic),twenty,,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,,No,
+CUST0961,Pamela Rodriguez,FEMALE,1,NO,,29,,YES,Credit card (automatic),,"1,000.50",,No,,No,No,,,No,,yes
+CUST0962,Nancy Jacobs,Male,1,No,Yes,61,Two Year,YES,Credit card (automatic),93.29,,,,DSL,,Yes,Yes,Yes,Yes,No,
+CUST0963,Meghan Lane,FEMALE,0,,Yes,45,One year,YES,,,,No,Yes,DSL,No,Yes,No,Yes,,,
+CUST0964,James Hale,Male,0,Yes,,62,Month-to-month,Yes,Credit card (automatic),116.48,7190.52,No,,NO INTERNET,No,No,No,,,Yes,yes
+CUST0965,William Fields,,0,,No,4,Two Year,,Credit card (automatic),74.97,,,,NO INTERNET,Yes,Yes,No,,,,
+CUST0966,Maria Fowler,FEMALE,0,Yes,,48,month to month,Yes,,twenty,,No,,Fiber optic,,Yes,Yes,Yes,,No,
+CUST0967,Jennifer Rasmussen,female,1,YES,,63,One year,,Credit card (automatic),55.28,"1,000.50",,Yes,No,No,No,No,,,Yes,
+CUST0968,Amy Waters,MALE,1,No,,13,,YES,Mailed check,83.81,,Yes,,NO INTERNET,,No,Yes,No,,Yes,
+CUST0969,Sarah Watson,FEMALE,1,NO,,55,One year,No,Mailed check,twenty,,No,no phone service,,Yes,Yes,,Yes,No,,Yes
+CUST0970,Samantha Matthews,MALE,1,Yes,,47,,Yes,Bank Transfer,109.13,"1,000.50",,,,No,Yes,No,,No,No,yes
+CUST0971,Haley Flores,female,0,NO,,35,Two Year,No,,,3437.69,Yes,No,,No,,,Yes,,No,Yes
+CUST0972,Shelly Reeves,MALE,1,,,23,One year,Yes,Electronic Check,,"1,000.50",,,DSL,Yes,,Yes,Yes,,No,
+CUST0973,James Garcia,,1,YES,No,63,,,Electronic Check,74.39,"1,000.50",,No,,Yes,No,No,Yes,No,No,yes
+CUST0974,Alexander Ryan,,1,No,Yes,45,month to month,,Credit card (automatic),,"1,000.50",No,Yes,,Yes,No,Yes,,No,,no
+CUST0975,Rachael Houston,MALE,1,Yes,No,63,Month-to-month,NO,Electronic Check,69.58,,No,Yes,No,No,No,No,No,,Yes,no
+CUST0976,Mary Martin,FEMALE,0,NO,No,5,One year,,,twenty,,Yes,No,,No,No,No,Yes,No,,Yes
+CUST0977,Jeanette Underwood,Male,1,,Yes,22,Month-to-month,NO,Bank Transfer,twenty,,Yes,no phone service,No,No,,Yes,Yes,,Yes,no
+CUST0978,Tyler Murray,Male,1,YES,,36,Two Year,,,twenty,,Yes,,NO INTERNET,Yes,Yes,,,No,Yes,
+CUST0979,Andrea Patterson,FEMALE,1,Yes,,53,Two Year,NO,,85.34,"1,000.50",No,,Fiber optic,,No,No,No,Yes,Yes,Yes
+CUST0980,Henry King,,0,YES,,60,Month-to-month,NO,,twenty,"1,000.50",No,Yes,DSL,Yes,Yes,,No,Yes,Yes,
+CUST0981,Pamela Young,Male,1,No,Yes,36,month to month,,Credit card (automatic),twenty,,Yes,Yes,DSL,No,No,No,No,,,
+CUST0982,Brent Jefferson,FEMALE,1,NO,Yes,51,month to month,Yes,Electronic Check,,,Yes,no phone service,NO INTERNET,,,Yes,,,Yes,no
+CUST0983,Mary Peterson,Male,1,NO,,43,One year,Yes,Credit card (automatic),34.58,,No,No,No,,No,No,Yes,,No,No
+CUST0984,Shelly Martinez,female,0,Yes,,27,Month-to-month,YES,,,494.87,,no phone service,Fiber optic,Yes,No,No,No,Yes,No,
+CUST0985,Jessica Lewis,FEMALE,0,NO,Yes,61,month to month,Yes,Mailed check,,"1,000.50",Yes,no phone service,NO INTERNET,Yes,,Yes,No,,Yes,No
+CUST0986,Jake Allen,female,0,No,,7,month to month,,Mailed check,,,No,Yes,NO INTERNET,Yes,No,Yes,No,No,No,No
+CUST0987,Cody Warren,,0,No,,51,Month-to-month,,Mailed check,,1305.09,,no phone service,DSL,Yes,Yes,No,,,No,Yes
+CUST0988,Brandon Brooks,female,0,NO,No,29,Month-to-month,NO,Bank Transfer,,,No,Yes,,No,,Yes,,Yes,,
+CUST0989,John Sanchez,FEMALE,0,No,No,32,One year,,Credit card (automatic),68.25,3269.97,No,No,DSL,,No,,,No,Yes,No
+CUST0990,Terry Holmes,MALE,1,No,,52,,,Mailed check,,,,No,No,Yes,Yes,No,,Yes,No,No
+CUST0991,Christopher Miller,Male,0,YES,Yes,47,Month-to-month,No,Mailed check,,,No,No,NO INTERNET,Yes,No,,Yes,,Yes,
+CUST0992,Leslie Martin,female,0,No,Yes,4,,NO,Credit card (automatic),twenty,"1,000.50",,Yes,,,No,Yes,Yes,,,no
+CUST0993,Francisco King,,0,NO,,20,One year,Yes,Bank Transfer,twenty,,,No,,No,Yes,,,,,
+CUST0994,Paul Thompson,female,0,Yes,No,1,One year,YES,Bank Transfer,twenty,,Yes,Yes,NO INTERNET,No,Yes,Yes,No,Yes,,
+CUST0995,Kristin Hull,,0,No,,15,One year,,Mailed check,114.31,1358.33,No,No,Fiber optic,Yes,,,No,Yes,Yes,Yes
+CUST0996,Michael Evans,MALE,0,Yes,No,12,Two Year,NO,Credit card (automatic),,,,No,NO INTERNET,,No,,,Yes,No,
+CUST0997,Sydney Carroll,Male,1,,,37,month to month,,Credit card (automatic),,,,no phone service,DSL,Yes,,,,Yes,Yes,
+CUST0998,Jeffery Burton,Male,1,No,Yes,70,,NO,Mailed check,105.55,,Yes,No,No,,,Yes,No,,Yes,No
+CUST0999,Sandra Delacruz,FEMALE,1,NO,Yes,60,,Yes,Mailed check,112.02,"1,000.50",Yes,no phone service,,Yes,Yes,No,Yes,No,,
+CUST1000,Krista Morris,Male,0,No,,54,One year,No,,twenty,"1,000.50",No,Yes,Fiber optic,,No,Yes,Yes,,,Yes
+CUST1001,Alex Benton,female,0,NO,No,45,,YES,Mailed check,67.29,,,No,NO INTERNET,Yes,,No,Yes,,,Yes
+CUST1002,David Ward,,0,,,69,Two Year,NO,Credit card (automatic),65.26,"1,000.50",No,No,No,,Yes,No,Yes,No,Yes,
+CUST1003,Hannah Newton,,1,YES,,46,One year,,Bank Transfer,twenty,,No,Yes,,No,,No,No,No,,No
+CUST1004,Deborah Smith,MALE,0,Yes,,59,Two Year,No,Electronic Check,twenty,,,No,DSL,No,,,Yes,,Yes,
+CUST1005,Mark Gonzales,MALE,0,YES,,2,month to month,Yes,Mailed check,twenty,,,,Fiber optic,,,No,Yes,Yes,,
+CUST1006,Devin Moyer,female,0,YES,,47,Month-to-month,YES,Mailed check,twenty,1465.04,Yes,,No,No,,No,,,No,
+CUST1007,Jonathan Smith,MALE,1,,Yes,60,One year,YES,Bank Transfer,twenty,"1,000.50",Yes,Yes,No,No,No,No,No,,No,yes
+CUST1008,Mr. Mark Stephens DVM,,0,YES,No,7,month to month,No,Mailed check,,796.78,No,Yes,Fiber optic,No,No,Yes,No,,,
+CUST1009,Cassandra Ruiz,,1,NO,No,38,Two Year,Yes,Electronic Check,62.48,,,Yes,No,No,No,Yes,No,Yes,Yes,no
+CUST1010,Anthony Logan,MALE,0,,,41,Month-to-month,NO,Mailed check,,3077.79,,Yes,Fiber optic,No,,Yes,,Yes,Yes,Yes
+CUST1011,Mark Padilla,FEMALE,0,No,,66,One year,YES,Electronic Check,34.91,,No,No,No,,Yes,No,No,No,,no
+CUST1012,Holly Lopez,MALE,0,YES,No,16,month to month,YES,Credit card (automatic),twenty,"1,000.50",Yes,no phone service,NO INTERNET,No,,No,Yes,,Yes,no
+CUST1013,Danielle Graham,female,1,YES,,70,,,Electronic Check,twenty,,Yes,No,Fiber optic,Yes,,Yes,Yes,No,Yes,
+CUST1014,Todd Wilson,Male,1,Yes,,36,,No,Credit card (automatic),twenty,,Yes,,Fiber optic,,,No,Yes,No,,yes
+CUST1015,Alison Santiago,,0,,No,24,Month-to-month,,Electronic Check,,,,No,,Yes,,Yes,,No,No,
+CUST1016,Leah Duncan,female,1,NO,No,31,One year,NO,Bank Transfer,43.50,"1,000.50",,no phone service,No,No,,No,No,Yes,,Yes
+CUST1017,Rachel Lowe,Male,0,Yes,,35,Month-to-month,No,Mailed check,52.39,,No,Yes,No,No,,Yes,Yes,,Yes,
+CUST1018,Kaitlyn Jackson,,1,No,Yes,59,One year,No,Mailed check,twenty,,,no phone service,DSL,Yes,No,,,Yes,Yes,Yes
+CUST1019,Elizabeth Barker,,1,Yes,No,2,Month-to-month,NO,Credit card (automatic),,,No,No,Fiber optic,Yes,No,,Yes,,No,Yes
+CUST1020,Matthew Lara,,1,NO,,25,month to month,Yes,Bank Transfer,twenty,,No,Yes,No,Yes,,No,,Yes,No,
+CUST1021,Sydney Jones,MALE,1,NO,No,42,month to month,No,Electronic Check,twenty,"1,000.50",,Yes,,Yes,Yes,,No,,Yes,
+CUST1022,Susan Jones,Male,1,YES,No,30,One year,YES,Mailed check,,"1,000.50",Yes,No,DSL,,,No,,No,,No
+CUST1023,Michael Russo,Male,1,,Yes,8,month to month,No,Bank Transfer,twenty,,Yes,Yes,Fiber optic,Yes,,,,Yes,,Yes
+CUST1024,Jeffrey Shah,FEMALE,0,YES,,11,One year,NO,,,,No,no phone service,,,,No,,Yes,,No
+CUST1025,Matthew Allen,MALE,1,No,,9,,,,twenty,655.55,Yes,No,,Yes,No,,No,,,
+CUST1026,Joshua Williams,Male,1,No,Yes,14,,YES,Mailed check,,"1,000.50",No,Yes,NO INTERNET,No,,No,No,,Yes,Yes
+CUST1027,Christopher Vang,FEMALE,0,,No,9,Two Year,YES,Bank Transfer,,,No,no phone service,,No,Yes,,Yes,,,yes
+CUST1028,Shelley Conrad DVM,female,0,,Yes,7,month to month,Yes,Electronic Check,twenty,,No,No,DSL,Yes,No,Yes,Yes,,,no
+CUST1029,Carrie Barrett,Male,1,NO,No,29,Month-to-month,Yes,Mailed check,twenty,"1,000.50",,Yes,No,,No,Yes,No,Yes,No,
+CUST1030,Veronica Garcia,FEMALE,0,No,No,27,One year,,,,,,Yes,DSL,,Yes,,Yes,,No,Yes
+CUST1031,Christopher Mathis,Male,0,,,12,,NO,Electronic Check,twenty,578.50,,No,NO INTERNET,No,No,Yes,,Yes,Yes,No
+CUST1032,Sergio Hensley,FEMALE,0,YES,No,11,Month-to-month,No,Bank Transfer,twenty,,,No,Fiber optic,Yes,Yes,No,,Yes,,
+CUST1033,Richard Barron,FEMALE,0,No,Yes,41,,Yes,,,4444.15,No,,Fiber optic,Yes,Yes,,Yes,,Yes,yes
+CUST1034,Michael Rose,female,1,Yes,Yes,65,One year,Yes,Credit card (automatic),twenty,"1,000.50",,,No,,Yes,Yes,No,Yes,,yes
+CUST1035,James Martinez,Male,0,No,,62,Month-to-month,NO,Electronic Check,41.39,,No,,DSL,,,,No,,,
+CUST1036,Latasha Wall,Male,1,NO,,69,Month-to-month,,Electronic Check,118.47,6259.75,Yes,Yes,DSL,,No,No,Yes,No,No,yes
+CUST1037,Robert Rosales,,1,NO,,3,,Yes,Credit card (automatic),106.36,,No,,Fiber optic,,No,Yes,Yes,,,
+CUST1038,Peggy Price,female,1,Yes,,1,One year,YES,Electronic Check,49.99,48.27,,Yes,Fiber optic,Yes,,Yes,No,,No,
+CUST1039,William Brennan,Male,1,YES,,37,One year,NO,Bank Transfer,twenty,,No,,No,No,No,,Yes,,,Yes
+CUST1040,Bethany Williams,,0,YES,Yes,67,,Yes,Bank Transfer,twenty,,Yes,No,No,Yes,Yes,No,No,,No,
+CUST1041,Patty Stewart,MALE,1,NO,,62,Two Year,Yes,Credit card (automatic),twenty,,,,No,,No,,,,Yes,
+CUST1042,Amanda Wise,MALE,1,Yes,,20,Month-to-month,NO,Mailed check,,1640.98,,Yes,NO INTERNET,No,Yes,,Yes,No,,
+CUST1043,Karen Nelson,Male,1,YES,,54,One year,YES,Credit card (automatic),twenty,2474.06,Yes,Yes,NO INTERNET,,No,,No,,,yes
+CUST1044,Dr. Nicholas Mccormick,FEMALE,0,Yes,No,45,Month-to-month,No,Mailed check,twenty,,Yes,No,No,,No,No,No,No,,
+CUST1045,Hannah Morgan,female,1,Yes,Yes,65,Month-to-month,Yes,Bank Transfer,twenty,,,,DSL,,,No,No,,Yes,yes
+CUST1046,Yolanda Dixon,Male,0,YES,No,69,,NO,,twenty,"1,000.50",Yes,No,NO INTERNET,Yes,Yes,No,No,Yes,Yes,No
+CUST1047,Daniel Diaz,,1,No,Yes,34,Two Year,,Mailed check,,,Yes,no phone service,No,,No,,Yes,No,Yes,no
+CUST1048,James Odom,Male,1,,,65,One year,Yes,Credit card (automatic),,,Yes,No,No,,No,No,Yes,Yes,No,
+CUST1049,Lynn Fields,female,0,,Yes,24,Two Year,,Mailed check,,1216.64,Yes,,DSL,,Yes,No,,No,,Yes
+CUST1050,Gabriela Clark,female,0,NO,,19,,Yes,Mailed check,,580.97,Yes,Yes,No,No,Yes,,No,Yes,Yes,No
+CUST1051,Jonathan Santiago,MALE,1,,No,57,One year,NO,Electronic Check,,3259.15,No,,NO INTERNET,,No,,Yes,Yes,Yes,no
+CUST1052,Patricia Johnson,FEMALE,0,YES,No,16,,YES,Bank Transfer,27.01,"1,000.50",No,No,Fiber optic,No,No,No,Yes,,,
+CUST1053,Frederick Miller,female,0,,Yes,25,,NO,Bank Transfer,,,,Yes,NO INTERNET,,No,,,,,
+CUST1054,Steven Snyder,Male,0,,Yes,4,,,Electronic Check,85.26,,,No,Fiber optic,No,No,Yes,,,,yes
+CUST1055,April Adkins,Male,1,NO,,16,month to month,YES,,117.94,"1,000.50",Yes,,No,,Yes,Yes,Yes,No,Yes,no
+CUST1056,Robert Nguyen,Male,1,Yes,,9,month to month,YES,,40.02,207.45,Yes,No,DSL,No,No,No,,Yes,No,no
+CUST1057,Samuel Sanders,,1,No,,28,One year,,Electronic Check,118.96,,,,NO INTERNET,,,No,No,Yes,,no
+CUST1058,Kirk Santiago,,1,NO,No,55,,NO,Credit card (automatic),,,Yes,,,,Yes,No,,No,,yes
+CUST1059,Kimberly Malone,female,0,No,No,31,One year,YES,Credit card (automatic),twenty,,Yes,Yes,NO INTERNET,No,No,,,No,Yes,no
+CUST1060,Brian Clark,female,0,,,13,Two Year,Yes,Electronic Check,,,Yes,No,No,Yes,Yes,Yes,No,No,,
+CUST1061,Nathaniel Barker,FEMALE,1,Yes,No,55,One year,Yes,,,3201.28,,no phone service,NO INTERNET,,Yes,No,,No,,
+CUST1062,John Escobar,MALE,0,,,21,Month-to-month,No,Electronic Check,twenty,,,,Fiber optic,,Yes,No,No,No,No,
+CUST1063,Cassandra Delgado,Male,1,,No,30,Two Year,YES,Credit card (automatic),,,,no phone service,DSL,No,No,,,Yes,No,No
+CUST1064,Tanya Rogers,FEMALE,0,No,,12,Month-to-month,No,Electronic Check,,,Yes,No,DSL,,No,No,No,No,No,Yes
+CUST1065,Richard Hunter,,0,,,46,One year,Yes,Electronic Check,29.42,"1,000.50",Yes,Yes,No,Yes,No,Yes,,No,,yes
+CUST1066,Joanna Roy,MALE,0,YES,No,66,One year,NO,Mailed check,,2804.47,Yes,No,NO INTERNET,Yes,No,Yes,No,,Yes,
+CUST1067,Joshua Schaefer,FEMALE,1,No,Yes,23,month to month,Yes,Credit card (automatic),twenty,,Yes,no phone service,NO INTERNET,Yes,Yes,,No,Yes,,yes
+CUST1068,Dennis Spears,Male,1,NO,,25,month to month,,,,"1,000.50",,Yes,DSL,Yes,,No,Yes,Yes,Yes,
+CUST1069,Alice Macias,,1,NO,,62,,NO,Mailed check,,,Yes,No,Fiber optic,Yes,No,,Yes,,,Yes
+CUST1070,Michael Terry,MALE,1,YES,,21,,,Credit card (automatic),,,Yes,no phone service,NO INTERNET,,No,No,Yes,No,Yes,
+CUST1071,Mr. Mark Ryan DDS,FEMALE,1,Yes,,20,Month-to-month,NO,Bank Transfer,109.97,,No,,NO INTERNET,Yes,,Yes,Yes,,,No
+CUST1072,Andrew Fisher,,0,YES,Yes,34,Month-to-month,NO,Mailed check,twenty,,,no phone service,DSL,,Yes,Yes,,Yes,No,yes
+CUST1073,Preston Robinson,,0,Yes,,37,,,Mailed check,,"1,000.50",No,Yes,DSL,Yes,No,Yes,,,,no
+CUST1074,Joshua Smith,FEMALE,1,Yes,Yes,27,month to month,,Mailed check,82.43,,No,,No,Yes,,,,Yes,No,No
+CUST1075,Dylan Davis MD,Male,1,No,Yes,71,month to month,No,Mailed check,twenty,"1,000.50",Yes,Yes,,Yes,Yes,No,No,,No,Yes
+CUST1076,Elizabeth Gilbert,FEMALE,0,Yes,No,71,month to month,NO,Bank Transfer,twenty,5136.61,No,No,,,No,Yes,,,No,No
+CUST1077,Roy Jackson,,1,YES,Yes,2,One year,YES,Bank Transfer,44.88,"1,000.50",No,,No,,Yes,,Yes,Yes,Yes,No
+CUST1078,Matthew Morales,MALE,1,Yes,No,38,Two Year,NO,Bank Transfer,67.01,,No,no phone service,DSL,No,Yes,,,No,,Yes
+CUST1079,Kathleen Coleman,,0,,No,46,month to month,NO,Bank Transfer,,"1,000.50",No,Yes,DSL,,No,,,No,No,
+CUST1080,Brenda Cooper,female,1,,Yes,65,Month-to-month,,,twenty,"1,000.50",No,,NO INTERNET,Yes,Yes,Yes,,,Yes,Yes
+CUST1081,Alexander Irwin,MALE,1,No,No,47,Two Year,Yes,Electronic Check,,,,Yes,,Yes,No,,No,No,,No
+CUST1082,Ann King,Male,1,NO,,64,Month-to-month,NO,,twenty,"1,000.50",,No,DSL,,Yes,Yes,,Yes,Yes,
+CUST1083,Steve Velez,female,0,,,61,,YES,Credit card (automatic),,3981.00,Yes,,Fiber optic,No,,No,No,,,
+CUST1084,David Fernandez,,0,,No,34,,Yes,Electronic Check,75.40,"1,000.50",No,no phone service,No,,Yes,,Yes,,Yes,yes
+CUST1085,Roberto Wilson,MALE,0,No,,70,Two Year,No,Electronic Check,71.42,5367.74,Yes,No,DSL,,Yes,Yes,Yes,Yes,No,yes
+CUST1086,Zachary Jenkins,FEMALE,1,YES,Yes,64,month to month,YES,,24.65,,No,Yes,NO INTERNET,No,Yes,No,,,,No
+CUST1087,Paul Lawrence,female,1,,No,14,One year,NO,Credit card (automatic),,,No,No,,No,No,Yes,,Yes,,Yes
+CUST1088,Thomas Green,Male,1,,No,54,One year,YES,Bank Transfer,32.22,4865.37,No,No,No,,,No,Yes,Yes,,
+CUST1089,Jeanne Macdonald,FEMALE,1,No,,2,Month-to-month,,Mailed check,57.62,"1,000.50",No,no phone service,No,,Yes,Yes,,,,Yes
+CUST1090,Richard Hernandez,Male,1,No,,4,Month-to-month,No,Electronic Check,,"1,000.50",,,DSL,Yes,,Yes,No,Yes,Yes,Yes
+CUST1091,Kim Pope,Male,1,No,,29,,Yes,,62.63,"1,000.50",No,Yes,Fiber optic,No,Yes,Yes,,No,Yes,yes
+CUST1092,Kimberly Watts,female,0,Yes,Yes,65,Month-to-month,YES,,96.12,,No,No,DSL,No,,No,No,,,No
+CUST1093,Lisa Floyd,Male,1,No,,10,Month-to-month,YES,Electronic Check,29.43,"1,000.50",No,,No,,Yes,,No,No,Yes,
+CUST1094,Jimmy Davis,MALE,1,YES,,67,One year,No,,41.24,6938.79,No,,No,Yes,,Yes,,No,No,Yes
+CUST1095,Kevin Harris,female,1,No,,20,,YES,,103.89,,No,,DSL,No,Yes,No,No,,Yes,No
+CUST1096,Heather Knight,,0,YES,,43,One year,NO,Credit card (automatic),,"1,000.50",Yes,No,Fiber optic,No,No,Yes,No,,Yes,no
+CUST1097,James Brown,MALE,0,Yes,,1,,YES,,,61.94,No,Yes,Fiber optic,No,,No,No,,,No
+CUST1098,Carlos Perry,,1,NO,,57,,No,Mailed check,116.10,"1,000.50",Yes,Yes,No,Yes,,No,No,Yes,,
+CUST1099,Brittany Knight,,0,,Yes,4,,NO,Bank Transfer,32.21,,,No,,Yes,Yes,Yes,,No,No,Yes
+CUST1100,Holly Massey,female,1,No,Yes,36,Month-to-month,YES,Credit card (automatic),twenty,"1,000.50",No,Yes,DSL,Yes,No,,,,No,Yes
+CUST1101,Stephanie Moreno,MALE,1,No,No,41,Two Year,NO,,,2780.97,Yes,,Fiber optic,Yes,No,No,Yes,,,yes
+CUST1102,George Hall,female,0,NO,,14,month to month,NO,,,"1,000.50",Yes,,,Yes,,Yes,,,,no
+CUST1103,Cassandra Castaneda,FEMALE,1,NO,Yes,36,month to month,YES,Electronic Check,76.90,,Yes,,NO INTERNET,Yes,Yes,,Yes,Yes,,no
+CUST1104,Regina Chan,,0,NO,No,59,,No,Bank Transfer,86.08,"1,000.50",,,Fiber optic,Yes,No,Yes,No,Yes,Yes,
+CUST1105,Emily Harvey,Male,0,NO,Yes,40,One year,YES,Credit card (automatic),80.47,"1,000.50",,no phone service,Fiber optic,Yes,Yes,,Yes,No,Yes,
+CUST1106,Jessica Quinn,FEMALE,0,Yes,No,42,One year,YES,Credit card (automatic),,"1,000.50",Yes,,No,No,No,,,No,,no
+CUST1107,Andrew Garcia,Male,1,,Yes,14,One year,No,,24.14,"1,000.50",,,DSL,No,Yes,,No,No,No,Yes
+CUST1108,Leonard Kline,Male,0,,,4,Month-to-month,Yes,Electronic Check,64.67,,No,No,NO INTERNET,No,No,No,No,,,no
+CUST1109,Teresa Pollard,Male,1,Yes,,19,Two Year,YES,,,"1,000.50",No,,DSL,Yes,,No,Yes,,,No
+CUST1110,Jacob Gill,,0,Yes,,33,,,Bank Transfer,twenty,1241.79,,No,No,No,,Yes,No,Yes,No,
+CUST1111,Cynthia Hunter,FEMALE,1,,Yes,2,One year,No,Bank Transfer,86.65,,No,,DSL,Yes,Yes,,No,,,
+CUST1112,Janet Stone,Male,0,YES,,41,Month-to-month,No,Electronic Check,92.79,,Yes,Yes,Fiber optic,,,No,No,No,No,
+CUST1113,David White,FEMALE,0,YES,No,53,Month-to-month,NO,Bank Transfer,22.93,4113.65,Yes,No,,No,,No,No,No,,yes
+CUST1114,Kyle Carter,FEMALE,0,YES,Yes,11,month to month,NO,Bank Transfer,91.13,286.19,No,No,Fiber optic,Yes,,No,,,,
+CUST1115,Christopher Stewart,FEMALE,0,YES,Yes,36,,Yes,Mailed check,twenty,1244.45,,Yes,NO INTERNET,No,,,Yes,Yes,,no
+CUST1116,Donna Ford,female,0,No,,43,One year,Yes,Bank Transfer,twenty,4524.38,,Yes,Fiber optic,,No,No,Yes,No,,Yes
+CUST1117,John Colon,female,1,No,,47,One year,NO,Credit card (automatic),20.16,,Yes,,DSL,,,Yes,Yes,No,No,no
+CUST1118,Joseph Avila,MALE,1,No,Yes,10,,Yes,Electronic Check,,,,No,DSL,No,,,Yes,,,yes
+CUST1119,Jordan Hicks,FEMALE,0,YES,,39,Month-to-month,No,Credit card (automatic),twenty,4382.20,Yes,Yes,Fiber optic,Yes,,No,,,,Yes
+CUST1120,Jason Hernandez,MALE,0,NO,,24,month to month,,Electronic Check,26.24,"1,000.50",,no phone service,No,Yes,No,No,Yes,,Yes,no
+CUST1121,Emily Wright,MALE,0,No,No,37,,No,Credit card (automatic),,1766.65,Yes,Yes,,No,No,,Yes,No,Yes,
+CUST1122,Katherine Clark,,1,No,Yes,38,Two Year,No,Mailed check,50.54,,,no phone service,No,Yes,No,,,No,,no
+CUST1123,Andrea Turner,FEMALE,1,,,60,One year,,Credit card (automatic),twenty,,,no phone service,No,,No,No,,Yes,,No
+CUST1124,Alex Black,Male,0,NO,,50,Month-to-month,,,twenty,,Yes,Yes,DSL,,,No,,,No,Yes
+CUST1125,Deborah Craig,female,1,NO,Yes,12,Month-to-month,No,Credit card (automatic),34.81,"1,000.50",,No,No,,Yes,No,Yes,No,No,yes
+CUST1126,Vincent Powers,FEMALE,0,,No,62,month to month,No,,58.45,,,no phone service,NO INTERNET,Yes,No,,Yes,Yes,,No
+CUST1127,Elizabeth Jones,,0,No,,70,One year,,Credit card (automatic),twenty,2605.68,,Yes,NO INTERNET,,No,Yes,No,,Yes,yes
+CUST1128,Michael Sawyer,Male,0,Yes,Yes,35,One year,No,Mailed check,,1434.86,No,,DSL,Yes,Yes,No,No,No,,yes
+CUST1129,Kelly Sanchez,female,0,YES,Yes,57,Two Year,NO,Mailed check,twenty,,No,Yes,NO INTERNET,Yes,,No,,,,No
+CUST1130,Alan Houston,,0,,,52,Two Year,,Bank Transfer,116.37,,No,,No,No,Yes,,No,,,
+CUST1131,Tammy Ward,female,1,NO,,29,,NO,Mailed check,twenty,2660.08,,,No,No,Yes,No,,,No,
+CUST1132,Vincent Ortega,MALE,1,,Yes,52,month to month,,,twenty,,,No,NO INTERNET,No,No,Yes,Yes,,No,No
+CUST1133,Melody Davenport,MALE,1,No,Yes,36,Two Year,YES,Electronic Check,,,Yes,Yes,No,,Yes,,No,No,No,Yes
+CUST1134,Julie Johnson,FEMALE,1,YES,Yes,63,,NO,Credit card (automatic),38.84,,No,,No,Yes,Yes,Yes,Yes,,,Yes
+CUST1135,Matthew Cowan,,1,,No,25,Month-to-month,NO,Electronic Check,18.11,,Yes,No,No,Yes,,,,,Yes,
+CUST1136,Carl Macdonald,female,0,YES,No,38,One year,,Electronic Check,,,No,Yes,,,Yes,,No,Yes,,Yes
+CUST1137,Susan Reed,Male,1,Yes,,68,,No,Credit card (automatic),,,Yes,no phone service,No,No,,No,Yes,,,Yes
+CUST1138,Brian James,female,0,No,,42,One year,No,Electronic Check,,,Yes,,DSL,No,,,,,No,No
+CUST1139,David Oconnor,,0,,,57,Two Year,YES,Credit card (automatic),twenty,,No,no phone service,No,Yes,Yes,,Yes,,,
+CUST1140,Martha Guerra,,0,No,Yes,16,month to month,NO,Credit card (automatic),,,Yes,No,,Yes,Yes,No,Yes,,,No
+CUST1141,Ryan Blevins,FEMALE,0,YES,Yes,18,Two Year,YES,Mailed check,,,No,Yes,NO INTERNET,,No,Yes,Yes,Yes,,Yes
+CUST1142,Justin Humphrey,MALE,1,No,,54,One year,YES,,,"1,000.50",Yes,Yes,Fiber optic,No,Yes,,Yes,,Yes,No
+CUST1143,Kristen Wells,female,1,NO,,68,Two Year,No,,,,,no phone service,No,,No,Yes,,Yes,Yes,no
+CUST1144,Jeremy Robbins,,0,YES,Yes,12,Month-to-month,YES,Bank Transfer,,"1,000.50",,no phone service,NO INTERNET,Yes,No,No,Yes,,,
+CUST1145,Richard Roberts,MALE,1,No,,67,One year,No,,twenty,,No,no phone service,NO INTERNET,Yes,Yes,,,,Yes,yes
+CUST1146,Erin Morales,female,1,NO,,57,Month-to-month,Yes,Electronic Check,,,,no phone service,No,Yes,Yes,No,,,No,Yes
+CUST1147,Megan Harrison,Male,1,No,No,67,Month-to-month,No,Electronic Check,76.76,,,No,Fiber optic,,No,Yes,,,Yes,
+CUST1148,Travis Evans,Male,0,,,15,Month-to-month,Yes,,46.59,1004.29,,No,NO INTERNET,No,,No,Yes,Yes,No,no
+CUST1149,Martin David,MALE,0,NO,,0,,Yes,,,"1,000.50",Yes,,NO INTERNET,Yes,Yes,No,Yes,,,Yes
+CUST1150,Michael Powers,FEMALE,0,NO,,5,month to month,NO,Bank Transfer,twenty,,No,Yes,,No,Yes,No,,,,
+CUST1151,Becky Yang,,1,Yes,Yes,72,,YES,Bank Transfer,57.63,"1,000.50",No,,NO INTERNET,,No,Yes,No,,,yes
+CUST1152,Elizabeth Allen,Male,1,No,,11,,No,Bank Transfer,twenty,,No,No,,,Yes,Yes,,,,Yes
+CUST1153,Monique Ayala,FEMALE,1,YES,Yes,39,One year,YES,Credit card (automatic),twenty,,Yes,no phone service,No,No,Yes,Yes,Yes,Yes,No,
+CUST1154,Michael Jackson,FEMALE,0,Yes,Yes,3,Two Year,YES,,twenty,160.61,,no phone service,DSL,Yes,Yes,Yes,No,,,Yes
+CUST1155,Mike Sanchez,female,1,NO,,37,Two Year,Yes,,,3441.05,Yes,,,,No,Yes,Yes,No,,No
+CUST1156,Robert Mclaughlin,FEMALE,0,Yes,Yes,5,Two Year,YES,Mailed check,,136.42,,Yes,,Yes,Yes,,,No,Yes,
+CUST1157,Kelly Watts,FEMALE,0,No,No,17,One year,YES,,42.04,568.83,No,Yes,NO INTERNET,,Yes,Yes,,No,,No
+CUST1158,Dawn Snow,MALE,1,NO,,0,month to month,Yes,Electronic Check,67.05,"1,000.50",No,No,DSL,No,No,No,Yes,No,No,
+CUST1159,Maria Long,female,1,NO,No,56,month to month,NO,Credit card (automatic),,4390.82,Yes,,,,,,Yes,Yes,,no
+CUST1160,Amanda Cox,,1,Yes,,13,Month-to-month,YES,Mailed check,twenty,,,no phone service,,No,Yes,Yes,Yes,,No,No
+CUST1161,Rebecca Wallace,,0,No,,22,Two Year,No,Mailed check,39.31,"1,000.50",,,,,No,Yes,,No,No,
+CUST1162,Keith Fitzgerald,Male,0,YES,,46,month to month,No,Mailed check,,,No,Yes,NO INTERNET,No,Yes,No,Yes,No,Yes,yes
+CUST1163,Jennifer Brown,female,0,,,22,Two Year,Yes,Bank Transfer,,1056.07,No,no phone service,No,Yes,Yes,,Yes,,Yes,no
+CUST1164,Jennifer Sandoval DVM,FEMALE,1,No,Yes,5,Month-to-month,No,Credit card (automatic),,,No,Yes,No,No,,Yes,No,Yes,,No
+CUST1165,Jessica Jones,female,0,YES,,27,Month-to-month,NO,Electronic Check,,2895.08,Yes,Yes,NO INTERNET,No,,No,Yes,,,
+CUST1166,Andre Mckay,female,1,YES,,63,Two Year,YES,Mailed check,,,No,No,DSL,Yes,Yes,No,No,,,No
+CUST1167,Brittney Gutierrez,,0,NO,,10,,YES,Electronic Check,48.69,699.26,,no phone service,,Yes,,No,No,,Yes,no
+CUST1168,Douglas Maldonado,female,1,YES,,58,Month-to-month,No,,,"1,000.50",Yes,Yes,Fiber optic,Yes,,,Yes,Yes,Yes,no
+CUST1169,Nancy Woods,FEMALE,1,NO,No,56,Two Year,No,Bank Transfer,,,Yes,,NO INTERNET,,No,,,,No,Yes
+CUST1170,Ronald Robbins,female,0,YES,Yes,46,,No,Bank Transfer,97.25,,No,,NO INTERNET,Yes,,Yes,No,No,No,Yes
+CUST1171,Mrs. Nicole Mahoney MD,Male,0,NO,Yes,14,Two Year,,Mailed check,twenty,"1,000.50",No,,No,No,Yes,,,Yes,,Yes
+CUST1172,Joshua Gomez,,0,YES,,36,One year,No,,,2645.13,,no phone service,,No,Yes,,Yes,No,,no
+CUST1173,Ashley Juarez,FEMALE,0,YES,Yes,71,Two Year,,Electronic Check,twenty,,No,,NO INTERNET,,,Yes,Yes,,,
+CUST1174,James Lee,FEMALE,1,YES,No,48,,YES,Credit card (automatic),twenty,"1,000.50",Yes,no phone service,Fiber optic,No,No,No,No,Yes,No,no
+CUST1175,Mary Perez,MALE,0,,,23,,No,,twenty,1795.31,No,Yes,NO INTERNET,No,Yes,Yes,,,Yes,yes
+CUST1176,Danielle Larson,MALE,0,No,,39,Month-to-month,NO,Credit card (automatic),,,Yes,No,Fiber optic,,,No,,Yes,Yes,No
+CUST1177,Amanda Castillo,female,1,YES,,16,,NO,Mailed check,28.57,,Yes,No,No,Yes,No,,,No,,no
+CUST1178,Christopher Weiss,FEMALE,1,NO,,67,Two Year,,Bank Transfer,56.26,"1,000.50",,No,DSL,Yes,No,,Yes,Yes,No,No
+CUST1179,Sheri Owen,,1,No,No,31,Two Year,YES,Bank Transfer,119.87,"1,000.50",Yes,Yes,No,Yes,,Yes,No,Yes,,yes
+CUST1180,Anna Cisneros,female,0,Yes,Yes,66,Two Year,Yes,Credit card (automatic),twenty,,No,No,NO INTERNET,,No,,Yes,No,Yes,no
+CUST1181,Michael Anderson,FEMALE,1,,,7,Month-to-month,No,Electronic Check,twenty,,Yes,,NO INTERNET,No,,,No,,,yes
+CUST1182,Kevin May,,1,NO,,12,Two Year,YES,Mailed check,twenty,,,no phone service,Fiber optic,,,No,,,,
+CUST1183,Melissa Cook PhD,Male,0,Yes,,64,Two Year,YES,Electronic Check,61.50,"1,000.50",No,,,Yes,No,No,Yes,,No,yes
+CUST1184,Katherine Smith PhD,,0,,Yes,38,,YES,Bank Transfer,,,Yes,Yes,DSL,No,,No,,,Yes,yes
+CUST1185,James Wong,,1,YES,No,30,Month-to-month,,Electronic Check,,"1,000.50",Yes,Yes,DSL,No,,Yes,,No,,yes
+CUST1186,Marie Curry,MALE,1,No,,64,,NO,Mailed check,,"1,000.50",No,No,Fiber optic,No,No,No,Yes,Yes,,No
+CUST1188,Rachel Rios,FEMALE,0,NO,,34,,No,Bank Transfer,58.08,3264.08,,,NO INTERNET,No,Yes,No,No,,,
+CUST1189,Brian Mcmillan,,1,No,,31,Two Year,NO,Electronic Check,27.71,2549.13,Yes,No,Fiber optic,No,No,No,,,,Yes
+CUST1190,Kara Long,Male,1,NO,,0,Two Year,,Credit card (automatic),,,,,NO INTERNET,No,No,,,Yes,No,no
+CUST1191,Caroline Miller,Male,1,YES,No,40,month to month,,Credit card (automatic),55.48,"1,000.50",,Yes,No,,Yes,No,Yes,,Yes,no
+CUST1192,Christopher Thompson,FEMALE,1,YES,,72,Two Year,YES,Bank Transfer,twenty,"1,000.50",,,No,Yes,,,Yes,,,
+CUST1193,Brian Hess,female,1,No,Yes,37,Two Year,YES,,twenty,2863.54,Yes,Yes,No,Yes,,No,No,,No,Yes
+CUST1194,Tonya Sullivan,female,0,YES,,32,,No,Bank Transfer,,,No,no phone service,No,Yes,,Yes,Yes,,Yes,
+CUST1195,William Garcia,FEMALE,0,,No,32,Month-to-month,NO,,119.62,,,no phone service,No,,No,Yes,No,Yes,,
+CUST1196,Nicole Love,FEMALE,1,,,60,Month-to-month,YES,Electronic Check,twenty,6354.22,,,Fiber optic,No,,Yes,Yes,,,Yes
+CUST1197,Mathew Wright,FEMALE,1,Yes,,61,Two Year,YES,,52.97,,No,no phone service,No,Yes,,Yes,Yes,Yes,No,No
+CUST1198,Anthony Allison,MALE,0,YES,,48,,,Bank Transfer,58.29,"1,000.50",,no phone service,DSL,No,Yes,No,No,,,no
+CUST1199,Brandon Benitez,,1,,Yes,22,Month-to-month,No,Bank Transfer,,,Yes,no phone service,No,,No,No,,No,No,Yes
+CUST1200,Danielle Ward,FEMALE,1,YES,No,63,Two Year,NO,Mailed check,twenty,3055.84,Yes,,Fiber optic,Yes,No,No,No,,,
+CUST1201,Matthew Williams,Male,1,YES,Yes,17,,No,,,"1,000.50",Yes,,,,Yes,No,Yes,Yes,,yes
+CUST1202,Tina Gomez,female,0,YES,,54,month to month,No,Electronic Check,,"1,000.50",Yes,No,No,Yes,Yes,No,,,,
+CUST1203,William Hansen,FEMALE,0,Yes,No,69,One year,NO,Credit card (automatic),twenty,4804.94,Yes,no phone service,DSL,Yes,No,Yes,,,No,Yes
+CUST1204,Peter Johnson,female,0,YES,,10,Two Year,YES,,,,Yes,No,NO INTERNET,Yes,,,No,Yes,Yes,
+CUST1205,Roy Nelson,female,1,Yes,Yes,1,Two Year,YES,Mailed check,,,Yes,no phone service,Fiber optic,No,No,,,,Yes,
+CUST1206,Phillip Casey,female,1,NO,,65,Two Year,YES,Electronic Check,,"1,000.50",No,,DSL,,No,,No,Yes,Yes,
+CUST1207,Robert Richardson,MALE,0,No,,12,month to month,,Credit card (automatic),,1192.14,,Yes,,Yes,Yes,No,,Yes,,yes
+CUST1208,Sheri Cohen,,0,YES,,8,One year,,Bank Transfer,,,No,No,Fiber optic,No,No,Yes,No,,,
+CUST1209,Timothy Lin,MALE,0,,Yes,51,Two Year,NO,Credit card (automatic),twenty,,Yes,,NO INTERNET,Yes,,,Yes,Yes,No,yes
+CUST1210,Adam Thomas,,0,NO,,42,month to month,YES,Electronic Check,,3792.91,No,Yes,NO INTERNET,No,,,No,Yes,No,
+CUST1211,Jon Martinez,FEMALE,0,YES,Yes,34,One year,No,Electronic Check,83.77,"1,000.50",,,NO INTERNET,,,,,Yes,,yes
+CUST1212,Juan Clark,Male,1,No,,0,Two Year,Yes,Electronic Check,twenty,0.00,Yes,,No,No,,Yes,Yes,,,no
+CUST1213,David Goodwin,Male,1,NO,,20,One year,,Bank Transfer,twenty,1741.43,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,,No
+CUST1214,Kimberly Schmidt,,0,No,Yes,33,,YES,Electronic Check,twenty,"1,000.50",No,,DSL,Yes,Yes,No,No,No,No,No
+CUST1215,Debra Rice,,1,,Yes,50,Month-to-month,YES,Mailed check,18.99,5846.80,Yes,no phone service,No,Yes,No,Yes,No,,,No
+CUST1216,Terry Wilkerson,,0,YES,Yes,45,One year,,,64.41,,,,No,,No,,Yes,,No,
+CUST1217,Gary Greene,FEMALE,1,Yes,Yes,9,One year,No,Electronic Check,,"1,000.50",Yes,,Fiber optic,No,,,,No,,
+CUST1218,Melissa Estes,FEMALE,0,NO,,61,,No,,,5449.22,No,no phone service,,,,No,No,,Yes,no
+CUST1219,Hector Wilson,,1,,Yes,12,One year,NO,Electronic Check,115.90,1017.28,Yes,Yes,DSL,,,No,No,,,no
+CUST1220,Mark Roth,FEMALE,0,,Yes,2,month to month,,Electronic Check,twenty,"1,000.50",Yes,Yes,No,Yes,,Yes,No,,,no
+CUST1221,Janice Jones,female,0,,Yes,69,,No,Mailed check,82.00,,Yes,no phone service,NO INTERNET,No,,,No,,,Yes
+CUST1222,Nicole Garza,MALE,0,YES,,48,month to month,Yes,Credit card (automatic),twenty,"1,000.50",No,Yes,No,No,No,No,,Yes,Yes,No
+CUST1223,Alison Weber,,0,NO,No,21,,YES,Credit card (automatic),,"1,000.50",No,Yes,,,No,,Yes,,No,yes
+CUST1224,Alexis Thompson,FEMALE,1,No,Yes,71,One year,Yes,Bank Transfer,66.32,"1,000.50",,,,Yes,,No,,,Yes,
+CUST1225,Michael Norman,female,0,NO,Yes,1,One year,YES,Electronic Check,twenty,"1,000.50",,,,,No,No,,,No,
+CUST1226,Cameron Nguyen,Male,1,Yes,Yes,24,One year,No,Mailed check,,,Yes,,,Yes,Yes,No,Yes,,Yes,
+CUST1227,Jeanne Nelson,MALE,0,YES,No,40,Month-to-month,YES,Mailed check,twenty,1965.41,Yes,no phone service,NO INTERNET,Yes,,No,,,,no
+CUST1228,Sierra Jackson,FEMALE,0,NO,,1,Month-to-month,YES,,72.10,,Yes,no phone service,NO INTERNET,,Yes,,No,,,
+CUST1229,Nancy Berg,,0,YES,,30,One year,Yes,,twenty,3033.73,,no phone service,No,No,Yes,,Yes,No,,no
+CUST1230,Kenneth Robinson,FEMALE,0,No,No,37,Two Year,Yes,Bank Transfer,,3747.28,Yes,,NO INTERNET,Yes,No,,,No,Yes,no
+CUST1231,Dominique Ayala,female,0,NO,,41,Month-to-month,,Credit card (automatic),,,No,,Fiber optic,No,No,Yes,No,,No,
+CUST1232,Brian Christian,,0,YES,Yes,37,Two Year,,,41.31,,,no phone service,DSL,,Yes,Yes,Yes,Yes,,no
+CUST1233,Jeremy Carr,,0,YES,,42,,YES,Credit card (automatic),twenty,,No,Yes,DSL,No,Yes,Yes,Yes,No,,No
+CUST1234,Matthew Joseph,MALE,1,YES,Yes,45,,NO,Credit card (automatic),twenty,5084.45,No,,No,No,No,Yes,Yes,,No,yes
+CUST1235,William Brown,,0,Yes,,34,month to month,,Electronic Check,61.66,"1,000.50",,,No,No,No,No,No,No,,no
+CUST1236,Mr. Richard Carter,FEMALE,0,YES,Yes,58,One year,Yes,Bank Transfer,,,Yes,no phone service,DSL,,Yes,Yes,,No,No,Yes
+CUST1237,Jeffrey Zimmerman,,0,YES,Yes,21,,No,Electronic Check,50.43,"1,000.50",,no phone service,,Yes,No,No,Yes,No,No,yes
+CUST1238,Andrew Brady,Male,1,Yes,Yes,44,,YES,Electronic Check,,,Yes,no phone service,No,,Yes,,,,,
+CUST1239,Gary Collins,female,1,No,No,54,One year,No,Credit card (automatic),twenty,2083.55,No,No,Fiber optic,,Yes,,No,,,
+CUST1240,Tristan Wolf,,1,No,No,62,,Yes,Mailed check,twenty,4567.66,,,No,Yes,No,,No,No,No,no
+CUST1241,Olivia Rivera,MALE,1,NO,Yes,67,Month-to-month,Yes,Electronic Check,82.93,,,No,No,Yes,,,Yes,,,yes
+CUST1242,Andrea Gross,female,0,Yes,,11,,NO,,52.01,704.40,Yes,No,No,,No,,No,,Yes,No
+CUST1243,James Colon,,0,,,8,Two Year,,,93.48,248.23,No,No,DSL,No,Yes,Yes,Yes,,,
+CUST1244,Natalie Webb,,1,NO,Yes,52,Month-to-month,YES,,70.62,,Yes,no phone service,NO INTERNET,,Yes,,No,Yes,,
+CUST1245,Brittney Fernandez,Male,1,YES,No,56,month to month,YES,Bank Transfer,74.54,6151.43,Yes,,DSL,,,Yes,No,,No,yes
+CUST1246,Daniel Hayes,female,1,YES,Yes,36,Month-to-month,Yes,Mailed check,twenty,2964.55,,Yes,Fiber optic,No,,No,No,Yes,,no
+CUST1247,Alex Morrison,female,1,NO,,36,Month-to-month,No,Electronic Check,twenty,,Yes,no phone service,,,No,,Yes,,No,Yes
+CUST1248,Sean Cameron,MALE,1,No,No,31,,NO,Electronic Check,40.19,1954.63,Yes,Yes,DSL,Yes,Yes,,No,No,,Yes
+CUST1249,Terry Esparza,female,1,NO,,20,month to month,YES,Credit card (automatic),twenty,"1,000.50",No,No,NO INTERNET,,,Yes,,,,No
+CUST1250,Ricky Park,MALE,1,Yes,,56,,No,Electronic Check,twenty,,No,Yes,No,No,No,Yes,,Yes,No,Yes
+CUST1251,Nicole Kirby,,1,,Yes,14,Two Year,No,Credit card (automatic),42.80,,No,,,No,No,,No,,Yes,
+CUST1252,Lori Walton,,0,,,61,,No,Electronic Check,53.24,5468.33,,,DSL,Yes,,No,Yes,Yes,No,Yes
+CUST1253,Christopher Moore,,0,Yes,,30,One year,Yes,Credit card (automatic),36.83,,,,DSL,,Yes,No,Yes,No,,Yes
+CUST1254,Alexander Walton,FEMALE,1,Yes,Yes,11,,,Bank Transfer,twenty,,No,,,,Yes,Yes,No,,,no
+CUST1255,Samuel Burch,MALE,0,No,,34,One year,Yes,Bank Transfer,twenty,"1,000.50",,Yes,NO INTERNET,,No,,No,,,yes
+CUST1256,Angela Moore,female,0,Yes,No,11,month to month,,,,"1,000.50",,No,No,Yes,No,,No,Yes,Yes,No
+CUST1257,Kayla Rodriguez,MALE,0,Yes,No,2,Month-to-month,,Electronic Check,twenty,58.00,,,Fiber optic,No,No,No,Yes,No,Yes,yes
+CUST1258,Daniel Simmons,female,0,,Yes,38,month to month,No,Bank Transfer,twenty,"1,000.50",No,,No,No,Yes,Yes,,Yes,Yes,yes
+CUST1259,Pamela Mcconnell,,0,,,56,month to month,Yes,Electronic Check,twenty,,No,,Fiber optic,Yes,,No,,No,,No
+CUST1260,Marcus Williams,female,1,NO,Yes,20,Two Year,YES,Credit card (automatic),twenty,"1,000.50",,no phone service,No,No,,Yes,,,,No
+CUST1261,Frank Hernandez,Male,1,NO,,64,month to month,YES,,95.32,,No,no phone service,Fiber optic,Yes,,,,,,
+CUST1262,Ryan Hess,female,1,No,,66,month to month,YES,Credit card (automatic),,"1,000.50",Yes,No,,,Yes,,No,,,No
+CUST1263,Mark Jones,MALE,0,Yes,No,61,,,Credit card (automatic),twenty,,Yes,No,Fiber optic,Yes,,,Yes,,Yes,Yes
+CUST1264,Brian Nelson,FEMALE,0,No,,58,month to month,Yes,,109.21,4019.85,No,No,No,,Yes,No,Yes,,No,
+CUST1265,Michael Chavez,female,1,No,,63,,Yes,Mailed check,37.55,,Yes,,,No,,,,Yes,,
+CUST1266,Dustin Wright,,0,No,,60,Two Year,YES,Mailed check,twenty,"1,000.50",No,,DSL,,No,No,,Yes,Yes,Yes
+CUST1267,Christian Hester,MALE,1,NO,No,5,month to month,NO,Electronic Check,twenty,138.68,,no phone service,DSL,Yes,,No,No,,,Yes
+CUST1268,Zachary Mcdaniel,FEMALE,0,Yes,,42,month to month,No,Electronic Check,,4126.18,No,No,No,,,Yes,,,,No
+CUST1269,Paula Hull,,0,NO,,45,Month-to-month,No,,twenty,,No,No,NO INTERNET,Yes,,Yes,Yes,,,yes
+CUST1270,James Keller,MALE,0,No,No,9,Month-to-month,YES,Mailed check,19.60,177.89,Yes,,DSL,No,,Yes,Yes,No,,No
+CUST1271,Stephanie Conner,,1,YES,Yes,24,month to month,YES,Bank Transfer,,,Yes,Yes,Fiber optic,Yes,Yes,No,,Yes,,No
+CUST1272,Antonio Jackson,MALE,1,YES,,58,month to month,NO,Bank Transfer,41.03,"1,000.50",,no phone service,,No,,,,Yes,No,No
+CUST1273,Leslie Holmes,Male,0,NO,Yes,7,Month-to-month,Yes,Credit card (automatic),23.02,,,No,No,,No,Yes,Yes,No,No,
+CUST1274,Connie Brewer,,0,,,20,,Yes,Credit card (automatic),twenty,,,No,NO INTERNET,Yes,Yes,No,No,,,
+CUST1275,Maxwell Davis,,1,NO,,7,One year,YES,Credit card (automatic),twenty,,,Yes,No,No,No,Yes,Yes,Yes,No,yes
+CUST1276,Mark Jones,MALE,1,,Yes,46,Two Year,YES,Bank Transfer,twenty,,,no phone service,No,No,No,No,,No,Yes,Yes
+CUST1277,Laura Brown,FEMALE,1,Yes,No,38,Two Year,No,,96.39,,,Yes,No,Yes,Yes,No,Yes,,No,no
+CUST1278,Christina Perry,Male,1,No,,16,,Yes,Electronic Check,106.43,,Yes,Yes,,Yes,No,,,Yes,No,
+CUST1279,Dr. Kristin Green,Male,1,NO,No,7,Two Year,NO,Electronic Check,twenty,"1,000.50",,,,,No,No,No,No,No,
+CUST1280,Annette Figueroa,FEMALE,1,,,37,month to month,Yes,Mailed check,twenty,,Yes,No,DSL,,No,No,No,,No,
+CUST1281,Cristian Cannon,Male,0,No,,56,Two Year,NO,Credit card (automatic),twenty,,No,No,NO INTERNET,No,No,,Yes,No,Yes,yes
+CUST1282,Haley Pena,FEMALE,1,Yes,No,65,One year,No,Bank Transfer,62.37,,,No,DSL,,,,Yes,Yes,Yes,
+CUST1283,Jessica Weaver,FEMALE,1,NO,,57,Month-to-month,NO,Credit card (automatic),105.39,,No,,NO INTERNET,No,Yes,,Yes,,,no
+CUST1284,Dr. Brian Powers,,1,YES,,10,Two Year,No,Electronic Check,92.88,,No,No,,No,,Yes,Yes,Yes,No,
+CUST1285,Lisa Dunn,female,1,,Yes,37,One year,,Bank Transfer,,,,Yes,,Yes,No,,No,,,
+CUST1286,Jon Johnson,FEMALE,0,No,,19,Two Year,No,,twenty,,,,,Yes,,,Yes,No,,yes
+CUST1287,William Davila,FEMALE,0,No,,31,,YES,Credit card (automatic),,,No,Yes,,,,No,No,No,,
+CUST1288,Amy Hawkins,MALE,1,YES,,13,Month-to-month,YES,Credit card (automatic),21.12,"1,000.50",,,DSL,No,Yes,No,No,,Yes,
+CUST1289,Andrew Patton,FEMALE,1,No,No,1,Month-to-month,NO,Electronic Check,,,No,No,,No,Yes,,Yes,,,no
+CUST1290,Kristina Mendoza,female,0,YES,No,52,,YES,,,,,Yes,,No,No,Yes,,,,no
+CUST1291,Christopher Jones,Male,0,YES,,31,Month-to-month,YES,Electronic Check,98.21,,,No,DSL,No,No,No,No,,,No
+CUST1292,Elizabeth Moore,FEMALE,0,,Yes,51,One year,NO,Mailed check,,5986.45,No,Yes,NO INTERNET,No,No,,No,Yes,,Yes
+CUST1293,Kimberly Gomez,,0,NO,No,71,Two Year,NO,Mailed check,104.50,"1,000.50",Yes,no phone service,No,Yes,No,,Yes,Yes,Yes,No
+CUST1294,Ashley Jackson,Male,0,YES,,36,Two Year,NO,,,"1,000.50",Yes,no phone service,DSL,Yes,Yes,No,Yes,No,,Yes
+CUST1295,James King,MALE,1,Yes,,28,month to month,NO,Mailed check,80.03,"1,000.50",No,No,NO INTERNET,Yes,,Yes,,,Yes,
+CUST1296,Aimee Lynch,,0,NO,No,18,Two Year,NO,Mailed check,twenty,,Yes,no phone service,NO INTERNET,,Yes,,Yes,No,,No
+CUST1297,Adam Williams,MALE,0,No,Yes,25,,No,Bank Transfer,26.99,"1,000.50",No,No,,No,,No,No,Yes,No,Yes
+CUST1298,Ralph Chen,Male,1,YES,,34,month to month,YES,Bank Transfer,twenty,2792.91,,No,No,Yes,,No,No,,,
+CUST1299,Kathy Rocha,Male,0,Yes,,45,Two Year,,Bank Transfer,twenty,,,,NO INTERNET,,Yes,No,,,No,yes
+CUST1300,Mariah Perez,MALE,1,,,9,month to month,YES,Electronic Check,,320.68,No,Yes,Fiber optic,,,No,,,Yes,
+CUST1301,Allison Acosta,Male,1,No,,55,Month-to-month,Yes,Electronic Check,87.44,,Yes,Yes,Fiber optic,Yes,,Yes,,,,No
+CUST1302,Elizabeth Fields,FEMALE,0,NO,Yes,43,One year,NO,Bank Transfer,twenty,"1,000.50",,Yes,NO INTERNET,,,,,,,Yes
+CUST1303,Amanda Henderson,Male,1,,,20,Two Year,YES,Credit card (automatic),21.52,,No,no phone service,,Yes,Yes,Yes,Yes,,,yes
+CUST1304,Mary Avila,female,0,Yes,,3,One year,No,,,80.78,No,,No,,Yes,,Yes,Yes,Yes,
+CUST1305,Sarah Morgan,FEMALE,0,No,No,0,Two Year,No,,53.02,0.00,,,,,Yes,Yes,No,No,,no
+CUST1306,Brandon Burns,MALE,1,YES,,18,One year,No,Credit card (automatic),,1765.39,,No,,Yes,,,Yes,,No,no
+CUST1307,Eric Clark,Male,1,,,60,One year,YES,Bank Transfer,88.73,6246.48,,Yes,NO INTERNET,No,No,No,Yes,Yes,No,
+CUST1308,Alexander Morgan,Male,0,,Yes,9,month to month,NO,Credit card (automatic),,,,,,No,No,Yes,,Yes,,No
+CUST1309,Gerald Gonzales,MALE,1,No,,39,One year,YES,,twenty,,Yes,Yes,NO INTERNET,No,,,No,,No,
+CUST1310,Joan Hunt,female,1,YES,,3,Two Year,YES,Electronic Check,21.80,,No,,DSL,Yes,No,,,,No,Yes
+CUST1311,David Wise,female,1,,Yes,9,Two Year,No,Bank Transfer,twenty,,Yes,no phone service,NO INTERNET,No,No,,No,Yes,,
+CUST1312,Keith Mitchell,,1,No,No,20,Two Year,No,Mailed check,,,,,NO INTERNET,No,Yes,No,No,,Yes,yes
+CUST1313,Timothy Moreno DVM,FEMALE,0,YES,No,62,One year,No,Electronic Check,twenty,3941.22,No,no phone service,No,,No,,,No,,no
+CUST1314,Michael Mejia,FEMALE,1,,,25,Two Year,YES,Bank Transfer,twenty,,Yes,Yes,DSL,Yes,,No,No,,Yes,
+CUST1315,Joshua Cannon,MALE,1,YES,Yes,16,One year,YES,Bank Transfer,twenty,,,no phone service,NO INTERNET,,No,,Yes,Yes,No,Yes
+CUST1316,Christine Baker,,0,YES,,42,month to month,No,Electronic Check,77.82,3965.53,No,,No,,No,,No,Yes,No,Yes
+CUST1317,Nicole Randolph,,0,Yes,Yes,42,,YES,Electronic Check,104.73,,,No,DSL,No,,Yes,Yes,,,No
+CUST1318,Stephen Braun,MALE,0,Yes,No,20,month to month,,Credit card (automatic),twenty,"1,000.50",Yes,no phone service,NO INTERNET,,Yes,No,Yes,,,
+CUST1319,Duane Robbins,female,1,YES,,57,month to month,Yes,Mailed check,twenty,"1,000.50",,,,Yes,No,,No,,,Yes
+CUST1320,Matthew Robinson,,0,NO,No,5,Two Year,Yes,Bank Transfer,61.17,427.54,No,Yes,Fiber optic,,,,Yes,No,Yes,
+CUST1321,Jamie Smith,Male,0,NO,,56,month to month,Yes,Mailed check,,"1,000.50",,,NO INTERNET,Yes,,No,No,,Yes,
+CUST1322,Tammy Foster,,0,No,No,50,,Yes,Electronic Check,83.53,"1,000.50",No,Yes,No,Yes,,Yes,No,,No,no
+CUST1323,Wesley James,female,1,Yes,,67,Two Year,YES,Electronic Check,,,Yes,no phone service,Fiber optic,Yes,No,No,Yes,,No,
+CUST1324,Diana Moody,Male,1,,,14,One year,,,twenty,355.26,No,No,DSL,,No,Yes,Yes,Yes,,
+CUST1325,Brittany Arnold,Male,0,Yes,,20,One year,YES,Electronic Check,,,,Yes,DSL,Yes,Yes,,Yes,,No,
+CUST1326,Connie Wagner,female,1,,,7,Two Year,,Electronic Check,,"1,000.50",,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,No
+CUST1327,Joy Frazier,MALE,1,YES,Yes,64,,No,,96.73,,,,,Yes,,,No,,No,
+CUST1328,Robert Richard,FEMALE,0,Yes,Yes,28,,,Bank Transfer,twenty,1198.34,No,,,Yes,No,No,Yes,,Yes,
+CUST1329,Eric Meyer,female,0,,,25,,NO,Mailed check,twenty,,Yes,No,DSL,No,No,No,,,,No
+CUST1330,Paul Macdonald,MALE,0,No,,70,month to month,,,118.25,,,Yes,No,Yes,No,,Yes,Yes,No,yes
+CUST1331,Valerie Hawkins,FEMALE,0,NO,,37,Month-to-month,NO,Electronic Check,,,Yes,No,Fiber optic,,No,,No,No,,
+CUST1332,Jessica Taylor,FEMALE,0,Yes,,67,month to month,,,twenty,"1,000.50",,No,No,Yes,Yes,No,Yes,,No,no
+CUST1333,Nicole Johnson,,1,YES,,13,Month-to-month,Yes,Mailed check,,"1,000.50",No,No,NO INTERNET,,No,No,,,No,yes
+CUST1334,William Jefferson,Male,1,NO,Yes,44,Two Year,NO,Mailed check,118.79,"1,000.50",No,No,,No,No,,,No,,
+CUST1335,Jonathan Owens MD,MALE,0,YES,,61,Month-to-month,,,114.32,2333.61,No,,Fiber optic,No,,,,,,no
+CUST1336,Sara Carroll,female,1,NO,No,44,,No,Bank Transfer,twenty,"1,000.50",No,Yes,No,No,,Yes,No,,,
+CUST1337,Anthony Smith,female,1,NO,No,64,month to month,No,Electronic Check,,5211.27,Yes,No,,Yes,No,Yes,,,No,
+CUST1338,Kyle Perez,female,1,No,,21,One year,No,Electronic Check,twenty,"1,000.50",No,,DSL,Yes,No,No,No,No,Yes,yes
+CUST1339,Walter French,,0,NO,,19,,,Mailed check,92.28,,No,Yes,No,Yes,,No,Yes,,Yes,yes
+CUST1340,Michael Fernandez,,0,Yes,,62,month to month,NO,Bank Transfer,twenty,,Yes,Yes,,No,Yes,Yes,No,No,Yes,no
+CUST1341,Casey Reynolds,FEMALE,0,,,5,month to month,YES,Mailed check,48.47,"1,000.50",,no phone service,Fiber optic,Yes,Yes,Yes,,,No,no
+CUST1342,Jeffrey Hansen,FEMALE,0,NO,,24,month to month,YES,Bank Transfer,,"1,000.50",No,,NO INTERNET,Yes,No,No,,,,Yes
+CUST1343,Joshua Ray,female,0,No,,60,Month-to-month,NO,Mailed check,twenty,"1,000.50",Yes,No,No,,Yes,,No,No,Yes,yes
+CUST1344,Virginia Cummings,FEMALE,1,,Yes,69,month to month,Yes,Bank Transfer,,"1,000.50",Yes,Yes,DSL,,,Yes,,,Yes,
+CUST1345,John Cuevas,Male,1,YES,No,48,Two Year,,Mailed check,,"1,000.50",,Yes,No,No,,,No,Yes,No,no
+CUST1346,Beth Patel,MALE,0,NO,Yes,4,One year,Yes,Electronic Check,,"1,000.50",,,No,No,,Yes,,No,No,
+CUST1347,Tina Lynch,,1,Yes,No,69,month to month,YES,Credit card (automatic),,,No,no phone service,Fiber optic,,Yes,No,,Yes,,yes
+CUST1348,Richard Crawford,FEMALE,1,Yes,No,19,,Yes,Bank Transfer,104.68,,,Yes,NO INTERNET,,No,Yes,No,No,Yes,
+CUST1349,Matthew Young,Male,1,,,5,month to month,No,Credit card (automatic),,"1,000.50",Yes,Yes,,,,No,Yes,,,No
+CUST1350,Richard Stevens,FEMALE,0,,Yes,35,month to month,No,Bank Transfer,,1345.56,Yes,Yes,NO INTERNET,No,,No,,,No,yes
+CUST1351,Laura Robbins,MALE,0,NO,No,21,Two Year,,Electronic Check,twenty,,No,,No,No,,Yes,Yes,No,Yes,No
+CUST1352,Julie Moore,MALE,0,,No,30,Month-to-month,Yes,Bank Transfer,twenty,"1,000.50",,,Fiber optic,Yes,Yes,,Yes,,,
+CUST1353,Mackenzie Hampton DDS,FEMALE,0,YES,No,69,month to month,YES,Credit card (automatic),106.92,"1,000.50",,no phone service,Fiber optic,No,No,Yes,,,,No
+CUST1354,Denise Williamson,,1,No,No,48,One year,NO,Electronic Check,89.20,1743.88,,Yes,,No,Yes,Yes,No,Yes,Yes,
+CUST1355,Michael Torres,FEMALE,1,YES,Yes,19,One year,,Mailed check,29.03,,Yes,no phone service,,Yes,Yes,,,,,Yes
+CUST1356,Ernest Herman,Male,0,YES,,9,Two Year,,Mailed check,twenty,,Yes,Yes,,Yes,Yes,,No,No,Yes,no
+CUST1357,Ashley Allen,FEMALE,1,,Yes,50,Month-to-month,Yes,,twenty,,Yes,,No,Yes,No,No,No,,,No
+CUST1358,Tara Murphy,MALE,0,Yes,,11,Two Year,No,,twenty,"1,000.50",Yes,Yes,,Yes,Yes,No,,No,Yes,Yes
+CUST1359,Christopher Williams,,1,Yes,,11,,,Credit card (automatic),,,Yes,no phone service,No,Yes,No,Yes,Yes,,No,
+CUST1360,Rebecca Steele,,1,NO,,3,,YES,Electronic Check,twenty,"1,000.50",No,no phone service,No,,Yes,Yes,Yes,,,Yes
+CUST1361,Mark Wong,female,0,Yes,,63,Month-to-month,NO,Credit card (automatic),22.13,,No,No,Fiber optic,,,Yes,No,No,Yes,
+CUST1362,Lauren Ruiz,female,0,No,,64,,No,Bank Transfer,twenty,1815.75,,no phone service,Fiber optic,No,,Yes,No,No,,
+CUST1363,Mr. Donald Jenkins DVM,,0,Yes,No,46,,Yes,Credit card (automatic),twenty,,No,no phone service,No,Yes,Yes,,,,,
+CUST1364,Timothy Anthony,female,0,,,30,Two Year,Yes,Bank Transfer,twenty,,,Yes,No,Yes,Yes,,No,,No,
+CUST1365,Bobby Lamb,,1,YES,Yes,42,One year,NO,Mailed check,,,No,,NO INTERNET,Yes,,Yes,Yes,,No,
+CUST1366,Tiffany Howell,FEMALE,0,YES,Yes,70,One year,YES,Credit card (automatic),112.11,,No,No,,Yes,,Yes,,No,,yes
+CUST1367,Joshua Barnett,female,1,No,No,58,Month-to-month,YES,,twenty,,,,,Yes,Yes,No,,,No,yes
+CUST1368,Kelly Rogers,female,0,,Yes,54,Month-to-month,No,,82.16,,,no phone service,,No,,Yes,,Yes,Yes,No
+CUST1369,Melissa Lamb,MALE,1,YES,No,30,Month-to-month,,Credit card (automatic),19.90,,,Yes,No,,,,Yes,,,
+CUST1370,Bryce Barnes,Male,0,No,,58,,,,,3596.25,,Yes,No,,,No,No,Yes,,
+CUST1371,Ashley Harris,MALE,1,No,,64,Month-to-month,YES,Mailed check,twenty,"1,000.50",,No,Fiber optic,Yes,,No,,,No,yes
+CUST1372,Ryan Cummings,Male,0,YES,,13,Two Year,Yes,,twenty,565.27,Yes,no phone service,Fiber optic,No,No,,No,Yes,No,no
+CUST1373,Brenda Hunter,MALE,1,Yes,No,55,One year,,Credit card (automatic),116.51,,,Yes,No,Yes,,,,,No,no
+CUST1374,Lisa Brown,,0,No,,51,One year,,Credit card (automatic),twenty,2196.92,Yes,no phone service,DSL,,Yes,No,Yes,,Yes,yes
+CUST1375,Heidi Howell,Male,0,No,,27,month to month,YES,Credit card (automatic),98.72,,No,,DSL,Yes,,Yes,No,Yes,,No
+CUST1376,Anthony Johnston,FEMALE,0,YES,,10,One year,No,Credit card (automatic),19.48,,Yes,No,,Yes,No,,Yes,,Yes,No
+CUST1377,Alicia Leblanc,FEMALE,1,YES,Yes,63,Month-to-month,YES,Credit card (automatic),twenty,"1,000.50",No,no phone service,,Yes,,Yes,,No,Yes,yes
+CUST1378,Joseph Perry,MALE,1,NO,Yes,2,Month-to-month,NO,Bank Transfer,,,Yes,,DSL,Yes,No,,,,,
+CUST1379,Garrett Reeves,female,1,No,,30,Two Year,No,Electronic Check,,"1,000.50",No,Yes,,,No,No,No,No,,no
+CUST1380,William Ayers DDS,FEMALE,0,,,54,month to month,YES,Electronic Check,twenty,,,,No,,,No,,,,No
+CUST1381,Michael Leonard,,1,No,Yes,34,Two Year,Yes,Mailed check,,,Yes,,NO INTERNET,No,No,Yes,Yes,,Yes,
+CUST1382,Patrick Velez,female,0,Yes,No,27,Two Year,No,Bank Transfer,84.58,1588.74,No,no phone service,No,Yes,,No,Yes,,,yes
+CUST1383,Holly Osborne,female,0,No,Yes,0,Two Year,No,Electronic Check,twenty,"1,000.50",Yes,No,DSL,Yes,,Yes,Yes,,Yes,
+CUST1384,Zachary Campbell,Male,1,No,,25,Two Year,YES,Mailed check,twenty,,Yes,No,Fiber optic,Yes,,,,,Yes,yes
+CUST1385,Laura Conway,,0,YES,,60,month to month,No,,,,No,,No,Yes,No,Yes,No,,,No
+CUST1386,Jeffrey Morris,FEMALE,0,NO,,56,month to month,Yes,Electronic Check,twenty,,Yes,,No,,,Yes,,No,No,no
+CUST1387,Katie Johnson,Male,0,Yes,Yes,55,month to month,YES,Mailed check,109.54,,Yes,Yes,NO INTERNET,No,,Yes,No,,,no
+CUST1388,Karen Miller,female,0,Yes,,9,Two Year,No,Electronic Check,twenty,,,no phone service,No,No,Yes,,Yes,Yes,Yes,
+CUST1389,Caitlin Garrett,,0,No,,7,Month-to-month,NO,,61.78,,Yes,No,NO INTERNET,Yes,No,Yes,Yes,,Yes,yes
+CUST1390,John Morris,MALE,0,Yes,,25,,,,,,Yes,No,DSL,Yes,Yes,Yes,No,Yes,Yes,no
+CUST1391,Alex Robles,MALE,0,NO,Yes,31,month to month,YES,Mailed check,45.49,"1,000.50",No,no phone service,Fiber optic,No,,,No,Yes,,
+CUST1392,Briana Mosley,,0,YES,,60,,YES,,twenty,2186.50,No,no phone service,DSL,No,,,Yes,Yes,Yes,
+CUST1393,Andre Harrison,FEMALE,0,NO,Yes,52,month to month,,Bank Transfer,41.81,,Yes,Yes,,No,Yes,Yes,No,,,
+CUST1394,Jacob Hernandez,Male,1,No,,69,Month-to-month,NO,Mailed check,63.44,,Yes,no phone service,No,Yes,No,,Yes,No,No,No
+CUST1395,Jeffrey George,Male,1,YES,,69,Two Year,,Electronic Check,55.13,,,Yes,No,Yes,,Yes,Yes,,,
+CUST1396,Jessica Hines,MALE,0,No,,47,month to month,NO,Electronic Check,,"1,000.50",No,Yes,,,No,Yes,No,,Yes,no
+CUST1397,Patricia Mcgee,female,0,Yes,,10,One year,NO,Bank Transfer,twenty,208.18,No,,NO INTERNET,,Yes,No,Yes,Yes,Yes,No
+CUST1398,Joanna Charles,,1,Yes,,40,month to month,YES,Credit card (automatic),,,Yes,no phone service,NO INTERNET,Yes,Yes,,No,,,Yes
+CUST1399,Robert Bennett,FEMALE,1,,,43,Two Year,,Bank Transfer,twenty,,,Yes,,Yes,No,Yes,,,No,yes
+CUST1400,Richard Johnson,FEMALE,0,YES,,38,Month-to-month,No,Credit card (automatic),twenty,"1,000.50",Yes,,No,Yes,Yes,,No,,,No
+CUST1401,Joyce Smith,MALE,0,YES,,4,month to month,,,twenty,156.49,Yes,No,,Yes,No,,Yes,No,,yes
+CUST1402,Julia Schmitt,MALE,0,Yes,Yes,48,,NO,,twenty,,No,No,DSL,No,No,No,,,,
+CUST1403,Destiny Sullivan,FEMALE,1,No,,22,One year,YES,Credit card (automatic),twenty,"1,000.50",No,no phone service,,No,Yes,No,,,,no
+CUST1404,Jessica Davis,FEMALE,1,,No,21,,,,42.96,,Yes,No,DSL,No,Yes,,Yes,Yes,Yes,
+CUST1405,Jesse Scott,Male,0,Yes,,21,,YES,Mailed check,twenty,,,,,Yes,,,Yes,No,,
+CUST1406,Stacy Johnson,MALE,0,YES,,4,Two Year,NO,Electronic Check,21.60,"1,000.50",Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,
+CUST1407,Laura Morris,,0,NO,,58,,,Credit card (automatic),twenty,,No,no phone service,,Yes,,,,,,Yes
+CUST1408,James Scott,female,0,No,,16,Two Year,Yes,Credit card (automatic),twenty,"1,000.50",,no phone service,Fiber optic,No,Yes,No,,No,,yes
+CUST1409,Jonathan Ellis,FEMALE,0,,,67,One year,Yes,Bank Transfer,99.83,4026.22,,Yes,No,,No,No,Yes,,,
+CUST1410,Preston Fisher,MALE,0,Yes,No,8,,Yes,Bank Transfer,69.31,,No,No,No,No,Yes,No,,Yes,No,yes
+CUST1411,David Crawford,FEMALE,0,YES,,34,,No,,twenty,,Yes,Yes,DSL,,,,Yes,No,,
+CUST1412,Marie Hendrix,FEMALE,1,No,Yes,45,month to month,NO,Mailed check,,810.15,,Yes,,,No,No,,No,,No
+CUST1413,Betty Mendoza,FEMALE,0,,,45,month to month,YES,Electronic Check,32.68,"1,000.50",,no phone service,,Yes,,,Yes,Yes,Yes,
+CUST1414,Brian Olson,Male,1,YES,,35,Two Year,YES,Credit card (automatic),twenty,4058.86,Yes,Yes,Fiber optic,No,,No,No,,,yes
+CUST1415,Jocelyn Johnson,female,1,No,,7,,NO,Credit card (automatic),twenty,,No,Yes,Fiber optic,No,No,Yes,Yes,,No,no
+CUST1416,Mary Good,FEMALE,0,No,Yes,51,Month-to-month,,,twenty,"1,000.50",No,No,No,No,Yes,,No,,,No
+CUST1417,Molly Hansen,female,1,,,46,Month-to-month,YES,Bank Transfer,,,Yes,,No,No,,Yes,No,No,,yes
+CUST1418,Kathryn Brooks,female,1,NO,Yes,8,month to month,NO,Credit card (automatic),26.38,"1,000.50",,No,Fiber optic,Yes,Yes,Yes,No,,,Yes
+CUST1419,Dr. Ryan Knight,,1,,No,62,month to month,,Mailed check,twenty,,No,,Fiber optic,Yes,,,No,Yes,,no
+CUST1420,Jim Smith,Male,1,No,,45,month to month,Yes,Electronic Check,twenty,,No,Yes,No,Yes,Yes,Yes,,Yes,Yes,Yes
+CUST1421,Jordan Brown,FEMALE,1,,No,25,Month-to-month,Yes,Electronic Check,19.86,2803.35,No,No,DSL,Yes,No,,Yes,,,no
+CUST1422,Amanda Charles,MALE,1,No,,66,One year,YES,Bank Transfer,106.13,3758.06,Yes,no phone service,,Yes,,No,Yes,Yes,,Yes
+CUST1423,Sheryl Alvarado,female,1,NO,,62,month to month,NO,Bank Transfer,twenty,,,no phone service,NO INTERNET,No,No,Yes,No,No,,Yes
+CUST1424,Angel Morgan,FEMALE,0,NO,,20,month to month,YES,Credit card (automatic),,,,Yes,DSL,Yes,,Yes,,Yes,,yes
+CUST1425,Shannon Rogers,female,1,YES,Yes,56,Two Year,Yes,Mailed check,twenty,"1,000.50",,Yes,NO INTERNET,,,,Yes,No,Yes,Yes
+CUST1426,Justin Rodriguez,female,1,No,No,13,month to month,Yes,Mailed check,,,,Yes,Fiber optic,,,No,No,,Yes,no
+CUST1427,Mallory Cobb,Male,1,NO,Yes,24,One year,No,Electronic Check,103.88,,,no phone service,No,,,Yes,Yes,Yes,No,Yes
+CUST1428,Joe Good,female,1,No,No,18,month to month,No,Electronic Check,twenty,2029.13,No,no phone service,DSL,Yes,,No,,,,No
+CUST1429,Kristin Dyer,MALE,0,YES,No,31,Two Year,YES,Credit card (automatic),,"1,000.50",No,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,no
+CUST1430,Jessica Abbott,MALE,1,NO,Yes,3,One year,NO,Bank Transfer,twenty,,,Yes,DSL,No,Yes,,,Yes,No,yes
+CUST1431,Heidi Daniels,Male,1,,,60,Two Year,No,Mailed check,77.29,4474.32,,Yes,DSL,No,Yes,Yes,,,Yes,
+CUST1432,Stephanie Russo,FEMALE,0,No,,45,,Yes,Bank Transfer,37.85,,No,no phone service,No,,Yes,,,No,Yes,yes
+CUST1433,Andrea Brown,MALE,1,NO,Yes,39,Two Year,No,Bank Transfer,50.50,"1,000.50",,no phone service,Fiber optic,Yes,Yes,,,No,Yes,No
+CUST1434,Darren Woods,female,1,YES,,69,Month-to-month,Yes,Bank Transfer,67.53,2090.78,Yes,No,Fiber optic,Yes,No,,No,No,No,
+CUST1435,Jonathan Jones,MALE,0,Yes,No,47,Two Year,Yes,Credit card (automatic),62.15,,Yes,Yes,NO INTERNET,No,Yes,Yes,Yes,No,,
+CUST1436,Lindsey Walter,FEMALE,1,Yes,,32,One year,YES,Mailed check,,"1,000.50",,no phone service,Fiber optic,,,Yes,Yes,No,No,yes
+CUST1437,John Nguyen,,1,NO,,27,month to month,Yes,Electronic Check,twenty,"1,000.50",Yes,,No,,Yes,Yes,Yes,,,No
+CUST1438,Stephanie Wallace,Male,1,,No,29,,No,Mailed check,,,No,no phone service,DSL,No,Yes,No,No,Yes,,no
+CUST1439,Eric Hartman,Male,0,YES,Yes,59,Month-to-month,NO,Bank Transfer,54.03,"1,000.50",Yes,No,,Yes,No,,,Yes,,
+CUST1440,Cheryl Davidson,FEMALE,0,Yes,Yes,62,One year,,,,"1,000.50",Yes,no phone service,DSL,No,No,,No,No,Yes,yes
+CUST1441,Vincent Graves,MALE,0,YES,No,31,Month-to-month,,Credit card (automatic),116.25,"1,000.50",Yes,No,Fiber optic,No,,,,No,No,
+CUST1442,Christopher Carter,MALE,1,Yes,,6,month to month,,Bank Transfer,,"1,000.50",,no phone service,NO INTERNET,,,,,No,Yes,
+CUST1443,Timothy Anthony,female,0,NO,Yes,16,month to month,Yes,,,"1,000.50",Yes,Yes,Fiber optic,Yes,No,Yes,Yes,,Yes,no
+CUST1444,Ashley Sparks,MALE,1,,Yes,65,One year,No,Credit card (automatic),twenty,,Yes,No,DSL,No,Yes,Yes,No,,,
+CUST1445,Ronald Davis,MALE,1,,,15,One year,Yes,Mailed check,36.95,,No,Yes,No,Yes,Yes,Yes,,No,,
+CUST1446,Darrell Hernandez,Male,0,Yes,,39,Two Year,NO,Mailed check,twenty,,,,DSL,,Yes,No,Yes,,Yes,Yes
+CUST1447,Suzanne Johnson,FEMALE,1,Yes,No,53,,NO,Credit card (automatic),twenty,,Yes,No,,No,Yes,Yes,,Yes,,
+CUST1448,Barbara Johnson,Male,0,NO,Yes,46,month to month,Yes,Bank Transfer,,,No,Yes,NO INTERNET,,Yes,,,Yes,,yes
+CUST1449,Ricardo Stanley,female,0,Yes,Yes,36,,,,43.42,2961.62,Yes,No,Fiber optic,No,,,Yes,Yes,,Yes
+CUST1450,Susan Brown,FEMALE,1,No,No,71,One year,NO,Electronic Check,,3095.65,No,No,,Yes,No,No,No,Yes,No,No
+CUST1451,Francis Lopez,female,1,,,72,Month-to-month,No,Mailed check,twenty,,,No,,,No,No,,,No,
+CUST1452,Ian Franklin,,1,NO,,26,month to month,,Mailed check,,,Yes,no phone service,,,,,Yes,,,no
+CUST1453,Julie Ortiz,,0,YES,Yes,3,,YES,Mailed check,,"1,000.50",,No,DSL,No,,Yes,Yes,No,Yes,no
+CUST1454,Bryan Martin,female,0,Yes,Yes,28,Month-to-month,YES,Credit card (automatic),twenty,,No,No,No,Yes,Yes,,Yes,Yes,,No
+CUST1455,Melissa Houston,female,0,No,Yes,49,Two Year,Yes,Electronic Check,108.99,,Yes,Yes,,Yes,Yes,No,,Yes,No,Yes
+CUST1456,Denise Carlson,MALE,0,,No,48,Two Year,YES,Electronic Check,,,,no phone service,Fiber optic,No,,Yes,No,Yes,Yes,
+CUST1457,Molly Williams,FEMALE,0,NO,,8,One year,Yes,Credit card (automatic),twenty,,,No,No,No,No,Yes,No,,,
+CUST1458,Joshua Cole,MALE,0,YES,Yes,51,Month-to-month,NO,Electronic Check,,,,No,DSL,,No,Yes,Yes,,No,
+CUST1459,Jeremy Newton,FEMALE,1,,,29,Month-to-month,YES,Credit card (automatic),,,Yes,no phone service,DSL,,No,,No,No,No,no
+CUST1460,Colton Diaz,FEMALE,0,YES,,42,Month-to-month,Yes,,twenty,"1,000.50",Yes,,,,,,Yes,No,No,
+CUST1461,Thomas Krause,Male,1,NO,No,24,month to month,No,Credit card (automatic),twenty,,,no phone service,Fiber optic,No,No,,No,,,
+CUST1462,Tonya Davis,FEMALE,1,,,23,Month-to-month,NO,Bank Transfer,,,,no phone service,DSL,Yes,,,No,Yes,Yes,yes
+CUST1463,Richard Peck,Male,0,No,No,63,Month-to-month,,,,3154.44,Yes,No,No,No,No,,No,Yes,,Yes
+CUST1464,Charles Williams,MALE,1,YES,,29,One year,NO,,51.43,,,no phone service,Fiber optic,Yes,No,No,Yes,Yes,,No
+CUST1465,Pamela Davis,MALE,0,NO,,58,Two Year,No,Credit card (automatic),,,,no phone service,DSL,,No,,No,Yes,Yes,no
+CUST1466,Caleb Sullivan,MALE,0,YES,,37,One year,Yes,Mailed check,25.89,,No,Yes,DSL,,No,No,No,,,yes
+CUST1467,Jeremy Gonzalez,FEMALE,1,YES,No,26,Two Year,Yes,Bank Transfer,,,,,DSL,,,,No,,Yes,
+CUST1468,Lynn Hill,MALE,1,,,36,Two Year,NO,Bank Transfer,twenty,3663.32,Yes,no phone service,,,No,No,No,No,Yes,no
+CUST1469,Amanda Browning,FEMALE,1,YES,,53,month to month,YES,Bank Transfer,84.69,3747.47,Yes,,,No,,Yes,,,No,
+CUST1470,Ryan Walker,MALE,1,,,48,Two Year,YES,Mailed check,,,No,,NO INTERNET,Yes,Yes,,No,Yes,,no
+CUST1471,Carmen Jackson,female,0,Yes,Yes,41,month to month,No,Credit card (automatic),114.19,,Yes,No,No,,No,No,Yes,,,
+CUST1472,Sarah Johnson,,0,No,No,25,Two Year,YES,Credit card (automatic),,,,No,DSL,Yes,,,Yes,,,No
+CUST1473,Emily Suarez,,1,,,17,One year,YES,,,,Yes,No,DSL,,,,No,,No,No
+CUST1474,Jonathan Martin,MALE,1,Yes,,13,month to month,No,Credit card (automatic),,,,No,NO INTERNET,Yes,,No,,Yes,,Yes
+CUST1475,Jonathan Fuller,Male,1,No,No,4,One year,NO,,,"1,000.50",Yes,Yes,No,No,Yes,Yes,,No,,No
+CUST1476,Jeanette Lawson,Male,1,Yes,Yes,25,Month-to-month,NO,Electronic Check,twenty,,,,NO INTERNET,,Yes,,,,,No
+CUST1477,Matthew Thompson,,1,,Yes,58,,,Bank Transfer,44.26,"1,000.50",,no phone service,No,No,Yes,,Yes,No,Yes,No
+CUST1478,Karen Walker,FEMALE,0,,Yes,0,One year,No,Mailed check,32.90,,,Yes,Fiber optic,,,No,No,No,,
+CUST1479,James Collins,MALE,0,Yes,No,59,,No,,,4597.48,Yes,,,No,Yes,No,Yes,,Yes,yes
+CUST1480,Wanda Smith,FEMALE,1,NO,,69,One year,NO,Bank Transfer,77.05,"1,000.50",,No,DSL,Yes,Yes,No,No,Yes,,yes
+CUST1481,Michael Jackson,FEMALE,1,No,No,40,,No,Electronic Check,twenty,,,,NO INTERNET,Yes,,No,,No,,yes
+CUST1482,Kevin Ramos,,1,Yes,,65,Two Year,No,Bank Transfer,twenty,3752.74,Yes,Yes,Fiber optic,,No,No,Yes,Yes,,No
+CUST1483,Mark Rodriguez,female,1,Yes,No,48,Month-to-month,YES,Credit card (automatic),twenty,"1,000.50",,no phone service,DSL,,No,,,Yes,,Yes
+CUST1484,Courtney Davis,MALE,0,,Yes,47,Month-to-month,No,,75.77,,Yes,No,No,,,No,Yes,No,,yes
+CUST1485,Christina Smith,Male,1,NO,Yes,40,,Yes,,39.28,,No,no phone service,NO INTERNET,Yes,Yes,,Yes,,,
+CUST1486,Thomas Wright,MALE,1,YES,,17,,No,Credit card (automatic),,,Yes,No,,Yes,No,No,,No,Yes,No
+CUST1487,Tony Watts,,0,,Yes,19,month to month,Yes,Credit card (automatic),21.98,,,Yes,Fiber optic,No,No,,No,No,No,No
+CUST1488,Sandra Watkins,MALE,0,NO,Yes,36,Month-to-month,No,Bank Transfer,37.86,"1,000.50",,no phone service,DSL,Yes,,No,No,Yes,,no
+CUST1489,Dr. James Webb,MALE,1,,,71,Month-to-month,NO,Credit card (automatic),41.71,,Yes,No,NO INTERNET,No,Yes,No,No,,,No
+CUST1490,Sheila Fernandez,,0,,,34,,YES,,22.13,3487.72,,no phone service,Fiber optic,Yes,No,Yes,Yes,,Yes,yes
+CUST1491,Angela Perry,,0,YES,No,19,month to month,No,Electronic Check,twenty,,No,,NO INTERNET,No,No,No,No,No,,
+CUST1492,Stephen Hess,,1,Yes,Yes,62,One year,NO,Electronic Check,,"1,000.50",No,no phone service,DSL,No,No,,,,Yes,yes
+CUST1493,Christopher Vargas,Male,1,Yes,Yes,17,,,Credit card (automatic),83.40,,No,,DSL,Yes,Yes,No,No,Yes,Yes,
+CUST1494,Jacqueline Williams,MALE,0,NO,No,27,month to month,No,Electronic Check,twenty,,,Yes,DSL,,No,,Yes,Yes,,
+CUST1495,Carol Green,FEMALE,0,No,,26,One year,NO,,70.61,,No,No,NO INTERNET,,No,Yes,,No,Yes,Yes
+CUST1496,Daniel Rodgers,MALE,0,,Yes,67,One year,NO,Mailed check,,,,,Fiber optic,Yes,No,,,,Yes,No
+CUST1497,Angela Cooper,MALE,1,,,8,Month-to-month,,Bank Transfer,47.97,,,Yes,Fiber optic,,Yes,Yes,Yes,,Yes,Yes
+CUST1498,Richard Yang,FEMALE,0,No,Yes,7,One year,NO,Credit card (automatic),,,No,No,No,Yes,Yes,No,Yes,No,No,Yes
+CUST1499,Steve Fritz,female,1,YES,Yes,34,Two Year,Yes,Electronic Check,57.74,,Yes,Yes,No,,,,Yes,No,,No
+CUST1500,Victoria Munoz,Male,1,NO,,13,Month-to-month,YES,Mailed check,twenty,,No,no phone service,NO INTERNET,,,No,No,,,yes

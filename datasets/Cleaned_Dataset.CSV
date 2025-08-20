@@ -1,0 +1,1501 @@
+customer_id,customer_name,gender,senior_citizen,partner,dependents,tenure,contract,paperless_billing,payment_method,monthly_charges,total_charges,phone_service,multiple_lines,internet_service,online_security,online_backup,device_protection,tech_support,streaming_tv,streaming_movies,churn
+CUST0001,John doe,male,0,yes,no,64,month to month,yes,electronic check,67.59,1000.5,no,no,dsl,,,,,,,yes
+CUST0002,Lauren Vaughan,female,1,,,25,month to month,yes,,67.59,1000.5,no,,none,,yes,,,,,
+CUST0003,Mrs. Elizabeth Turner DDS,male,1,,no,61,one year,no,electronic check,67.59,1000.5,,no,none,,,no,,,no,
+CUST0004,Tiffany Johnson,female,1,,yes,49,,yes,,115.37,2698.62,no,no,dsl,yes,no,,,,,yes
+CUST0005,Dr. Janice Berg,female,1,no,yes,47,,no,,67.59,5180.88,no,,,,,no,yes,,no,yes
+CUST0006,Daniel Russell MD,female,0,no,,58,month-to-month,,electronic check,67.59,1000.5,no,yes,fiber optic,,no,yes,yes,,no,yes
+CUST0007,Daniel Bradshaw,female,0,yes,yes,31,month to month,yes,bank transfer,62.59,1000.5,yes,no,dsl,,no,yes,,,no,yes
+CUST0008,Willie Walton,male,1,no,no,2,month-to-month,no,mailed check,67.59,1000.5,,yes,no,no,yes,no,yes,no,,yes
+CUST0009,Patricia Lopez,,1,no,,66,month-to-month,yes,mailed check,67.59,1000.5,no,yes,none,,yes,yes,,,no,yes
+CUST0010,William Munoz,female,0,yes,,19,month to month,yes,bank transfer,67.59,1000.5,no,yes,no,yes,no,yes,,,no,yes
+CUST0011,Jamie Wallace,female,1,no,,59,month to month,no,mailed check,67.59,1000.5,no,,fiber optic,,no,,yes,,,no
+CUST0012,Michael Thomas,female,1,yes,yes,60,month-to-month,,electronic check,67.59,1000.5,no,yes,fiber optic,no,,yes,no,,yes,yes
+CUST0013,Jacqueline Cruz,male,1,no,,67,month to month,no,mailed check,67.59,1000.5,yes,no,no,yes,no,,,yes,no,
+CUST0014,Sherry George,,1,yes,no,7,month-to-month,no,mailed check,67.59,459.0,yes,no,no,,yes,no,yes,,,no
+CUST0015,Jennifer Garcia,male,1,,,31,,no,,69.88,1000.5,no,yes,no,no,yes,,no,,yes,no
+CUST0016,Jody Ellis,,1,no,yes,1,one year,yes,,67.59,1000.5,yes,no,dsl,yes,,,yes,yes,,no
+CUST0017,Ricardo Steele,male,1,yes,,5,,no,mailed check,67.59,515.69,no,no,,yes,yes,,no,,yes,no
+CUST0018,Samantha Blake,male,0,yes,yes,20,two year,yes,electronic check,67.59,1000.5,yes,no,,no,yes,yes,,,yes,
+CUST0019,Mr. Duane Rogers DDS,,1,no,,11,month-to-month,,electronic check,67.59,1000.5,yes,,,,no,,no,,,no
+CUST0020,Jennifer Carter,male,0,yes,yes,11,month to month,yes,electronic check,67.59,1000.5,,,no,no,no,,no,,,no
+CUST0021,Steven Hogan,,0,,yes,67,month to month,no,,67.59,1000.5,no,,fiber optic,yes,yes,no,,,yes,no
+CUST0022,Jeremy Smith,male,1,yes,yes,72,two year,yes,credit card (automatic),67.59,8401.12,yes,,fiber optic,no,,,yes,no,yes,no
+CUST0023,Michael Johnson,male,0,no,,62,month-to-month,yes,,34.66,4935.08,no,,fiber optic,,,yes,,,,
+CUST0024,Cynthia Holloway,male,0,,yes,0,month to month,yes,electronic check,67.59,1000.5,no,yes,none,,yes,no,yes,,yes,yes
+CUST0025,Isaac Ray,female,0,no,,2,one year,yes,electronic check,67.59,1000.5,,yes,dsl,no,yes,,yes,,,yes
+CUST0026,Joshua Porter,male,1,no,no,38,one year,yes,,67.59,1000.5,no,,,yes,yes,no,,,,
+CUST0027,Emily Trevino,female,1,no,yes,15,one year,no,,84.57,1619.09,no,no,none,,no,no,,yes,,no
+CUST0028,Darin Rodriguez,female,0,,yes,34,two year,yes,electronic check,67.59,2997.92,no,no,none,yes,yes,,yes,,no,
+CUST0029,Cynthia Velasquez,female,0,,yes,57,month-to-month,no,mailed check,67.59,1000.5,no,,none,yes,yes,no,yes,,,no
+CUST0030,Paul Evans,female,0,yes,yes,46,two year,yes,credit card (automatic),31.2,2531.06,no,no,fiber optic,,,,no,yes,,no
+CUST0031,Sarah Thompson,male,0,no,yes,36,month-to-month,no,electronic check,67.59,1000.5,yes,no,dsl,yes,no,no,no,,,
+CUST0032,Alan Patterson,male,0,no,,18,two year,yes,mailed check,67.42,1000.5,no,no,dsl,,no,,yes,yes,yes,no
+CUST0033,Marcus Williams,,1,no,,56,two year,,credit card (automatic),67.59,3232.8,yes,no,fiber optic,,no,no,,yes,,
+CUST0034,Sarah Shaw,male,0,no,no,36,two year,no,electronic check,112.43,1000.5,yes,no,dsl,,yes,no,yes,yes,,no
+CUST0035,Leah Newman,male,1,yes,no,58,one year,yes,bank transfer,67.59,1000.5,,no,fiber optic,yes,no,yes,yes,yes,no,no
+CUST0036,Johnathan Russo,,0,no,yes,14,month-to-month,,,31.9,1000.5,no,no,none,,no,yes,yes,yes,,no
+CUST0037,Ronald Gomez,,1,yes,,6,month-to-month,no,mailed check,100.64,1000.5,yes,,fiber optic,no,,yes,no,yes,,
+CUST0038,Juan Booker,female,0,yes,yes,20,two year,,bank transfer,67.59,1000.5,no,no,,yes,,no,,,,
+CUST0039,Peter Haynes,male,0,yes,yes,17,one year,no,mailed check,67.59,1000.5,no,no,fiber optic,yes,,yes,,yes,no,no
+CUST0040,Austin Duncan,female,0,yes,,7,two year,yes,mailed check,71.87,1000.5,no,no,,no,no,,no,no,yes,yes
+CUST0041,Michelle Mitchell,female,1,yes,,45,month-to-month,yes,bank transfer,67.59,4057.73,,no,none,yes,yes,no,no,yes,,
+CUST0042,Carolyn Ramsey,female,1,yes,yes,21,one year,no,mailed check,48.71,1000.5,yes,no,none,,,yes,no,,,yes
+CUST0043,Ms. Megan Parrish MD,female,0,yes,no,27,month-to-month,no,mailed check,67.59,1000.5,yes,yes,none,,,,,yes,,no
+CUST0044,Shane Newman,female,0,no,,51,month to month,no,,67.59,3856.02,,no,none,no,no,yes,yes,,,
+CUST0045,Angela Evans,female,0,no,no,48,month to month,no,credit card (automatic),67.59,1000.5,yes,,dsl,,,,,,yes,no
+CUST0046,Catherine Brown,male,1,no,,62,month to month,,electronic check,44.53,1000.5,,,no,no,yes,,,,no,no
+CUST0047,Joseph Brown,female,1,no,,44,one year,no,electronic check,67.59,1000.5,no,no,,no,yes,yes,,no,,
+CUST0048,Julia Stevenson,male,1,yes,no,33,month-to-month,,electronic check,67.59,1000.5,,no,no,no,yes,no,no,,,yes
+CUST0049,Angela Smith,male,1,yes,,63,,,,104.7,1000.5,,no,none,yes,,,,,no,yes
+CUST0050,Joel Freeman,female,0,no,yes,25,month-to-month,no,bank transfer,31.68,1000.5,yes,,,,no,yes,no,,no,yes
+CUST0051,Sergio Walker,male,0,no,,5,month to month,,bank transfer,39.83,154.05,yes,no,fiber optic,yes,,,yes,yes,no,yes
+CUST0052,Anthony Rowe,,1,,,37,month to month,yes,credit card (automatic),67.59,1319.69,,no,fiber optic,no,,no,yes,no,,yes
+CUST0053,Alan White,female,1,yes,,18,month to month,yes,electronic check,67.59,1000.5,yes,no,none,,no,no,,no,no,
+CUST0054,Melissa Cline,male,0,yes,,49,one year,yes,credit card (automatic),52.64,1000.5,,no,none,no,yes,yes,yes,no,,
+CUST0055,Alexander Jackson,female,1,no,no,26,two year,,credit card (automatic),112.68,2037.04,no,no,fiber optic,yes,yes,no,,yes,,
+CUST0056,Allison Ramirez,female,1,no,,60,month to month,no,credit card (automatic),67.59,1000.5,no,yes,,no,,no,yes,,,
+CUST0057,Sylvia Gordon,female,1,yes,yes,56,one year,yes,credit card (automatic),67.59,1000.5,yes,yes,dsl,,yes,yes,,no,,
+CUST0058,Scott Nash,male,1,yes,yes,68,two year,yes,,67.59,1000.5,no,yes,fiber optic,no,,,yes,,,no
+CUST0059,Lindsey Garza,female,1,yes,yes,19,month-to-month,yes,mailed check,67.59,1000.5,yes,yes,no,no,,,,yes,,yes
+CUST0060,Bradley Sellers,male,0,no,no,3,month-to-month,yes,electronic check,67.59,1000.5,,no,,yes,,no,,,,
+CUST0061,Joseph Jones,female,1,no,yes,23,month-to-month,,bank transfer,67.59,1472.23,,yes,no,no,yes,no,,no,,no
+CUST0062,Teresa Rodriguez,male,1,,,18,one year,no,electronic check,67.59,1000.5,no,,none,no,no,no,yes,no,,no
+CUST0063,Jeffrey Hogan,male,1,yes,no,40,one year,,mailed check,67.59,1000.5,no,no,no,yes,yes,,,yes,,
+CUST0064,Betty Martin,,1,,,19,one year,yes,credit card (automatic),94.7,614.76,no,no,,no,yes,yes,,,no,yes
+CUST0065,Christian Guzman,male,1,,no,27,one year,no,bank transfer,67.59,1000.5,no,,none,no,no,no,,no,yes,no
+CUST0066,Angela Kennedy,male,0,no,yes,12,month-to-month,yes,bank transfer,67.59,762.83,no,no,,no,,no,no,,yes,
+CUST0067,Megan Howell,male,0,no,,20,month to month,yes,bank transfer,67.59,1000.5,no,no,no,no,yes,,no,yes,yes,
+CUST0068,Ryan Bailey,female,1,no,,32,month to month,no,electronic check,67.59,1211.69,,,,,no,,yes,,yes,
+CUST0069,Adam Wilkinson,,0,yes,,18,one year,no,,67.59,1000.5,yes,no,dsl,yes,,yes,yes,,,yes
+CUST0070,Gregory Hubbard,male,1,yes,no,32,,yes,electronic check,67.59,1000.5,no,,no,yes,no,yes,no,yes,yes,
+CUST0071,Amy Dyer,male,0,yes,,57,two year,no,mailed check,67.59,1000.5,no,no,none,,yes,yes,,yes,yes,yes
+CUST0072,Michael Ramirez,,1,no,,22,month to month,yes,mailed check,78.95,1000.5,,no,fiber optic,yes,yes,no,,,,yes
+CUST0073,Andrew Davis,male,1,no,no,47,month-to-month,no,,67.59,1000.5,yes,no,no,,,no,yes,,no,yes
+CUST0074,Miss Andrea Jones,male,1,no,no,12,one year,,credit card (automatic),44.59,1000.5,yes,yes,no,,yes,,no,no,,no
+CUST0075,Kevin Williamson,male,0,yes,yes,15,month-to-month,yes,bank transfer,87.8,1000.5,,no,,,yes,yes,,no,no,no
+CUST0076,Samuel Clark,female,0,yes,,52,month-to-month,yes,credit card (automatic),67.59,1000.5,no,no,no,,,,,yes,yes,yes
+CUST0077,Sandra Sanchez,male,0,no,no,65,month-to-month,yes,electronic check,67.59,1000.5,no,no,fiber optic,no,,no,no,,no,no
+CUST0078,Dominique Shaw,,1,,,6,one year,no,bank transfer,67.59,131.74,no,no,none,yes,no,yes,no,no,,
+CUST0079,Edward Warner,female,0,no,no,3,month to month,no,mailed check,67.59,109.9,,no,none,yes,yes,no,no,,yes,yes
+CUST0080,Kelsey Smith,female,0,yes,,30,,yes,bank transfer,67.59,1000.5,no,no,no,,yes,yes,yes,,yes,no
+CUST0081,Cynthia Salinas,female,1,,yes,37,month to month,yes,,100.96,1000.5,no,yes,none,,yes,yes,no,no,,no
+CUST0082,Tara Edwards,male,0,no,,27,month-to-month,no,electronic check,67.59,1000.5,,no,fiber optic,no,yes,no,no,,,no
+CUST0083,Jeffrey Hall,female,0,no,yes,24,month to month,no,electronic check,67.59,1000.5,,no,dsl,,yes,no,no,yes,,no
+CUST0084,Brian Carpenter,female,0,yes,yes,59,month to month,,,63.77,1000.5,yes,no,,no,no,no,,,no,yes
+CUST0085,Shawn Nelson,male,1,,,39,,no,mailed check,24.49,1000.5,no,yes,,yes,no,,yes,no,,
+CUST0086,Carla Olson,female,1,yes,no,31,month-to-month,no,electronic check,67.59,1000.5,yes,no,none,no,no,no,,,,no
+CUST0087,Joshua Kelley,male,0,,yes,59,two year,no,bank transfer,18.35,1000.5,no,no,none,no,no,no,yes,no,,yes
+CUST0088,Jeremy Mccarthy,female,0,no,no,11,month to month,yes,electronic check,67.59,1057.1,yes,,no,,no,no,,yes,,
+CUST0089,Tabitha Johnson,male,0,,no,10,two year,yes,,24.76,1000.5,,,,yes,no,,no,no,no,
+CUST0090,Steven Harris,female,0,yes,no,52,one year,,credit card (automatic),67.59,1000.5,no,no,no,no,,,no,,no,
+CUST0091,Jonathan Mercer,male,1,yes,no,15,one year,yes,mailed check,101.17,1000.5,yes,no,no,no,,,yes,,no,
+CUST0092,William Gibson,female,0,yes,no,70,month-to-month,no,credit card (automatic),67.59,1000.5,,no,none,,no,no,no,no,,yes
+CUST0093,Courtney Aguilar,,1,yes,no,45,month-to-month,no,credit card (automatic),107.08,1000.5,,yes,dsl,yes,no,no,no,,,
+CUST0094,Jenna Cox,female,1,no,,11,month to month,yes,mailed check,40.35,1000.5,yes,no,none,yes,yes,no,,,,yes
+CUST0095,Robert Marshall,,1,,yes,61,month to month,no,,75.68,1000.5,no,no,dsl,no,yes,yes,no,yes,no,no
+CUST0096,Scott Rivers,,1,no,,43,month to month,,electronic check,67.59,1000.5,no,no,no,yes,yes,no,,,,yes
+CUST0097,Stephanie Smith,male,1,yes,no,51,month to month,no,mailed check,67.59,1000.5,yes,no,,yes,no,no,yes,,,yes
+CUST0098,Renee Krueger,male,1,,no,53,,,bank transfer,67.59,1000.5,,no,,,no,yes,yes,yes,no,
+CUST0099,Mr. Mark Gordon Jr.,female,0,yes,,16,month to month,no,credit card (automatic),67.59,1149.43,no,yes,dsl,yes,no,yes,,,,yes
+CUST0100,John Harris,male,1,no,no,42,,,,67.59,3259.78,,yes,none,no,yes,,,,,yes
+CUST0101,Carol Meza,male,0,yes,yes,5,month-to-month,no,credit card (automatic),67.59,1000.5,,,no,yes,no,yes,no,,yes,yes
+CUST0102,Craig Boone,male,0,,,20,two year,no,bank transfer,67.59,1000.5,no,,no,,,no,no,,,
+CUST0103,Kathleen Baker,male,0,yes,no,54,one year,no,electronic check,26.5,1000.5,yes,,,no,,yes,no,yes,,
+CUST0104,Michelle Swanson,male,0,no,yes,39,,no,electronic check,51.28,2655.6,yes,yes,no,,,no,no,no,,yes
+CUST0105,Cindy Wilkerson,,1,yes,yes,58,one year,yes,,67.59,1000.5,yes,no,none,,no,,yes,yes,yes,yes
+CUST0106,Daniel Butler,male,1,no,no,21,month to month,no,credit card (automatic),67.59,1000.5,yes,,,,no,,,,yes,yes
+CUST0107,Matthew Snyder,female,0,yes,no,25,month to month,no,mailed check,82.47,1760.21,no,no,none,yes,yes,no,yes,yes,,yes
+CUST0108,Jill Brown,,1,yes,,33,month to month,yes,mailed check,30.0,1000.5,,,fiber optic,yes,,yes,no,,,no
+CUST0109,Tiffany Alvarado,female,1,no,,16,two year,yes,credit card (automatic),67.59,1000.5,,,no,,no,yes,yes,,,yes
+CUST0110,Lindsay Williams,female,1,yes,,67,month-to-month,,bank transfer,67.59,1000.5,no,,,yes,no,,no,yes,,
+CUST0111,Jennifer Scott,,0,no,,3,,yes,bank transfer,91.94,1000.5,yes,no,,yes,,yes,no,no,yes,no
+CUST0112,Ricardo Case,,1,,no,62,one year,no,credit card (automatic),67.59,6091.09,no,,no,no,yes,,no,,no,
+CUST0113,Patrick Yang,male,0,no,,31,,yes,,67.59,1000.5,no,yes,no,,yes,no,no,no,no,yes
+CUST0114,Brent Washington,female,1,yes,yes,46,,yes,,69.4,1000.5,no,,fiber optic,,no,,,yes,no,
+CUST0115,Brent Marshall MD,female,0,no,,31,month to month,yes,mailed check,59.6,1000.5,,yes,fiber optic,no,,yes,yes,no,,no
+CUST0116,Michael Daniels,,1,yes,,31,two year,no,,67.59,2160.93,no,yes,,,,,yes,,yes,
+CUST0117,Michael Murray,female,1,no,,38,month to month,yes,electronic check,67.59,1000.5,,yes,,,,,,,,
+CUST0118,Cindy Martin,,1,yes,,38,month to month,yes,bank transfer,67.59,1000.5,,,no,yes,yes,,no,yes,no,
+CUST0119,Cynthia Huynh,male,1,yes,yes,24,,yes,,67.59,1000.5,yes,no,fiber optic,yes,,yes,no,,,yes
+CUST0120,Melanie Curry,male,1,yes,no,8,one year,yes,bank transfer,67.59,1000.5,yes,,,,yes,no,,,no,
+CUST0121,Amy Stone,male,1,no,no,8,two year,no,electronic check,83.39,1000.5,yes,yes,,,no,yes,,,no,
+CUST0122,Michael Pena,female,1,yes,yes,4,month-to-month,yes,bank transfer,67.59,1000.5,,,none,yes,no,no,yes,no,,
+CUST0123,Laura Krause,male,0,no,no,4,month to month,yes,bank transfer,38.99,281.76,no,no,fiber optic,no,yes,yes,,,,
+CUST0124,Carolyn Velasquez,,0,yes,no,72,,yes,credit card (automatic),67.59,7051.47,no,no,,yes,yes,no,,no,,no
+CUST0125,Brittney Brown,female,1,yes,yes,19,month-to-month,yes,electronic check,94.79,1000.5,yes,no,none,,no,yes,no,no,no,yes
+CUST0126,Benjamin Rivera,male,1,no,no,36,two year,yes,bank transfer,109.19,1000.5,,no,no,yes,no,no,,,,yes
+CUST0127,Christina Shelton,male,1,,,49,month to month,,,68.32,1000.5,no,no,no,no,no,,no,no,,yes
+CUST0128,Maria Edwards,male,0,no,no,43,one year,no,credit card (automatic),67.59,3959.25,yes,no,dsl,,,,,,,
+CUST0129,Douglas Gross,male,0,,no,52,,yes,electronic check,38.23,1696.81,,,none,no,yes,yes,no,,,yes
+CUST0130,Oscar Gonzalez,,0,no,yes,35,month-to-month,no,credit card (automatic),70.43,1000.5,no,no,,,no,,,,,
+CUST0131,Nicolas Kramer,male,0,yes,,40,one year,,electronic check,67.59,1000.5,yes,no,dsl,yes,,yes,yes,no,yes,
+CUST0132,Meredith Smith,,0,,yes,49,,,bank transfer,67.59,1000.5,no,no,dsl,no,yes,no,no,no,yes,
+CUST0133,Catherine Roberts,female,1,yes,no,24,two year,no,electronic check,27.29,1000.5,yes,no,none,no,,no,,no,,
+CUST0134,Johnathan Parks,male,0,yes,,3,one year,yes,,74.68,1000.5,yes,no,no,yes,,,yes,,yes,yes
+CUST0135,Gabriel Burch,male,0,yes,no,58,two year,,credit card (automatic),67.59,1000.5,,yes,,yes,,no,no,,,yes
+CUST0136,Kimberly Johnson,female,0,,,6,one year,no,credit card (automatic),67.59,1000.5,,,none,yes,no,,yes,,no,yes
+CUST0137,Jackie Garcia,female,1,yes,,47,,,,115.92,1000.5,,,no,yes,no,no,yes,no,yes,
+CUST0138,Jacqueline Harris,male,1,,,20,month to month,no,credit card (automatic),96.37,1000.5,,no,none,,,no,no,,,
+CUST0139,Justin Lopez,male,1,,,39,month-to-month,,,67.59,1116.84,,no,none,no,no,,no,no,no,no
+CUST0140,Hannah Reese,,1,yes,no,13,two year,no,electronic check,27.24,1000.5,no,,,,yes,no,no,no,,
+CUST0141,Kayla White,male,1,yes,,26,,no,credit card (automatic),39.25,1000.5,no,no,no,yes,,yes,,no,no,yes
+CUST0142,Shelley Hayes,male,0,,yes,20,month to month,no,credit card (automatic),67.59,623.49,yes,yes,none,no,no,,no,,,no
+CUST0143,Cheyenne Anthony,,0,no,yes,56,one year,yes,credit card (automatic),67.59,1000.5,,no,none,yes,no,,yes,yes,yes,yes
+CUST0144,Teresa Phillips,female,0,yes,,2,month-to-month,yes,electronic check,67.59,171.56,yes,no,,no,no,,,,yes,yes
+CUST0145,Dennis Collins,male,1,yes,yes,64,month-to-month,yes,mailed check,67.59,2491.59,,no,none,yes,no,yes,no,,,no
+CUST0146,Brian Gomez,male,1,,,27,two year,,mailed check,67.59,1000.5,yes,,no,no,yes,,no,no,,no
+CUST0147,Luke Miller,female,0,yes,,43,month-to-month,no,mailed check,67.59,3835.15,yes,no,no,yes,yes,yes,yes,,yes,no
+CUST0148,Regina Spencer,female,1,yes,,9,month to month,yes,electronic check,116.84,859.91,no,no,no,no,no,,no,yes,no,
+CUST0149,Cynthia Mccullough,female,1,no,,12,month-to-month,,,68.01,1000.5,yes,no,dsl,yes,yes,yes,,yes,,no
+CUST0150,Sara Jones,,1,yes,,2,one year,yes,credit card (automatic),107.97,1000.5,no,,dsl,,,no,no,,no,no
+CUST0151,Lacey Rice,,1,no,,3,two year,yes,credit card (automatic),67.59,1000.5,yes,no,dsl,no,yes,,yes,no,yes,yes
+CUST0152,Robert Porter,female,0,,yes,12,,no,bank transfer,67.59,1000.5,no,no,,yes,no,yes,no,,,yes
+CUST0153,Steven Gardner,female,1,,no,31,,no,credit card (automatic),67.59,1000.5,,yes,,yes,no,,yes,,,no
+CUST0154,Troy Lang,male,0,yes,,43,one year,,,67.59,1000.5,,no,no,,no,no,,,yes,
+CUST0155,Anna Shah,male,1,no,,25,,yes,electronic check,67.59,1000.5,yes,,none,no,yes,no,yes,,,
+CUST0156,Sherri Gates,female,1,yes,,44,month to month,yes,credit card (automatic),67.59,4046.98,no,yes,fiber optic,,no,,yes,yes,no,
+CUST0157,Tammy Ruiz,female,0,yes,no,27,,yes,,51.66,1000.5,,no,none,no,no,yes,no,yes,no,yes
+CUST0158,Bryce Smith,female,0,no,no,51,month to month,,mailed check,67.59,1217.4,yes,no,no,,,,,no,no,
+CUST0159,Blake Lewis,male,0,,,16,,no,electronic check,67.59,969.84,,,fiber optic,yes,no,no,yes,,yes,
+CUST0160,Jordan Carlson,male,0,no,no,52,one year,,bank transfer,67.59,1000.5,no,,,no,yes,,yes,,no,yes
+CUST0161,Jorge Hines,female,1,no,,69,month to month,no,bank transfer,107.44,1000.5,yes,no,fiber optic,no,no,yes,yes,no,,yes
+CUST0162,Kenneth Atkinson,female,0,yes,yes,32,month to month,no,credit card (automatic),67.59,1000.5,,,none,,no,yes,,,no,yes
+CUST0163,Clayton Brooks,,1,no,no,58,two year,yes,bank transfer,67.59,1000.5,yes,no,fiber optic,no,yes,no,yes,yes,yes,
+CUST0164,Curtis Robbins,female,1,no,no,5,,,bank transfer,53.46,1000.5,yes,no,dsl,no,no,no,no,no,yes,no
+CUST0165,Ashley Johnson,,0,no,,48,two year,no,credit card (automatic),67.59,1000.5,no,no,,no,no,yes,,,yes,
+CUST0166,James Moore,male,1,yes,,54,month to month,,mailed check,67.59,1000.5,no,no,none,,yes,yes,no,,,no
+CUST0167,Jane Fowler,female,1,,,2,two year,no,credit card (automatic),67.59,1000.5,,no,no,yes,yes,yes,,no,yes,
+CUST0168,Nathan Smith,male,0,no,yes,26,one year,yes,mailed check,67.59,1000.5,,yes,none,no,yes,yes,yes,no,yes,no
+CUST0169,John Blair,male,0,yes,,41,month-to-month,no,credit card (automatic),89.51,1000.5,yes,yes,,yes,yes,yes,no,,,yes
+CUST0170,Brittany Smith,male,1,no,,58,month-to-month,yes,mailed check,67.59,1000.5,yes,,dsl,,yes,,,,,no
+CUST0171,Heather Ramsey,female,0,no,,50,one year,no,bank transfer,67.59,1000.5,yes,no,none,yes,yes,no,yes,yes,,yes
+CUST0172,Sandy Atkins,female,0,yes,yes,70,,,credit card (automatic),67.59,1000.5,,,dsl,no,,yes,no,no,,
+CUST0173,Cathy Holland,female,0,yes,,6,month-to-month,,bank transfer,67.59,1000.5,,no,none,yes,yes,no,,,,yes
+CUST0174,Eric Norton,,0,,yes,16,one year,yes,credit card (automatic),67.59,1000.5,no,yes,none,no,yes,no,yes,,,
+CUST0175,Brian Wright,male,0,yes,yes,38,month-to-month,no,credit card (automatic),67.59,1000.5,no,,fiber optic,yes,no,no,yes,yes,yes,yes
+CUST0176,Robert Douglas,female,1,,,66,month-to-month,yes,bank transfer,67.59,1000.5,yes,,,yes,,yes,no,,yes,
+CUST0177,Kelly Hall,female,1,yes,yes,16,,yes,electronic check,62.11,1000.5,no,no,no,,,no,,,,
+CUST0178,Deborah Noble,female,1,no,,47,month-to-month,yes,electronic check,67.59,1000.5,,no,fiber optic,,no,,no,,,
+CUST0179,Joseph Houston,female,1,no,,56,month-to-month,no,mailed check,119.62,1000.5,,,dsl,no,,,no,yes,yes,
+CUST0180,Kimberly White,female,1,no,,54,,,credit card (automatic),67.59,1000.5,yes,no,none,,yes,yes,yes,,,yes
+CUST0181,Brian Patrick,female,1,,,51,month to month,no,credit card (automatic),67.59,1000.5,no,no,dsl,no,,yes,,,,yes
+CUST0182,James Small,female,0,yes,yes,1,month-to-month,no,credit card (automatic),67.59,72.23,no,,,yes,,yes,,,,no
+CUST0183,Chelsea Jones,female,0,,,7,month to month,,bank transfer,67.59,1000.5,yes,no,fiber optic,no,,,no,yes,no,
+CUST0184,Jaime Houston,female,1,yes,no,71,one year,no,bank transfer,44.19,1926.52,,yes,,no,yes,,yes,,no,
+CUST0185,Jennifer Martin,female,1,yes,yes,39,month to month,yes,,63.15,1000.5,yes,yes,none,no,yes,,,yes,no,no
+CUST0186,Kevin Osborn,female,0,no,yes,10,one year,yes,,43.39,1000.5,yes,no,dsl,,yes,,no,yes,yes,
+CUST0187,Caitlin Davis,female,1,no,,16,,no,electronic check,67.59,1041.55,,no,no,yes,no,yes,yes,,yes,no
+CUST0188,Antonio Miller,male,1,no,,1,month-to-month,no,bank transfer,67.59,104.55,,no,no,,yes,no,no,,no,no
+CUST0189,Francisco Young,male,0,yes,yes,26,two year,no,bank transfer,43.94,1000.5,no,,no,yes,yes,no,yes,no,,no
+CUST0190,Jennifer Scott,female,0,no,,11,month to month,no,bank transfer,86.46,1141.18,no,no,,,yes,,yes,,,
+CUST0191,Susan Arnold,female,1,no,yes,33,,no,,67.59,866.98,no,no,,,yes,no,no,yes,,
+CUST0192,George Klein DVM,,0,no,,35,month to month,no,mailed check,81.07,1000.5,yes,,no,,,,,no,yes,yes
+CUST0193,Kari Leon,male,1,no,yes,65,month to month,no,,67.59,1000.5,yes,,fiber optic,no,no,,,,,no
+CUST0194,Barbara Fletcher,female,1,yes,yes,31,month-to-month,yes,credit card (automatic),67.59,850.87,no,no,no,,,no,yes,,,yes
+CUST0195,Mary Alvarez,female,1,,no,71,two year,yes,,61.31,1000.5,,no,none,,no,no,,,,yes
+CUST0196,Robert Cordova,female,1,no,,66,month to month,yes,bank transfer,18.94,1000.5,no,yes,none,,,no,,no,,yes
+CUST0197,Tom Roach,male,0,yes,yes,44,,,credit card (automatic),67.59,1000.5,no,no,,,yes,,no,,yes,
+CUST0198,Linda Stephenson,male,0,yes,,47,two year,no,bank transfer,67.59,3818.67,no,,,,yes,yes,no,,,
+CUST0199,Nicole Cardenas,male,0,no,yes,41,,no,mailed check,66.22,1000.5,no,no,none,no,no,no,,,,yes
+CUST0200,Kevin Hoffman,male,0,yes,yes,33,,no,,58.8,1000.5,no,,no,yes,,yes,yes,,,no
+CUST0201,Aaron Reyes,male,1,,,17,two year,,credit card (automatic),78.33,1663.08,no,no,fiber optic,yes,yes,,yes,no,,no
+CUST0202,Walter Ali,male,0,no,,71,,yes,bank transfer,67.59,1000.5,,,,,no,,,,no,yes
+CUST0203,Cynthia Newman,,0,,no,71,month-to-month,no,bank transfer,67.59,1000.5,yes,,,,yes,,no,,yes,yes
+CUST0204,Marisa Allen,male,0,yes,yes,68,month-to-month,,electronic check,67.59,1000.5,,yes,no,no,yes,no,no,,,no
+CUST0205,David Rodriguez,male,1,no,yes,62,month-to-month,yes,bank transfer,67.59,1000.5,yes,no,none,,yes,,,yes,,no
+CUST0206,Jerry Parks DVM,,0,no,,40,one year,yes,,67.59,1000.5,,yes,fiber optic,no,yes,no,no,no,,no
+CUST0207,William Schneider,female,0,no,no,54,month-to-month,no,credit card (automatic),108.66,1000.5,yes,no,none,yes,yes,,yes,no,yes,
+CUST0208,Pamela Bowers,male,1,no,,12,two year,yes,electronic check,67.59,1000.5,no,no,,yes,yes,yes,no,no,yes,no
+CUST0209,Ronnie Grant,female,1,no,yes,44,month to month,no,bank transfer,67.59,1000.5,,no,no,,,no,no,,,no
+CUST0210,Rebecca Huff,female,0,,,12,month-to-month,no,bank transfer,99.86,1000.5,no,,none,yes,no,,,,no,
+CUST0211,Jonathan Hardy,male,1,no,,71,one year,yes,credit card (automatic),118.85,1000.5,,,dsl,yes,yes,no,yes,,,
+CUST0212,Kevin Snow,male,0,no,,36,month-to-month,no,electronic check,67.59,1000.5,no,no,dsl,no,no,,,no,,yes
+CUST0213,Laura Ford,female,1,,,28,,no,bank transfer,67.59,1000.5,no,no,fiber optic,yes,,no,,yes,no,
+CUST0214,Haley Calderon,female,1,yes,no,7,month to month,yes,mailed check,67.59,448.02,,no,none,yes,yes,no,no,,no,yes
+CUST0215,Carolyn Peterson,female,1,no,,32,,,bank transfer,67.59,1000.5,,no,,yes,yes,no,no,,,
+CUST0216,Jennifer Williams,female,0,,yes,17,month to month,yes,credit card (automatic),67.59,1000.5,yes,no,none,no,yes,no,,,,yes
+CUST0217,Miss Donna Jones,male,0,yes,,24,month to month,,,67.59,1000.5,,,no,no,yes,yes,no,,no,
+CUST0218,Joan Hayes,female,1,no,,21,month to month,no,,67.59,1000.5,yes,,,no,no,no,no,,no,yes
+CUST0219,Patrick Russell,,1,yes,,51,one year,no,electronic check,96.47,6003.73,yes,no,no,no,,,,yes,no,no
+CUST0220,Troy Sanders,male,1,yes,no,36,month to month,no,electronic check,67.59,990.14,no,no,fiber optic,yes,yes,yes,yes,no,no,
+CUST0221,Gary Wells,female,0,,yes,65,one year,no,credit card (automatic),67.59,1000.5,no,no,none,no,yes,yes,,,no,yes
+CUST0222,Melody Butler,male,0,,yes,32,,no,mailed check,112.84,2488.76,yes,no,none,yes,,yes,no,,no,
+CUST0223,Sharon Ruiz,female,0,no,no,8,month-to-month,no,bank transfer,67.59,1000.5,yes,no,none,yes,,yes,,,,no
+CUST0224,Ethan Combs,female,1,,no,65,two year,no,,65.01,1000.5,yes,no,,no,no,yes,yes,yes,yes,no
+CUST0225,Molly Hunter,female,1,yes,no,31,,no,,67.59,1000.5,no,no,no,no,,no,,,yes,yes
+CUST0226,Tricia Williams,female,1,no,yes,38,one year,no,,92.16,1000.5,no,no,none,no,,no,no,,yes,no
+CUST0227,Michael Lewis,,0,,yes,48,,yes,bank transfer,67.59,1000.5,yes,no,none,yes,no,no,,no,,yes
+CUST0228,Diane Dixon,female,0,yes,yes,62,two year,yes,mailed check,52.93,1000.5,no,,,,no,no,yes,no,yes,no
+CUST0229,Alexis Warner,female,0,no,no,37,two year,no,credit card (automatic),67.59,1000.5,no,yes,dsl,no,,yes,,,,no
+CUST0230,Jason Berg,female,0,no,,50,month-to-month,no,bank transfer,67.59,1000.5,yes,,fiber optic,no,yes,no,yes,yes,no,no
+CUST0231,Andrew Holmes,,1,,,45,month-to-month,no,credit card (automatic),67.59,1000.5,yes,no,dsl,yes,no,yes,yes,yes,yes,no
+CUST0232,Tracy Bryant,female,1,no,no,4,month-to-month,,electronic check,67.59,1000.5,,no,dsl,yes,,yes,yes,no,,yes
+CUST0233,Daniel Morgan,male,1,no,no,48,one year,no,mailed check,67.59,1000.5,,yes,no,no,,yes,no,,yes,yes
+CUST0234,Dawn Cohen,male,0,no,yes,54,,no,,67.59,1000.5,no,no,fiber optic,yes,no,no,,,,yes
+CUST0235,Heidi Kirk,female,1,,no,33,month to month,,,117.8,1000.5,yes,no,no,yes,no,no,no,,no,yes
+CUST0236,Melody Willis,female,0,yes,,35,month-to-month,,credit card (automatic),118.03,3739.47,yes,no,none,yes,yes,,,,yes,
+CUST0237,Bethany Ward,male,1,,,51,month-to-month,no,credit card (automatic),67.59,1631.33,no,no,dsl,yes,,yes,,no,,yes
+CUST0238,Ryan Morris,,0,yes,,54,two year,yes,electronic check,68.94,1000.5,no,no,fiber optic,no,no,,,no,,no
+CUST0239,Melanie Trevino,female,0,,,36,one year,no,mailed check,67.59,1000.5,no,no,dsl,,no,,,yes,,
+CUST0240,Annette White,female,1,yes,,20,one year,no,electronic check,67.59,1000.5,yes,no,,,,yes,no,yes,no,yes
+CUST0241,Douglas Wallace,female,1,yes,,61,one year,no,mailed check,67.59,4466.89,no,,dsl,no,yes,yes,,,,yes
+CUST0242,Cynthia Smith,male,1,yes,no,41,one year,no,mailed check,67.59,1000.5,yes,no,none,yes,no,no,no,,no,no
+CUST0243,Nicole Lowery,female,1,yes,,45,one year,no,electronic check,71.86,1824.19,,,none,,yes,,yes,yes,,no
+CUST0244,Melissa Hall,male,1,,no,63,,no,bank transfer,31.82,1000.5,,no,none,,,,yes,yes,yes,
+CUST0245,Jeffrey Robertson,male,1,,no,46,month to month,no,credit card (automatic),54.87,1000.5,no,no,,no,yes,yes,yes,,,no
+CUST0246,Lisa Alexander,,1,yes,no,16,,no,mailed check,72.37,1152.06,no,yes,dsl,,yes,no,no,,,no
+CUST0247,Veronica Weaver,male,0,yes,,28,two year,,credit card (automatic),67.59,1000.5,yes,no,dsl,,yes,no,yes,no,,no
+CUST0248,Gregory Williams,female,1,,,53,,no,,67.59,6087.23,no,yes,fiber optic,,yes,no,,,yes,
+CUST0249,Brian Mcclure,female,1,no,,63,,yes,electronic check,67.59,1000.5,no,no,fiber optic,no,yes,no,,no,no,yes
+CUST0250,Miranda Lopez,male,0,no,yes,2,,yes,credit card (automatic),117.49,1000.5,,no,,yes,yes,yes,no,yes,,
+CUST0251,James Brown,male,1,yes,yes,65,month to month,,,67.59,1259.02,yes,yes,fiber optic,yes,no,yes,yes,,yes,
+CUST0252,Mr. John Bolton,female,0,no,no,20,month to month,no,credit card (automatic),67.59,1539.28,no,no,dsl,no,yes,,,,,yes
+CUST0253,Keith Dunn,male,0,no,,13,month to month,no,electronic check,69.58,802.91,no,yes,fiber optic,yes,,,yes,,,yes
+CUST0254,Joshua Roberson,female,0,,yes,13,one year,,electronic check,67.59,1000.5,no,,none,no,,,no,yes,,no
+CUST0255,Kelly Bishop,,0,yes,,48,one year,,electronic check,67.59,1000.5,yes,,fiber optic,no,yes,,,,,
+CUST0256,Matthew Wright,female,0,yes,,43,,,bank transfer,67.59,1000.5,no,,dsl,yes,yes,,yes,,yes,yes
+CUST0257,Gabriel Jackson,female,0,yes,,21,one year,yes,credit card (automatic),24.28,1000.5,no,no,dsl,,yes,,,no,,yes
+CUST0258,Lindsey Duncan,,0,yes,,70,month-to-month,no,credit card (automatic),46.24,5093.7,yes,yes,none,yes,no,no,no,yes,,yes
+CUST0259,John Randolph,,0,yes,yes,12,one year,no,,67.59,1000.5,yes,no,dsl,,no,,yes,,yes,yes
+CUST0260,Melanie Francis,male,1,no,,38,,no,electronic check,67.59,1000.5,yes,no,,yes,no,yes,yes,no,no,
+CUST0261,Amanda Park,male,0,,,2,month-to-month,no,credit card (automatic),67.59,1000.5,,no,dsl,yes,yes,,yes,no,,no
+CUST0262,Katrina Barnes,male,1,yes,yes,29,month-to-month,,bank transfer,67.59,1000.5,no,no,none,,yes,,no,,yes,yes
+CUST0263,Andrea Newman,female,1,no,,22,,yes,,67.59,1000.5,,no,,yes,no,,no,yes,,
+CUST0264,Emily Weaver,female,0,yes,no,6,month to month,yes,credit card (automatic),21.38,1000.5,,no,no,,,no,no,yes,,
+CUST0265,Andrew Powers,female,1,no,yes,24,two year,no,bank transfer,67.59,1000.5,,yes,dsl,yes,no,,,no,,no
+CUST0266,Charlotte Padilla,male,0,no,no,44,month-to-month,yes,bank transfer,67.59,1000.5,no,yes,fiber optic,no,no,no,,,no,no
+CUST0267,Heidi Taylor,,1,no,,44,,yes,mailed check,102.84,1000.5,no,no,fiber optic,,yes,no,,,yes,
+CUST0268,Walter Holland,male,0,yes,no,23,two year,yes,,67.59,1000.5,,no,none,,no,no,,,no,
+CUST0269,William Nguyen DVM,female,0,yes,no,69,two year,,bank transfer,67.59,1000.5,,no,none,yes,,,,no,,yes
+CUST0270,Crystal Brennan,male,0,yes,yes,16,,no,mailed check,67.59,1543.01,,,dsl,,no,yes,no,yes,,
+CUST0271,Ricardo Branch,male,1,no,,14,,no,credit card (automatic),67.59,1000.5,yes,no,dsl,yes,no,no,no,yes,no,
+CUST0272,Veronica Cole,male,0,no,yes,13,month to month,yes,electronic check,67.59,1000.5,,yes,dsl,yes,yes,,no,,no,
+CUST0273,Patrick Hunter,,1,no,no,42,two year,yes,mailed check,67.59,1000.5,no,,no,,yes,yes,no,,yes,yes
+CUST0274,Richard Kelly,,1,no,,35,month-to-month,yes,mailed check,26.02,1000.5,,no,fiber optic,no,no,,no,no,no,no
+CUST0275,Caleb Olson,female,1,yes,,3,two year,no,electronic check,67.59,1000.5,no,no,fiber optic,no,no,no,yes,,yes,yes
+CUST0276,Cody Gould,female,1,no,,7,month-to-month,no,mailed check,114.06,1000.5,no,no,no,,,no,no,yes,no,
+CUST0277,Aaron Russell,male,1,yes,,16,,yes,mailed check,67.59,1000.5,no,no,,yes,yes,,,,,
+CUST0278,Timothy Hatfield,male,1,no,yes,7,two year,,bank transfer,67.59,1000.5,yes,,dsl,yes,yes,,no,,yes,
+CUST0279,Cassandra Cobb,male,1,no,,1,,yes,credit card (automatic),67.59,1000.5,,no,dsl,no,no,,,,,no
+CUST0280,Renee Hess,male,1,yes,,1,one year,no,,67.59,1000.5,,,none,,,yes,yes,no,yes,no
+CUST0281,Harry Francis,,1,,no,8,month to month,no,,78.51,1000.5,no,,none,,yes,,,no,,
+CUST0282,Sara Robertson,male,1,yes,yes,62,one year,no,,67.59,1000.5,,no,none,,no,yes,,,,
+CUST0283,Jennifer Smith,male,0,yes,yes,45,,,credit card (automatic),28.18,1000.5,,yes,no,yes,,,no,,yes,no
+CUST0284,Miss Erica Walker,,0,yes,yes,16,month to month,,mailed check,67.59,1000.5,yes,no,fiber optic,no,yes,no,yes,,yes,no
+CUST0285,Vanessa Adams,,0,yes,,16,one year,no,credit card (automatic),67.59,1000.5,,no,,no,,,no,,yes,no
+CUST0286,Guy Underwood,female,1,no,no,4,one year,,credit card (automatic),100.59,1000.5,,no,no,,yes,,,yes,no,
+CUST0287,James Young,female,1,,yes,46,,yes,electronic check,44.73,1000.5,yes,yes,none,,yes,yes,,yes,,yes
+CUST0288,Mark Johnson,male,1,no,yes,45,month-to-month,no,mailed check,67.59,1000.5,no,yes,dsl,no,yes,,yes,yes,,
+CUST0289,Angela Scott,,1,,,6,,yes,bank transfer,67.59,691.28,yes,yes,dsl,no,no,yes,,,no,no
+CUST0290,Jacob Carson,male,1,yes,yes,37,month to month,no,,43.42,1000.5,no,,no,no,yes,yes,yes,,no,yes
+CUST0291,Daniel Smith,male,1,yes,yes,48,two year,no,mailed check,33.55,1000.5,no,no,dsl,no,no,yes,no,,no,no
+CUST0490,Ashley Guerra,female,0,yes,yes,21,,no,mailed check,67.59,1000.5,,no,fiber optic,no,yes,,,,yes,
+CUST0292,Cassandra Sosa,male,0,yes,,18,one year,yes,credit card (automatic),74.58,1000.5,,no,no,no,no,yes,yes,yes,no,
+CUST0293,Sara Castaneda,male,0,yes,,14,two year,no,electronic check,22.51,1000.5,,yes,,no,,yes,no,,,
+CUST0294,Mark Santiago,male,1,no,,14,one year,no,electronic check,67.59,1000.5,,no,none,,yes,yes,no,no,,no
+CUST0295,Jessica Goodwin,,0,no,,9,,yes,electronic check,44.47,1000.5,no,no,fiber optic,yes,yes,no,yes,,no,
+CUST0296,Mary Vaughn,,0,yes,no,1,month-to-month,no,bank transfer,67.59,1000.5,no,,,,no,,no,no,no,no
+CUST0297,Sharon Lowery,female,1,,,55,month to month,yes,credit card (automatic),115.44,1000.5,yes,no,dsl,,yes,,,,no,no
+CUST0298,Stephanie Walker,male,1,yes,no,61,one year,no,mailed check,67.59,1000.5,no,no,fiber optic,yes,,no,yes,,yes,yes
+CUST0299,Stephanie Olson,female,1,no,no,53,one year,no,bank transfer,67.59,1000.5,yes,no,none,no,,yes,,no,yes,
+CUST0300,Misty Hampton,female,0,yes,,57,month to month,,mailed check,67.59,1000.5,,no,fiber optic,no,,yes,yes,,no,
+CUST0301,Melissa Wood,female,0,no,no,45,month-to-month,no,,107.68,1000.5,yes,,no,,yes,,yes,,,
+CUST0302,Gregory Harris,female,1,,no,25,,yes,credit card (automatic),103.72,1000.5,no,no,,no,no,yes,,yes,,
+CUST0303,Lisa Farrell,male,1,yes,no,37,month to month,no,electronic check,67.59,1000.5,yes,yes,none,,no,no,,no,yes,
+CUST0304,Ronald Johnson,female,0,no,,69,month to month,yes,,67.59,1000.5,no,no,none,yes,no,yes,yes,,no,no
+CUST0305,Cynthia Clark,,1,yes,,63,one year,no,bank transfer,67.59,3299.25,yes,yes,dsl,no,,no,yes,,no,
+CUST0306,Daniel Price,,0,,no,60,two year,,mailed check,89.49,2882.33,,no,no,,,yes,no,yes,no,no
+CUST0307,Pamela Vincent,male,1,no,,48,,no,bank transfer,21.97,1000.5,yes,no,,no,yes,no,yes,no,yes,yes
+CUST0308,Alexa Davis,male,0,yes,,13,one year,yes,credit card (automatic),67.59,1000.5,no,no,none,no,no,,no,,,yes
+CUST0309,Jennifer York,male,1,yes,,21,one year,no,credit card (automatic),67.59,1000.5,no,yes,no,,no,,,no,yes,yes
+CUST0310,Daniel Rodriguez DVM,male,0,,no,38,month to month,no,credit card (automatic),67.59,1000.5,yes,no,dsl,,yes,yes,,yes,yes,
+CUST0311,Gavin Baker,male,1,yes,,60,month to month,no,mailed check,67.59,1831.77,,no,none,no,no,no,no,,,yes
+CUST0312,Philip Hodge,male,0,no,yes,44,month to month,,,67.59,1000.5,no,no,no,no,no,no,,yes,,
+CUST0313,Brittany Carr,male,0,,,57,two year,,electronic check,67.59,1000.5,,no,none,no,no,yes,,yes,,
+CUST0314,Heidi Jenkins,female,0,,no,21,one year,,mailed check,88.28,1000.5,no,,no,yes,,no,,yes,no,
+CUST0315,Scott Potter,female,0,yes,yes,59,month-to-month,no,,114.64,5916.63,,yes,no,yes,,no,,,yes,no
+CUST0316,Roberto Robinson,female,0,yes,no,52,one year,,credit card (automatic),67.59,1000.5,no,no,,no,yes,,no,yes,no,yes
+CUST0317,Christian Wilson,male,0,,no,32,one year,yes,,25.28,923.42,yes,yes,fiber optic,no,,no,,,no,no
+CUST0318,Joann Smith,male,1,no,,55,two year,no,credit card (automatic),38.32,1000.5,,yes,,,yes,yes,no,,,no
+CUST0319,James Madden,female,0,,no,63,month-to-month,,mailed check,32.66,1000.5,yes,no,fiber optic,yes,no,no,,yes,yes,no
+CUST0320,Heather Carey,male,0,yes,,47,two year,yes,mailed check,106.85,1000.5,yes,yes,,yes,no,yes,yes,,no,
+CUST0321,Mrs. Heather Mcguire MD,female,1,,yes,14,month-to-month,yes,bank transfer,67.59,1000.5,yes,,none,no,,,no,,,no
+CUST0322,Susan Gilmore,female,1,yes,,38,one year,yes,electronic check,67.59,1000.5,no,no,fiber optic,no,no,,no,yes,no,
+CUST0323,Scott Johnson,,0,no,,70,month-to-month,no,credit card (automatic),67.59,1000.5,yes,no,no,no,yes,yes,no,,no,no
+CUST0324,Brittany Pena,female,0,,,49,one year,yes,mailed check,67.59,1000.5,yes,no,none,yes,no,no,no,yes,no,
+CUST0325,James Contreras,male,1,no,,24,,yes,,67.59,1000.5,,no,none,no,no,yes,,no,yes,
+CUST0326,Jacqueline Anderson,male,0,yes,,29,,yes,,67.59,1000.5,no,no,fiber optic,yes,no,no,yes,,yes,yes
+CUST0327,Kyle Carroll,female,1,no,yes,31,month to month,no,credit card (automatic),67.59,1000.5,no,no,none,yes,,yes,,,,no
+CUST0328,Jennifer Robinson,male,0,no,,47,month to month,no,electronic check,67.59,1128.86,yes,yes,none,no,no,no,no,no,no,no
+CUST0329,Anthony Anderson,male,1,yes,,38,two year,no,electronic check,67.59,1386.21,yes,no,,no,no,yes,,no,,yes
+CUST0330,Marcus Knight,female,1,no,,67,month to month,no,credit card (automatic),67.59,1000.5,,yes,,no,,yes,no,,yes,no
+CUST0331,Jeffrey Lynch,male,1,no,no,7,month-to-month,yes,,67.59,1000.5,no,no,fiber optic,no,,no,yes,yes,yes,no
+CUST0332,Christian Meyer,female,0,no,no,22,month to month,no,credit card (automatic),67.59,1071.3,no,,dsl,,no,no,no,no,,yes
+CUST0333,Bobby Williams,male,0,no,,36,one year,yes,credit card (automatic),40.25,1000.5,,,fiber optic,yes,yes,yes,,,yes,no
+CUST0334,Anthony Sullivan,male,1,,yes,12,,,mailed check,67.59,1000.5,yes,yes,no,,,no,no,,yes,
+CUST0335,Vanessa Ward,,1,yes,no,53,,,electronic check,59.14,1000.5,yes,,dsl,,yes,yes,no,no,,no
+CUST0336,Brandon Grant,female,0,no,,4,one year,no,,67.59,1000.5,no,no,fiber optic,yes,no,,yes,,yes,no
+CUST0337,Natasha Holt,male,1,no,yes,50,one year,,,67.59,2465.93,,,none,,no,no,no,yes,,yes
+CUST0338,Stephanie Martinez,,1,no,yes,69,two year,,,40.27,1000.5,no,yes,none,no,no,no,yes,yes,no,no
+CUST0339,Jonathan Owens,male,0,no,yes,44,month-to-month,yes,mailed check,112.31,2423.02,,no,fiber optic,,,no,,,,
+CUST0340,Patrick Robinson,male,1,no,yes,40,,yes,mailed check,67.59,2946.75,,yes,dsl,,,no,,,,no
+CUST0341,Pamela Bartlett,,1,yes,yes,65,,yes,electronic check,67.59,4157.22,no,no,none,no,no,,yes,yes,no,
+CUST0342,Lee Taylor,female,1,yes,no,62,one year,yes,bank transfer,67.59,1449.86,no,yes,,no,,,yes,no,no,yes
+CUST0343,Jennifer Strickland,female,1,yes,,67,month to month,yes,electronic check,67.59,2983.04,no,yes,fiber optic,,no,no,no,yes,yes,no
+CUST0344,William Hughes,female,1,yes,no,48,one year,no,mailed check,67.59,1000.5,yes,yes,dsl,yes,,,no,no,,
+CUST0345,Robert Pearson,,0,yes,yes,30,,,electronic check,67.59,1000.5,,,none,no,yes,yes,yes,yes,yes,
+CUST0346,Shelley Coleman,male,1,yes,no,16,one year,no,credit card (automatic),67.59,1000.5,yes,yes,no,,,yes,yes,,,yes
+CUST0347,Carolyn Miller,female,1,,,3,month-to-month,no,mailed check,67.59,1000.5,no,yes,fiber optic,no,,,,yes,,no
+CUST0348,Destiny Carson,,0,yes,no,4,one year,,electronic check,45.21,153.96,,no,none,,no,,no,,,no
+CUST0349,Amber Crane,,0,yes,no,58,month to month,,credit card (automatic),67.59,1000.5,,,dsl,,,,yes,no,,
+CUST0350,John Wood,male,1,yes,,69,month-to-month,yes,,67.59,1000.5,yes,no,fiber optic,no,no,,,,yes,
+CUST0351,Sharon Kelly,female,1,yes,no,4,month to month,,electronic check,67.59,1000.5,no,no,fiber optic,yes,,,,no,yes,
+CUST0352,Ernest Johnson,female,0,no,,43,month to month,no,,67.59,1158.46,no,no,fiber optic,yes,no,,,no,yes,
+CUST0353,Thomas Thompson,,0,no,,57,month to month,no,credit card (automatic),67.59,5613.35,no,no,none,yes,no,yes,,,no,
+CUST0354,Olivia Perez,female,1,no,no,57,month-to-month,yes,electronic check,67.59,1731.69,yes,no,dsl,no,,,yes,,no,no
+CUST0355,Matthew Martin,female,0,no,yes,71,two year,no,electronic check,67.59,1000.5,yes,,no,no,yes,no,no,,,no
+CUST0356,Jessica Griffin,male,1,yes,yes,30,month-to-month,no,electronic check,67.59,1000.5,yes,no,fiber optic,yes,,no,yes,,no,no
+CUST0357,Ronald West,male,1,,yes,61,two year,no,,67.59,1000.5,yes,,none,no,,no,,,,
+CUST0358,Jennifer Hall,,1,yes,,48,,yes,mailed check,101.65,1000.5,no,yes,,yes,,,yes,,,no
+CUST0359,Elizabeth Jenkins,female,1,yes,no,65,two year,yes,electronic check,67.59,6629.12,,no,no,no,,no,yes,yes,no,
+CUST0360,Richard Howe,male,1,,,4,month to month,,mailed check,62.67,1000.5,no,,none,yes,,,yes,yes,,
+CUST0361,Jacob Johnson,female,1,yes,,33,one year,no,credit card (automatic),67.59,3392.52,no,no,,no,no,no,yes,no,yes,no
+CUST0362,Glenn Shaffer,male,0,no,,71,month to month,no,,67.59,1000.5,yes,no,fiber optic,no,,,yes,yes,no,no
+CUST0363,Michael Craig,male,1,yes,yes,0,month-to-month,no,mailed check,67.59,0.0,yes,,no,yes,no,no,yes,,yes,yes
+CUST0364,Shannon Cunningham,,1,yes,,40,month-to-month,,bank transfer,58.54,2886.75,yes,no,,,no,,yes,yes,,
+CUST0365,Michael Ayala,,1,no,,9,month to month,,,62.29,449.16,yes,,none,no,no,no,,,no,
+CUST0366,Dr. Keith Ayers,female,0,yes,yes,9,month to month,no,bank transfer,67.59,1000.5,yes,yes,fiber optic,,yes,,yes,,no,no
+CUST0367,Lacey Bender,female,0,yes,no,24,month-to-month,no,,106.5,1000.5,yes,,dsl,yes,,,yes,yes,,
+CUST0368,Matthew Pennington,male,1,,yes,3,two year,no,mailed check,56.4,63.69,,no,no,yes,no,no,no,yes,,no
+CUST0369,Kimberly Weber,male,1,no,,71,one year,yes,,67.59,1000.5,yes,,dsl,yes,yes,no,no,,no,no
+CUST0370,Dylan Cortez,female,0,no,no,9,two year,yes,bank transfer,67.59,1000.5,,no,,yes,,no,no,,yes,yes
+CUST0371,Scott Mcdaniel,female,1,,yes,36,two year,,credit card (automatic),84.74,1000.5,yes,yes,no,,no,no,,,,
+CUST0372,Chelsea Valdez,,0,,yes,61,two year,yes,credit card (automatic),118.01,1000.5,no,no,fiber optic,yes,,yes,,,,yes
+CUST0373,Daniel Browning,male,0,,yes,52,,yes,credit card (automatic),69.64,1000.5,yes,no,no,yes,no,yes,yes,,,no
+CUST0374,Kenneth Walls,male,1,no,,18,month to month,no,mailed check,73.67,1000.5,,no,fiber optic,yes,,yes,,,yes,no
+CUST0375,Kathleen Freeman,male,0,yes,yes,26,month to month,yes,bank transfer,67.59,1000.5,no,,dsl,yes,no,,yes,yes,yes,
+CUST0376,Wendy Beltran,male,1,yes,no,49,one year,no,,24.03,1000.5,yes,no,no,no,yes,yes,yes,,,no
+CUST0377,Nicole Chen,female,1,yes,yes,41,two year,no,,67.59,1000.5,yes,no,fiber optic,,no,,,,yes,yes
+CUST0378,Richard Hernandez,,0,no,,38,one year,,electronic check,109.2,1000.5,,yes,no,,yes,yes,no,yes,,
+CUST0379,Angelica Park,male,1,no,yes,50,two year,no,bank transfer,85.01,1000.5,yes,no,none,yes,,,no,,no,no
+CUST0380,John Cooley,female,1,no,yes,32,month-to-month,no,credit card (automatic),67.59,1000.5,yes,no,none,no,no,,yes,yes,,no
+CUST0381,Jay Mooney,male,0,,no,57,one year,yes,bank transfer,67.59,1000.5,no,,,no,no,no,no,yes,yes,yes
+CUST0382,Heather Jenkins,male,1,yes,no,60,,yes,bank transfer,114.43,1000.5,yes,,dsl,yes,yes,yes,yes,,yes,
+CUST0383,Eric Benjamin,male,0,,,56,two year,yes,,117.15,2260.58,no,no,dsl,,no,yes,yes,no,,no
+CUST0384,Patrick Acevedo,female,0,no,no,32,,yes,bank transfer,58.47,1000.5,yes,no,no,,no,,yes,,no,
+CUST0385,David Adams,male,1,yes,no,69,,yes,bank transfer,90.68,4862.42,yes,yes,no,,no,,yes,,yes,no
+CUST0386,James Wilson,male,1,yes,,62,month-to-month,no,bank transfer,67.59,1000.5,no,no,,no,,,yes,no,,
+CUST0387,Amanda Allen,male,1,no,yes,32,month-to-month,yes,electronic check,67.59,3099.04,yes,,dsl,,,yes,,yes,no,no
+CUST0388,Maxwell Robinson,male,0,yes,,8,month-to-month,yes,credit card (automatic),67.59,1000.5,no,no,none,no,yes,no,yes,yes,,yes
+CUST0389,Judith Delgado,female,0,yes,no,3,month to month,yes,mailed check,67.59,1000.5,yes,no,fiber optic,no,no,yes,no,,yes,yes
+CUST0390,Tammy Reeves,,0,,yes,44,month to month,yes,mailed check,47.13,1000.5,yes,no,,yes,no,,yes,,,yes
+CUST0391,Tonya Wilson,male,0,yes,,8,month-to-month,yes,credit card (automatic),67.59,378.07,no,no,fiber optic,yes,,yes,,no,no,no
+CUST0392,Michelle Cox,female,0,yes,,64,month to month,,credit card (automatic),67.59,1000.5,,no,no,no,,,yes,,,yes
+CUST0393,Crystal Alexander,male,1,no,,11,month to month,no,bank transfer,67.59,1000.5,,no,no,yes,yes,no,,,yes,yes
+CUST0394,Olivia Robles,,1,yes,no,46,two year,yes,,45.23,1000.5,yes,,none,yes,no,no,,yes,yes,no
+CUST0395,Eric Martin,male,0,no,,3,one year,,electronic check,67.59,1000.5,,,none,yes,yes,no,yes,no,yes,no
+CUST0396,Destiny Fernandez,female,1,no,no,32,two year,no,,95.89,1000.5,yes,no,,,no,yes,no,,,no
+CUST0397,Alice Horn,female,0,no,yes,11,month-to-month,yes,bank transfer,104.78,1000.5,yes,no,,no,,no,no,,no,yes
+CUST0398,Christine Wells,,0,no,no,19,two year,,credit card (automatic),67.59,1000.5,,yes,none,no,no,no,no,,no,yes
+CUST0399,Fred Harding,female,1,yes,no,8,month to month,,electronic check,86.05,1000.5,no,,no,,,,,,yes,yes
+CUST0400,Lauren Cruz,female,1,yes,,31,two year,no,,24.24,1000.5,no,yes,no,,no,yes,yes,yes,no,yes
+CUST0401,Samantha Morris,male,1,yes,,52,month to month,yes,electronic check,67.59,1000.5,,no,dsl,,no,yes,no,yes,no,
+CUST0402,Joanna Doyle,male,0,yes,yes,0,two year,yes,,67.59,1000.5,yes,no,no,yes,,yes,,,yes,yes
+CUST0403,Kimberly Johnson,,1,no,,13,month-to-month,yes,mailed check,67.59,1000.5,yes,,no,yes,,no,,,no,yes
+CUST0404,Anna Butler,female,0,no,,48,,yes,,67.59,1000.5,,yes,fiber optic,,yes,,yes,,no,yes
+CUST0405,Alicia Harris,female,0,no,,25,month to month,no,bank transfer,67.59,1000.5,no,,,yes,yes,,no,yes,no,no
+CUST0406,Eileen Rangel,,1,no,yes,17,month to month,no,credit card (automatic),63.04,1000.5,yes,yes,fiber optic,,yes,no,no,,,
+CUST0407,Kristin Moss,female,1,yes,no,66,,no,mailed check,67.59,2601.63,no,yes,,,,no,no,no,yes,
+CUST0408,Deanna Gross,female,0,yes,,33,month-to-month,yes,electronic check,67.59,3707.33,yes,no,dsl,yes,no,,yes,,no,no
+CUST0409,Dorothy Thompson,female,1,yes,,54,month-to-month,no,credit card (automatic),67.59,6358.77,no,no,no,,,no,,no,,no
+CUST0410,Steven Wilson DVM,male,0,no,no,29,two year,yes,,43.93,1000.5,,no,none,,,yes,yes,,no,no
+CUST0411,Joseph Mendez,male,0,no,,6,month-to-month,no,electronic check,67.59,1000.5,no,yes,,no,yes,yes,no,,no,no
+CUST0412,Michael Delgado,male,1,no,,69,month-to-month,yes,credit card (automatic),100.37,1000.5,,yes,no,yes,yes,no,,,,
+CUST0413,Claudia Knight,male,0,yes,,58,,,electronic check,118.93,1000.5,,no,fiber optic,no,no,yes,no,,no,
+CUST0414,Carrie Cunningham,male,0,no,,27,one year,,bank transfer,46.17,1000.5,,yes,none,yes,no,yes,no,,yes,
+CUST0415,Jessica Salazar,male,1,no,,43,one year,no,,67.59,2147.29,,,dsl,,,,,no,,no
+CUST0416,Zachary Weiss,female,1,no,,68,,yes,credit card (automatic),45.19,1000.5,yes,no,fiber optic,no,no,no,,yes,,
+CUST0417,Larry Randolph,,0,,,39,,yes,electronic check,67.59,1000.5,no,no,,no,,,,,no,
+CUST0418,Bradley Lopez,female,1,no,,41,one year,no,bank transfer,67.59,4216.82,yes,no,dsl,,,,yes,,yes,yes
+CUST0419,Marcus Mcdowell,male,1,yes,yes,65,,,mailed check,67.59,6443.85,,yes,no,yes,yes,yes,yes,,,no
+CUST0420,James Beltran,female,0,no,no,28,,yes,electronic check,67.59,1000.5,no,no,,no,yes,yes,yes,no,no,
+CUST0421,Darin Day,,0,no,,2,month-to-month,yes,bank transfer,67.27,1000.5,no,no,dsl,,no,no,yes,,yes,no
+CUST0422,Lisa Carter,female,1,yes,yes,23,two year,,,23.21,505.42,no,no,fiber optic,no,no,no,,no,,yes
+CUST0423,Terry Anderson,,1,no,,61,,no,mailed check,67.59,1000.5,yes,no,none,,no,yes,no,no,,no
+CUST0424,Thomas Lawson,,1,yes,,21,,no,electronic check,67.59,1000.5,,no,fiber optic,yes,yes,,,,,
+CUST0425,Rebecca Lozano,male,1,no,no,9,month-to-month,,credit card (automatic),67.59,1000.5,no,no,fiber optic,yes,no,yes,yes,yes,no,no
+CUST0426,Stephanie Lopez,female,0,,,57,two year,,mailed check,65.41,2883.14,yes,,dsl,no,,yes,,no,,yes
+CUST0427,Jessica Gibson,female,0,yes,yes,33,month to month,yes,,67.59,1000.5,,no,none,no,,yes,yes,,,no
+CUST0428,Elizabeth Warren,male,0,yes,yes,35,month-to-month,yes,credit card (automatic),67.59,1558.71,,,none,yes,yes,no,,,,no
+CUST0429,Shannon Shelton,,0,,,9,,yes,,67.59,1000.5,,,no,,no,no,yes,yes,no,yes
+CUST0430,Christina Miller,female,0,yes,no,71,,,credit card (automatic),67.59,1000.5,yes,no,fiber optic,,yes,no,,,,
+CUST0431,John Goodman,female,1,,no,69,month to month,,bank transfer,95.78,5701.34,,no,,,no,no,yes,no,,no
+CUST0432,Matthew Mathis,female,0,yes,,35,month-to-month,,credit card (automatic),64.77,1000.5,no,,no,,no,,,,,
+CUST0433,Adrienne Thomas,male,0,yes,,37,,no,,67.59,1000.5,yes,yes,,,no,no,no,no,no,no
+CUST0434,Suzanne Gordon,female,0,yes,yes,65,month-to-month,yes,,111.39,1000.5,no,yes,,,no,,,,yes,yes
+CUST0435,Nina Lopez,female,0,,yes,15,one year,yes,bank transfer,67.59,681.39,yes,yes,fiber optic,no,yes,yes,,no,yes,no
+CUST0436,Joshua Lyons,female,1,no,,21,,yes,credit card (automatic),67.59,1674.21,,no,,no,yes,,,,yes,
+CUST0437,Elizabeth Woodard,male,0,no,no,5,one year,no,electronic check,81.8,1000.5,yes,no,none,no,,no,yes,,,no
+CUST0438,Katrina Thomas,male,1,no,,62,one year,no,electronic check,67.59,1000.5,,no,,yes,,no,no,no,,yes
+CUST0439,Gregory Cowan,male,1,no,,13,,yes,electronic check,36.43,1000.5,,no,none,yes,no,no,yes,,,no
+CUST0440,Rachel Miller,male,0,no,,60,one year,,,67.59,1000.5,no,no,no,,yes,yes,no,no,,no
+CUST0441,Pamela Green,male,0,no,no,36,,no,mailed check,67.59,2408.93,no,no,,no,,yes,no,no,no,no
+CUST0442,Joseph Love,female,0,yes,yes,14,month to month,yes,,67.59,1000.5,yes,no,none,,,no,yes,,yes,
+CUST0443,Douglas Grant,male,0,no,,50,one year,yes,mailed check,21.15,1000.5,,no,,yes,no,,yes,yes,,no
+CUST0444,Holly Richmond,male,0,yes,yes,25,one year,no,bank transfer,67.59,1000.5,no,yes,none,yes,,no,yes,yes,yes,yes
+CUST0445,Jennifer Garza,male,1,yes,yes,26,month to month,yes,credit card (automatic),67.59,2810.14,no,,no,no,yes,,,,yes,no
+CUST0446,Mark Morales,male,1,no,no,65,two year,,electronic check,67.59,1000.5,no,no,,yes,yes,yes,yes,,,
+CUST0447,Richard Chambers Jr.,male,0,yes,no,70,,,,107.34,1000.5,yes,,no,,yes,,yes,,,
+CUST0448,Kelly Sanchez,male,0,,yes,34,two year,yes,bank transfer,67.59,1829.42,yes,no,none,yes,yes,yes,,no,,
+CUST0449,Veronica Nicholson,male,0,yes,no,21,,yes,bank transfer,67.59,1000.5,yes,yes,,,no,,yes,,,
+CUST0450,Mary Cunningham,female,1,yes,no,24,,,mailed check,82.42,1000.5,no,no,none,yes,yes,no,,yes,,
+CUST0451,Patrick May,,1,yes,,35,one year,yes,mailed check,67.59,1000.5,no,yes,,yes,yes,no,yes,yes,,
+CUST0452,Jacqueline Bauer,,1,no,yes,28,two year,,,95.4,1000.5,no,,none,no,,no,no,no,no,
+CUST0453,Wesley Rivera,,0,yes,,20,two year,yes,,67.59,604.37,yes,,dsl,no,yes,,no,no,no,no
+CUST0454,Dr. David Stein,,0,,no,31,,yes,mailed check,110.62,1000.5,yes,,dsl,yes,yes,yes,,no,,
+CUST0455,Bryan Andersen,female,1,yes,yes,21,,no,,45.76,1000.5,yes,yes,none,,,no,yes,no,,yes
+CUST0456,Bailey Walters,male,1,no,,22,one year,yes,electronic check,67.59,1000.5,no,no,,yes,,no,no,,no,
+CUST0457,Susan Freeman,male,0,yes,,49,one year,,credit card (automatic),67.59,1000.5,,no,dsl,no,yes,,yes,no,no,
+CUST0458,Thomas Trevino,female,1,yes,yes,36,one year,yes,,67.59,1000.5,yes,no,dsl,,yes,,no,yes,,no
+CUST0459,Jamie White,,1,,,26,,yes,electronic check,67.59,1000.5,no,no,no,,no,no,yes,,no,yes
+CUST0460,Jamie Ford,female,0,no,yes,60,,,credit card (automatic),85.02,1000.5,no,yes,no,,,,no,,no,
+CUST0461,Robert Chen,male,1,,,72,month-to-month,yes,credit card (automatic),67.59,1000.5,yes,no,none,,no,yes,,yes,no,
+CUST0462,Michael Garcia,female,1,,,43,one year,yes,credit card (automatic),67.59,1000.5,,,none,yes,yes,yes,no,yes,no,yes
+CUST0463,Lisa Baker MD,female,1,yes,yes,63,two year,no,,67.59,1000.5,no,,dsl,,yes,no,no,,no,no
+CUST0464,Michelle Thompson,male,0,yes,,14,month to month,no,mailed check,115.51,795.75,,no,no,no,,yes,,,,
+CUST0465,Paul Larson,male,1,yes,yes,46,one year,yes,credit card (automatic),67.59,1000.5,,no,fiber optic,,,,no,,no,
+CUST0466,Nancy Reid,male,0,,,14,two year,yes,credit card (automatic),67.59,1000.5,yes,,fiber optic,,no,yes,yes,,no,yes
+CUST0467,Mr. Scott Jones MD,female,0,no,no,16,one year,no,,102.91,1000.5,no,no,dsl,no,,,yes,,yes,no
+CUST0468,Michael Brown,female,0,no,,61,,no,bank transfer,67.59,6159.46,yes,yes,,yes,no,yes,no,,yes,yes
+CUST0469,Chad Cervantes,male,1,no,no,17,one year,yes,credit card (automatic),67.59,1000.5,,no,fiber optic,no,,yes,no,no,yes,
+CUST0470,Samuel Ortiz,male,1,no,,16,,yes,credit card (automatic),67.59,1000.5,no,yes,dsl,no,no,yes,yes,no,,
+CUST0471,Heidi Nichols,female,0,yes,,47,month-to-month,no,electronic check,30.44,1000.5,,,no,no,no,yes,,yes,yes,no
+CUST0472,Breanna Hanna,female,1,,yes,23,two year,yes,mailed check,76.65,1806.09,no,yes,none,yes,yes,,,yes,yes,yes
+CUST0473,Phillip Greene,male,1,no,no,43,month-to-month,yes,bank transfer,59.53,1000.5,,,dsl,,,yes,no,,no,no
+CUST0474,Ann Brooks,,1,,,17,two year,yes,,67.59,1000.5,no,yes,no,,no,yes,yes,no,yes,yes
+CUST0475,Lynn Harris,male,1,yes,yes,38,,yes,bank transfer,67.59,1262.02,yes,no,no,,yes,,,,no,
+CUST0476,Tammy Mayo,,0,yes,no,52,month-to-month,yes,electronic check,67.59,4941.49,,yes,,yes,no,,,,no,
+CUST0477,Elizabeth Jones,female,1,yes,,42,,,,67.59,3510.71,,,,,,,,no,,no
+CUST0478,Jacob Mata,male,0,no,,42,month to month,,electronic check,67.59,2227.61,yes,no,dsl,no,,no,,no,yes,
+CUST0479,Keith Mathis,male,1,yes,,19,two year,,mailed check,67.59,1000.5,yes,yes,,no,no,no,yes,yes,no,yes
+CUST0480,Julie Schmidt,female,1,yes,,41,one year,yes,electronic check,67.59,1000.5,no,no,fiber optic,,yes,no,no,no,,yes
+CUST0481,Dr. Christopher Oneal,,1,yes,,18,month to month,,mailed check,60.63,788.08,no,no,dsl,,yes,,no,,yes,yes
+CUST0482,Andrew Burton,male,1,no,,11,one year,no,,67.59,850.12,yes,no,fiber optic,yes,,,yes,yes,,
+CUST0483,James Scott,,1,yes,no,20,,no,bank transfer,67.59,1000.5,,,none,yes,no,,,,,yes
+CUST0484,Cameron Love,,1,yes,no,27,one year,no,bank transfer,67.59,1000.5,no,no,none,yes,,no,,no,yes,
+CUST0485,Denise Clark,female,0,yes,,51,one year,yes,,67.59,2611.18,yes,,no,no,no,no,yes,,no,no
+CUST0486,Joseph Hall,female,1,no,no,53,two year,no,mailed check,67.59,4290.54,no,no,,yes,,yes,,yes,no,yes
+CUST0487,Bailey Yates,female,0,yes,yes,63,month-to-month,yes,electronic check,67.59,1591.2,yes,yes,no,no,yes,yes,,no,yes,yes
+CUST0488,Kelli Boyd,male,0,yes,,43,two year,,,67.59,1000.5,no,,dsl,no,no,no,yes,yes,no,no
+CUST0489,Susan Wolfe,male,0,yes,yes,36,,no,,97.22,1000.5,,no,fiber optic,yes,,no,no,,,
+CUST0491,Julie Martin,,0,yes,yes,39,month to month,yes,bank transfer,67.59,899.04,,no,dsl,yes,yes,yes,yes,yes,yes,yes
+CUST0492,Justin Schroeder,male,1,yes,yes,40,month to month,yes,,67.59,1000.5,,yes,fiber optic,no,,,no,yes,yes,
+CUST0493,Paul Trevino,female,1,yes,yes,12,month-to-month,no,electronic check,67.59,853.05,yes,,dsl,,yes,yes,,yes,,
+CUST0494,Jasmine Anthony,,1,yes,yes,5,two year,no,electronic check,112.26,1000.5,yes,yes,no,,yes,yes,no,no,,yes
+CUST0495,James Carr,,1,yes,yes,67,month-to-month,yes,,80.74,1000.5,yes,,dsl,yes,,no,,no,,no
+CUST0496,Annette Garcia,female,0,no,,42,month to month,no,electronic check,67.59,1000.5,yes,yes,dsl,,,,no,no,yes,yes
+CUST0497,Deborah Berger,female,1,no,no,53,month to month,yes,electronic check,98.38,1000.5,,,dsl,yes,no,,no,no,,no
+CUST0498,Savannah Davis,female,1,yes,,26,month to month,no,bank transfer,64.52,1277.53,,yes,,,no,,,yes,yes,no
+CUST0499,Sara Wilson,female,1,no,,30,two year,no,electronic check,84.23,1000.5,yes,yes,,yes,,,,,,no
+CUST0500,Timothy Peterson,,0,no,,54,,yes,bank transfer,67.59,1000.5,,no,,no,,,yes,yes,,no
+CUST0501,Mary Smith,,1,,no,72,one year,no,,67.59,1000.5,no,yes,,yes,yes,no,,,,
+CUST0502,Kaitlyn Smith,female,1,no,,25,month-to-month,no,credit card (automatic),99.27,1000.5,yes,,dsl,no,,yes,yes,,,yes
+CUST0503,Samantha Clark,male,1,no,,4,month-to-month,yes,,67.59,244.72,,,fiber optic,yes,,yes,no,yes,yes,
+CUST0504,Daniel Griffin,male,0,yes,,23,month-to-month,,mailed check,56.94,1000.5,no,no,,,no,yes,no,,yes,yes
+CUST0505,Dillon Robinson,male,0,yes,,56,two year,yes,mailed check,67.59,6497.86,yes,,,yes,,no,,yes,,no
+CUST0506,Deborah Garcia,female,0,yes,yes,30,,yes,credit card (automatic),67.59,1000.5,no,yes,fiber optic,,,no,no,yes,no,yes
+CUST0507,Jonathan Smith,male,1,no,,9,one year,no,,114.28,1000.5,yes,,no,,no,,,yes,,no
+CUST0508,Ashley Ramirez,male,1,yes,,25,month-to-month,yes,mailed check,67.59,1000.5,,no,no,,no,no,yes,,no,yes
+CUST0509,Rachel Lane,,0,yes,yes,15,month-to-month,no,credit card (automatic),67.59,1140.78,,no,none,no,,yes,yes,yes,,no
+CUST0510,Mr. David Christian,female,0,,yes,55,,no,electronic check,67.59,1000.5,yes,yes,fiber optic,,yes,no,no,,yes,no
+CUST0511,Anthony Brock,,1,,no,23,one year,no,mailed check,67.59,1000.5,no,yes,dsl,,no,yes,no,yes,,
+CUST0512,Timothy Larson,,0,no,yes,31,one year,no,electronic check,56.64,1000.5,,no,,no,no,,no,,yes,
+CUST0513,Walter Stokes,male,1,yes,,30,two year,no,credit card (automatic),67.59,1911.81,yes,no,no,yes,yes,no,yes,,,yes
+CUST0514,Janice Johnson,,1,no,no,63,one year,yes,bank transfer,67.59,1000.5,yes,,fiber optic,,,,no,,no,
+CUST0515,Sandra Noble,male,1,yes,no,72,,,mailed check,67.59,1000.5,,no,none,,yes,no,no,,,
+CUST0516,Amanda Williams,female,0,,,58,month-to-month,no,bank transfer,84.76,2082.95,no,yes,none,no,yes,,no,,yes,no
+CUST0517,James Mcclure,,1,no,,27,month-to-month,,electronic check,67.59,1000.5,yes,no,,no,,yes,,yes,,yes
+CUST0518,Joshua Marks,male,0,,,41,,,electronic check,67.59,3402.74,no,no,fiber optic,yes,no,no,yes,yes,no,yes
+CUST0519,Linda Perry,,0,yes,,22,,no,bank transfer,67.59,1927.04,,no,fiber optic,no,yes,no,yes,,,yes
+CUST0520,William Perez,female,1,,no,3,month to month,no,bank transfer,36.04,1000.5,,yes,,yes,no,,yes,,no,
+CUST0521,Jermaine Padilla,female,1,yes,,37,month-to-month,,bank transfer,32.39,1000.5,,no,no,yes,yes,no,,yes,,yes
+CUST0522,Jessica Moon,male,1,no,no,0,month to month,yes,bank transfer,67.59,0.0,no,yes,none,no,yes,no,no,,no,
+CUST0523,Christie Martinez,,1,no,yes,14,month to month,yes,credit card (automatic),67.59,1432.23,no,yes,none,no,no,yes,,yes,yes,no
+CUST0524,Alan Ross,female,0,,no,11,,yes,mailed check,67.59,1000.5,no,,fiber optic,no,,,no,no,yes,
+CUST0525,Kyle Holmes,male,1,no,no,8,two year,no,,102.85,1000.5,yes,,fiber optic,,no,no,no,,,yes
+CUST0526,Steve Duran,male,0,yes,,3,month-to-month,no,mailed check,67.59,301.25,,,none,yes,,no,,,yes,yes
+CUST0527,Kristen Hill MD,male,1,no,no,50,month to month,no,,67.59,1000.5,yes,no,no,yes,no,,yes,no,no,
+CUST0528,Brandon Garcia,male,1,no,no,62,,no,electronic check,67.59,1000.5,,yes,,no,,,yes,no,,no
+CUST0529,Tracy Miller,,0,,,62,two year,yes,mailed check,67.59,1000.5,no,,,,no,no,,,yes,yes
+CUST0530,Daniel Hurley,female,0,yes,no,66,two year,no,credit card (automatic),43.06,1000.5,yes,no,fiber optic,yes,yes,no,,,,
+CUST0531,Jeremy Reed,,1,yes,,32,two year,yes,,67.59,1000.5,no,,,yes,yes,yes,,no,yes,
+CUST0532,Michael Kelley,male,0,,no,26,two year,no,mailed check,67.59,1681.31,,no,no,yes,no,,yes,no,,no
+CUST0533,James Harris,female,1,,no,12,month to month,no,bank transfer,67.59,393.67,yes,yes,,yes,,yes,no,yes,no,yes
+CUST0534,Andrea Howard,,0,yes,,44,two year,no,electronic check,67.59,1000.5,no,no,none,no,no,yes,,,no,yes
+CUST0535,Teresa Estrada,male,1,no,no,28,two year,yes,bank transfer,18.1,1000.5,no,no,no,yes,no,,yes,yes,no,
+CUST0536,Anna Carson,male,0,no,yes,31,month-to-month,no,credit card (automatic),30.03,1000.5,yes,yes,fiber optic,yes,,no,yes,,no,yes
+CUST0537,Martin Young,female,0,no,,22,two year,yes,bank transfer,67.59,1000.5,,yes,none,,no,no,yes,no,,
+CUST0538,Tiffany Santiago,female,0,,,24,one year,yes,,67.59,1216.07,yes,,fiber optic,no,no,yes,,yes,no,
+CUST0539,Andrew Koch,,0,yes,no,57,month to month,yes,,67.59,1000.5,,,dsl,no,no,no,,,,no
+CUST0540,Chris Pearson,male,0,yes,no,27,two year,yes,credit card (automatic),67.59,1000.5,yes,,none,yes,no,,no,no,,yes
+CUST0541,Cody Cox,male,0,,no,61,month to month,yes,,96.73,1000.5,,,no,no,yes,,no,,,
+CUST0542,James Davis,male,0,yes,,69,,no,credit card (automatic),67.59,1377.78,no,yes,no,no,yes,,,no,,yes
+CUST0543,John Watson,,0,no,yes,63,month-to-month,,,67.59,1000.5,,,dsl,yes,,,,yes,,
+CUST0544,Joshua Davis,male,1,no,,57,month to month,yes,credit card (automatic),67.59,1000.5,,,dsl,no,yes,no,no,,,no
+CUST0545,Andre Smith,female,1,yes,,11,,no,,67.59,1000.5,no,no,,,,no,,,,no
+CUST0546,Amanda Moore,female,1,yes,,40,month-to-month,yes,,67.59,1000.5,no,yes,dsl,yes,no,no,yes,no,yes,no
+CUST0547,Elizabeth Sanders,male,1,,,30,month-to-month,yes,electronic check,67.59,1000.5,,,no,,no,no,yes,yes,no,
+CUST0548,Robyn Strickland,male,0,no,,43,one year,no,electronic check,67.59,1000.5,no,no,none,yes,,,yes,yes,yes,yes
+CUST0549,Gabriel Johnston,male,1,yes,no,8,month-to-month,no,electronic check,67.59,1000.5,,yes,dsl,yes,no,no,yes,yes,,no
+CUST0550,Craig Mcdowell,male,1,no,,50,one year,no,mailed check,67.59,1000.5,,no,fiber optic,yes,,no,no,,,yes
+CUST0551,Margaret West,male,0,yes,yes,50,month to month,no,credit card (automatic),40.85,5009.37,yes,no,dsl,yes,no,,no,,,yes
+CUST0552,Collin Stephens,,0,yes,,66,month-to-month,yes,credit card (automatic),67.59,1000.5,yes,yes,dsl,no,yes,yes,no,no,,yes
+CUST0553,Donald Barton,female,0,yes,,69,one year,no,bank transfer,111.83,1000.5,yes,no,fiber optic,,yes,yes,,,,no
+CUST0554,Rebecca Schneider,female,0,yes,,34,month to month,yes,bank transfer,67.59,1000.5,no,no,dsl,yes,no,no,yes,no,,no
+CUST0555,Kimberly Monroe,male,0,yes,,7,one year,,mailed check,67.59,1000.5,,no,,,no,,,,,
+CUST0556,Alexander Moyer,male,0,yes,,45,,,bank transfer,109.89,1000.5,yes,,fiber optic,,no,,,no,,yes
+CUST0557,Christopher Mason,male,0,no,no,21,month to month,yes,,67.59,1000.5,yes,no,fiber optic,yes,,,,no,no,
+CUST0558,Alyssa Gonzalez,female,1,,yes,67,one year,yes,,67.59,1000.5,no,no,fiber optic,yes,,,no,yes,,yes
+CUST0559,Angela Burke,female,0,,yes,5,,yes,,65.14,1000.5,no,no,none,yes,,yes,,no,,no
+CUST0560,Taylor Payne,female,1,yes,yes,22,,,electronic check,67.59,1082.02,yes,no,no,,yes,yes,,,no,yes
+CUST0561,Dylan Alvarado DDS,male,1,yes,,72,month-to-month,no,,67.59,1000.5,,,dsl,yes,no,yes,yes,yes,,
+CUST0562,Margaret White,,0,yes,yes,17,,no,credit card (automatic),67.59,1000.5,,no,fiber optic,,,,no,yes,no,no
+CUST0563,Chase Molina,female,0,yes,yes,60,,no,electronic check,67.59,4455.31,,,none,yes,no,,yes,,yes,yes
+CUST0564,Christopher Reynolds,male,1,yes,,53,month-to-month,no,electronic check,67.59,3107.31,no,no,no,no,,yes,,,,no
+CUST0565,Caroline Cisneros,female,1,no,yes,41,one year,no,mailed check,67.59,1997.44,no,no,no,,yes,no,no,,,no
+CUST0566,Jerome Hall,female,0,no,yes,54,one year,yes,bank transfer,67.59,4212.71,yes,no,dsl,,yes,,,,yes,yes
+CUST0567,Michelle Williams,male,0,yes,,50,month to month,,,67.59,5436.92,no,yes,fiber optic,yes,,,,,,yes
+CUST0568,Matthew Weiss,,1,no,,7,month to month,no,mailed check,67.59,592.6,,,,no,no,,no,,no,
+CUST0569,Joseph Taylor,female,1,yes,no,38,two year,,mailed check,115.62,2926.33,yes,,,,no,yes,,,,yes
+CUST0570,Summer Smith,female,1,,,58,one year,yes,,67.59,1000.5,no,,none,,yes,yes,yes,yes,yes,
+CUST0571,Alexander Smith,,1,no,,56,month to month,,electronic check,67.59,1000.5,no,yes,fiber optic,yes,,no,yes,,,yes
+CUST0572,Kenneth Wiggins,male,1,yes,no,55,one year,yes,credit card (automatic),67.59,1000.5,yes,yes,none,,no,,no,,yes,yes
+CUST0573,Eric Taylor,male,1,no,,37,,yes,mailed check,67.59,1000.5,yes,no,fiber optic,,,,,,no,
+CUST0574,Joshua Keith MD,,1,,,34,two year,yes,bank transfer,67.59,1625.2,no,no,none,,,,,no,,
+CUST0575,Jenny Parks,male,1,no,,15,month to month,yes,electronic check,67.59,1000.5,no,no,dsl,no,no,yes,,yes,,
+CUST0576,Willie Bennett,female,0,no,,11,month-to-month,yes,electronic check,67.59,1000.5,,,dsl,,,yes,yes,yes,no,yes
+CUST0577,Cassandra Miller,female,0,no,,72,two year,,electronic check,67.59,1000.5,no,,dsl,yes,,,no,no,,no
+CUST0578,Luis Reyes,,1,,yes,7,month to month,yes,mailed check,67.59,1000.5,yes,,,no,yes,no,yes,,,
+CUST0579,Jonathan Barrett,male,0,yes,no,33,month to month,no,mailed check,67.59,1000.5,no,no,none,yes,,yes,,,,yes
+CUST0580,Teresa Wagner,,0,no,,12,,,electronic check,60.13,1000.5,no,yes,,no,yes,yes,yes,no,yes,
+CUST0581,Robert Ryan,male,0,yes,,5,two year,no,mailed check,67.59,1000.5,,,none,,yes,,,,,
+CUST0582,Gerald Hawkins,,1,,no,21,one year,no,bank transfer,78.56,2280.54,yes,no,,no,yes,yes,yes,yes,no,no
+CUST0583,Robert Bean,male,1,no,no,10,month-to-month,no,bank transfer,67.59,1000.5,yes,no,fiber optic,,,,yes,,no,
+CUST0584,Marc Reyes,,1,no,,28,month to month,no,mailed check,67.59,1000.5,yes,no,dsl,,yes,,,,,yes
+CUST0585,Jason Turner,male,1,yes,yes,27,month to month,,,69.16,1000.5,no,,,yes,yes,no,,yes,no,yes
+CUST0586,Sabrina Brown,,1,yes,,8,month-to-month,,,18.49,432.53,no,no,none,no,yes,yes,no,,no,
+CUST0587,Rebecca Atkinson,female,1,,,54,month to month,yes,credit card (automatic),28.33,1000.5,,,none,yes,no,,yes,no,,
+CUST0588,Richard Collier,male,0,yes,no,58,month-to-month,no,mailed check,67.59,1471.91,yes,no,no,,,no,yes,,,
+CUST1187,Michael Taylor II,female,1,no,no,55,,no,,29.14,1000.5,no,no,fiber optic,yes,no,no,yes,yes,no,
+CUST0589,Christopher Olsen,female,0,no,no,52,month-to-month,no,credit card (automatic),67.59,1347.86,,no,fiber optic,no,,no,no,yes,yes,yes
+CUST0590,Maurice Watson,female,1,no,,14,month-to-month,no,electronic check,67.59,1000.5,,no,none,yes,,no,,yes,,no
+CUST0591,Carol Novak,,1,,,25,two year,yes,,69.65,1758.3,,,none,,no,yes,,,,
+CUST0592,Michael Morgan,male,1,,no,2,,,electronic check,88.51,155.23,yes,yes,fiber optic,no,no,no,no,no,,no
+CUST0593,Wanda Mayo,male,0,yes,,34,month-to-month,yes,bank transfer,67.59,1000.5,yes,no,no,,yes,no,,no,yes,no
+CUST0594,Mr. Jeffrey Mays,female,0,no,,61,one year,no,,109.99,1000.5,,,dsl,yes,yes,,yes,no,no,no
+CUST0595,Calvin Ochoa,male,1,no,,14,two year,,,95.28,1443.82,yes,no,no,,,,,,,yes
+CUST0596,Kevin Gonzalez,female,0,,,18,two year,,,67.59,1000.5,,no,no,yes,yes,,no,yes,,
+CUST0597,Mikayla Jackson,female,1,yes,,23,month to month,yes,credit card (automatic),67.59,912.65,yes,,,yes,,yes,no,,,
+CUST0598,Matthew Fowler,,0,yes,no,12,one year,yes,bank transfer,67.59,1000.5,no,no,none,,,,yes,,no,yes
+CUST0599,Julie Anderson,female,0,,yes,65,one year,no,credit card (automatic),67.59,1000.5,yes,no,,yes,no,,,yes,yes,yes
+CUST0600,William Allen,female,0,no,,50,two year,no,mailed check,45.46,1000.5,yes,yes,fiber optic,no,no,yes,,,yes,yes
+CUST0601,Michael Baldwin,male,0,yes,,53,two year,yes,,51.81,1000.5,,no,dsl,no,yes,no,,,,yes
+CUST0602,Ashlee Shah,female,0,no,yes,59,two year,,credit card (automatic),67.59,1000.5,yes,no,dsl,,,yes,no,yes,yes,yes
+CUST0603,Tim Johnson,male,1,yes,,7,month to month,yes,mailed check,67.59,1000.5,yes,yes,no,no,no,yes,,,,yes
+CUST0604,Morgan Stafford,female,0,no,,43,month-to-month,yes,credit card (automatic),67.59,1711.17,yes,yes,none,,no,no,no,yes,yes,yes
+CUST0605,Sydney Brooks,male,0,no,no,40,,yes,,67.59,3872.46,yes,no,,no,no,no,,,,yes
+CUST0606,Laura Wolf,,1,yes,,62,month to month,yes,electronic check,67.59,7313.71,yes,no,no,no,yes,,no,yes,no,yes
+CUST0607,Oscar Torres,female,1,yes,,3,,yes,credit card (automatic),67.59,343.56,,,dsl,yes,yes,,no,yes,,no
+CUST0608,Danny Smith,female,0,yes,,71,one year,,,67.59,1000.5,yes,no,none,no,,yes,yes,,,
+CUST0609,Kristine Stone,male,0,yes,,38,,,bank transfer,67.59,3625.77,yes,no,no,yes,no,yes,,,no,yes
+CUST0610,Angela Flores,female,1,no,,45,one year,no,bank transfer,67.59,1000.5,yes,yes,no,no,no,,no,,no,yes
+CUST0611,Tina Alexander,male,0,no,,71,month-to-month,no,electronic check,60.0,1000.5,,,dsl,yes,yes,,yes,,,
+CUST0612,Daniel Edwards,female,0,no,yes,70,month-to-month,no,,67.59,1000.5,no,no,dsl,,yes,,yes,,,no
+CUST0613,Barbara Snyder,female,0,yes,no,54,,yes,electronic check,67.59,1000.5,yes,no,,no,,,,,,no
+CUST0614,Gwendolyn Best,male,0,no,yes,40,one year,no,mailed check,67.59,1000.5,,no,fiber optic,no,,no,yes,yes,no,
+CUST0615,Timothy Green,female,0,yes,no,51,one year,yes,bank transfer,87.59,4368.36,no,yes,fiber optic,no,no,,,yes,yes,no
+CUST0616,Dr. Christine Brady,female,0,,no,63,one year,,electronic check,67.59,1000.5,yes,,,no,no,no,,no,,yes
+CUST0617,John Davis,female,1,yes,no,48,two year,no,,67.59,1000.5,yes,,fiber optic,no,no,,,,,no
+CUST0618,Barbara King,male,1,,yes,11,one year,,credit card (automatic),78.12,1000.5,,no,no,yes,,,yes,no,no,yes
+CUST0619,Chad Campos,female,1,yes,,36,two year,yes,electronic check,24.76,1000.5,yes,no,fiber optic,no,yes,,no,no,yes,no
+CUST0620,Jonathan Knight,female,1,yes,yes,57,month-to-month,no,mailed check,67.59,1000.5,yes,yes,dsl,,no,,,,,no
+CUST0621,Deborah Ballard,male,1,yes,no,43,one year,yes,,67.59,1000.5,yes,no,none,no,no,no,no,,,
+CUST0622,Ashley Schultz,female,0,yes,yes,16,one year,,bank transfer,67.59,1000.5,no,no,none,yes,no,yes,yes,,yes,
+CUST0623,Jasmine White,,0,yes,no,35,two year,,,55.96,1000.5,yes,no,no,no,,yes,,yes,yes,yes
+CUST0624,Todd Johnson,,0,no,yes,41,month to month,no,credit card (automatic),67.59,1000.5,,no,none,,yes,,,no,,
+CUST0625,Dr. Nicole Burgess DDS,female,0,yes,,62,,no,credit card (automatic),69.77,1762.85,no,yes,,no,yes,yes,no,yes,yes,
+CUST0626,Kenneth White,female,0,yes,yes,3,two year,yes,electronic check,67.59,1000.5,no,no,none,,yes,,no,yes,yes,
+CUST0627,Jennifer Hill,male,0,yes,yes,56,month to month,,electronic check,67.59,1000.5,no,yes,dsl,yes,no,,,yes,yes,
+CUST0628,Valerie Bailey,female,1,yes,yes,40,month-to-month,yes,bank transfer,67.59,1000.5,,no,dsl,no,yes,yes,yes,yes,yes,yes
+CUST0629,Kayla Barton,female,0,yes,yes,70,month-to-month,no,mailed check,67.59,1000.5,,yes,fiber optic,,,,no,,no,no
+CUST0630,Frank Shelton,male,1,no,,68,month to month,yes,credit card (automatic),110.17,1000.5,,no,fiber optic,no,no,no,,yes,no,yes
+CUST0631,James Franco,male,0,no,no,20,month-to-month,yes,,82.49,1000.5,,yes,none,,yes,no,no,yes,,no
+CUST0632,Whitney Brown,,0,no,,17,,,electronic check,67.59,1000.5,yes,no,no,,,no,,no,,yes
+CUST0633,Bruce Brown,male,1,no,,25,,no,bank transfer,67.59,1000.5,,,,yes,yes,,no,,yes,yes
+CUST0634,Haley Shepherd,female,1,no,yes,57,,no,bank transfer,67.59,1000.5,yes,no,none,yes,no,yes,no,no,no,no
+CUST0635,Erika Cooley,male,1,no,,34,month-to-month,yes,mailed check,67.59,1000.5,,,no,yes,no,no,,no,yes,
+CUST0636,Christopher Medina,female,1,no,no,63,two year,yes,electronic check,67.59,1000.5,,yes,fiber optic,yes,yes,yes,no,,,
+CUST0637,Sarah Newton,male,0,,,34,month-to-month,yes,bank transfer,67.59,1000.5,,no,no,,no,,no,no,,no
+CUST0638,Kathleen Bennett,,0,yes,,38,two year,no,bank transfer,67.59,1000.5,,no,dsl,no,yes,no,,,no,no
+CUST0639,Scott Ruiz,female,1,yes,yes,0,two year,no,credit card (automatic),67.59,1000.5,no,no,none,,,,no,,,no
+CUST0640,Alyssa Bush,male,0,no,,53,,yes,mailed check,67.59,6076.75,yes,,dsl,yes,yes,,,no,,no
+CUST0641,Michael Hernandez,female,1,yes,yes,15,month to month,no,,67.59,1000.5,,no,no,no,yes,yes,yes,yes,,yes
+CUST0642,Lisa Wilson,female,1,,yes,62,,yes,mailed check,20.91,6515.06,yes,,,yes,,no,no,,no,no
+CUST0643,Jessica Smith,female,1,yes,yes,2,month-to-month,,,60.85,1000.5,no,yes,fiber optic,no,,yes,,,,yes
+CUST0644,Joshua Brown,female,1,,,22,,,mailed check,67.59,1093.3,no,yes,none,no,yes,yes,yes,,,no
+CUST0645,Shannon Hooper,male,1,no,yes,67,one year,yes,mailed check,28.79,1000.5,,no,no,yes,no,no,yes,,no,
+CUST0646,Amanda Lewis,male,0,yes,yes,64,one year,no,,80.27,1000.5,no,no,,,no,no,yes,,yes,yes
+CUST0647,Stephanie Campbell,female,0,no,no,16,month-to-month,no,electronic check,67.59,1000.5,yes,yes,no,no,,yes,yes,,,no
+CUST0648,Gregory Jones,male,0,no,no,39,month-to-month,no,,67.59,3920.61,yes,no,no,yes,yes,no,,yes,yes,no
+CUST0649,Jasmine Harris,female,0,no,,23,month-to-month,yes,bank transfer,67.59,1000.5,yes,no,fiber optic,no,no,no,,no,,no
+CUST0650,Debbie Gonzales,,0,,no,40,month to month,yes,credit card (automatic),67.59,3803.78,,no,none,no,no,yes,,no,no,
+CUST0651,Christine Lawson,,1,no,no,15,month to month,yes,bank transfer,67.59,1000.5,yes,no,dsl,no,,yes,yes,no,no,
+CUST0652,Stephanie Johnson,female,0,no,,58,month-to-month,,,79.33,4970.89,yes,,none,no,yes,yes,,,yes,yes
+CUST0653,Dylan Williams,male,0,yes,,24,two year,yes,,67.59,1000.5,,no,,,no,no,,,yes,yes
+CUST0654,Julie Blanchard,female,0,yes,,34,month to month,yes,bank transfer,94.3,3258.36,,,none,,yes,no,,yes,no,
+CUST0655,Melanie Williams,male,0,yes,,5,one year,no,bank transfer,92.96,1000.5,,no,fiber optic,,,no,,yes,,yes
+CUST0656,Frank Barber,male,1,no,,39,two year,,,67.59,1000.5,no,yes,dsl,no,,no,,,,yes
+CUST0657,Gavin Cox,,1,no,,37,two year,yes,mailed check,67.59,1000.5,,yes,,,no,yes,yes,,no,no
+CUST0658,Kathryn Price,male,0,no,,53,,yes,,112.29,4585.95,yes,yes,fiber optic,no,no,no,,,,
+CUST0659,Krystal Williamson,,1,yes,,43,month to month,yes,,67.59,4748.47,yes,no,fiber optic,no,,yes,,yes,,yes
+CUST0660,Dominic Smith,female,1,yes,no,26,two year,no,mailed check,67.59,1000.5,no,no,,yes,,yes,yes,,,
+CUST0661,Christine Krause,,0,yes,,66,month to month,yes,mailed check,67.59,1000.5,,no,fiber optic,,,no,no,yes,,
+CUST0662,Adriana Douglas,,0,yes,yes,4,month to month,yes,bank transfer,67.59,1000.5,yes,no,fiber optic,yes,no,no,no,,no,no
+CUST0663,Christopher Jordan,,0,yes,yes,41,two year,no,electronic check,67.59,1000.5,no,yes,none,no,yes,yes,yes,,,no
+CUST0664,Sarah Martinez,female,0,yes,,29,month-to-month,no,electronic check,67.59,1000.5,,no,no,,yes,,yes,no,,yes
+CUST0665,Suzanne Adams,,0,yes,,37,two year,yes,credit card (automatic),67.59,1000.5,no,yes,,no,no,yes,yes,,yes,no
+CUST0666,Lee Allen,male,0,yes,,62,month-to-month,no,bank transfer,88.48,2569.81,yes,,dsl,yes,,no,yes,no,yes,no
+CUST0667,Lisa Pugh,male,0,no,,72,,no,electronic check,60.39,1000.5,,no,,no,yes,yes,,yes,yes,
+CUST0668,Jennifer Davidson,female,0,no,,9,one year,no,credit card (automatic),67.59,1000.5,,no,dsl,no,yes,,,no,no,no
+CUST0669,Rodney Phillips,female,1,yes,,69,one year,no,bank transfer,62.75,1000.5,yes,yes,fiber optic,,,no,yes,no,,
+CUST0670,Micheal Parsons,female,1,no,yes,38,two year,,credit card (automatic),67.59,3548.58,yes,no,dsl,,yes,no,no,,no,
+CUST0671,Kevin Hancock,female,0,yes,,26,month to month,no,electronic check,35.32,1000.5,no,yes,none,,no,no,,,yes,
+CUST0672,Jeffrey Farrell,female,0,yes,,46,two year,no,mailed check,62.91,1000.5,no,no,none,no,yes,no,yes,yes,,yes
+CUST0673,David Miller,male,0,,yes,67,two year,no,electronic check,67.59,7929.14,,no,dsl,no,,,yes,,,
+CUST0674,Jennifer Waters,,0,yes,no,29,,no,credit card (automatic),67.59,1000.5,yes,no,dsl,no,no,no,yes,yes,no,yes
+CUST0675,Daniel Torres,male,1,,,45,,yes,bank transfer,67.59,4378.79,yes,no,no,,yes,yes,,,yes,yes
+CUST0676,Paige Wright,female,1,no,yes,65,month-to-month,no,electronic check,67.59,1000.5,no,yes,,yes,yes,yes,yes,no,no,
+CUST0677,Nicole Murphy,female,0,yes,yes,38,month-to-month,,bank transfer,67.59,1000.5,,,no,,no,yes,yes,,,yes
+CUST0678,Melissa Ramsey,male,1,yes,,72,one year,yes,credit card (automatic),67.59,1000.5,no,,,no,no,no,,no,yes,
+CUST0679,Katelyn Ruiz,male,1,,no,50,two year,no,electronic check,104.21,1000.5,no,yes,,yes,,no,yes,,yes,yes
+CUST0680,Misty Vazquez,,1,yes,,72,one year,no,credit card (automatic),114.53,1000.5,,no,dsl,yes,,yes,,no,,
+CUST0681,Lori Morales,,0,no,,66,month to month,no,,101.76,1000.5,no,yes,fiber optic,,yes,yes,yes,yes,,yes
+CUST0682,Amy Mitchell,female,1,no,,34,,no,mailed check,104.48,1000.5,,yes,none,no,,,,yes,,no
+CUST0683,Nicolas Oliver,male,0,no,yes,46,month-to-month,yes,bank transfer,23.44,2017.12,,no,dsl,yes,no,,yes,yes,,
+CUST0684,Lisa Padilla,female,0,yes,,16,one year,no,mailed check,67.59,1000.5,yes,no,dsl,no,,,no,yes,yes,yes
+CUST0685,Sheila Johnson MD,male,0,no,yes,55,month-to-month,no,,79.08,1000.5,yes,yes,no,no,yes,yes,no,,,no
+CUST0686,Cynthia Russell,female,1,no,no,48,one year,no,bank transfer,67.59,1000.5,yes,,none,,no,yes,,no,yes,
+CUST0687,Jill Keller,female,1,no,,58,one year,yes,credit card (automatic),68.35,1000.5,,no,,no,yes,no,no,no,,yes
+CUST0688,Paul Jones,male,1,yes,no,5,month to month,yes,mailed check,67.59,1000.5,,no,no,,,,,,,yes
+CUST0689,Edward Richardson,female,0,,,13,,,electronic check,67.59,1000.5,,yes,no,yes,,yes,yes,,,yes
+CUST0690,Lisa Mitchell,male,1,no,,68,month-to-month,yes,bank transfer,67.59,1000.5,no,yes,,no,yes,yes,,,,
+CUST0691,Tracy Mueller,male,1,yes,yes,10,month-to-month,no,mailed check,67.59,1000.5,no,no,dsl,yes,,no,yes,,,yes
+CUST0692,Sarah Fisher,male,0,no,,30,,,,51.45,1000.5,no,no,,no,no,no,no,,,
+CUST0693,Tracy Jones,male,1,no,,28,,yes,mailed check,67.59,1000.5,,,fiber optic,yes,no,,no,,,
+CUST0694,Aaron Schneider,female,0,no,yes,19,month-to-month,yes,mailed check,82.08,446.54,,yes,,yes,no,,,,,
+CUST0695,Mr. Andrew Hodge,,0,yes,,11,one year,yes,electronic check,67.59,562.56,,no,no,no,yes,no,no,yes,,no
+CUST0696,Laurie Rodriguez,male,0,no,no,29,,,,67.59,1000.5,,,none,,,,,,,no
+CUST0697,Troy Williams,female,1,,no,71,month to month,no,electronic check,67.59,1000.5,yes,,dsl,,yes,,,yes,,no
+CUST0698,James Bennett,female,0,yes,yes,51,month to month,yes,bank transfer,67.59,1000.5,yes,no,no,no,no,yes,no,,,no
+CUST0699,Brenda Burton,female,0,no,yes,27,one year,yes,,82.28,2534.22,,no,,no,yes,no,,,,yes
+CUST0700,Malik Lopez,,1,no,no,18,two year,yes,,67.59,1000.5,,no,fiber optic,,yes,yes,yes,no,no,yes
+CUST0701,Randy Gonzalez,female,1,no,no,38,month to month,yes,electronic check,102.06,1000.5,yes,yes,no,,no,,yes,,,
+CUST0702,Christine Edwards,,1,,,34,two year,yes,credit card (automatic),67.59,1000.5,no,,,no,yes,,,no,,
+CUST0703,Anthony Johnson,male,0,no,,65,month-to-month,,electronic check,67.59,4765.72,yes,yes,fiber optic,,no,,no,no,,yes
+CUST0704,Keith Gonzales,,0,no,yes,71,,,bank transfer,67.59,1000.5,yes,no,dsl,yes,no,yes,yes,yes,yes,yes
+CUST0705,Christopher Hernandez,male,0,yes,,66,two year,yes,electronic check,67.59,1000.5,,no,no,,no,yes,no,yes,yes,yes
+CUST0706,Patrick Campos,male,0,no,,55,one year,no,bank transfer,67.59,1000.5,,,dsl,,yes,,yes,yes,,no
+CUST0707,Christopher Herrera,male,0,no,,48,one year,no,credit card (automatic),106.28,4799.81,no,yes,none,no,no,,yes,,yes,
+CUST0708,Jesse Duffy,female,0,yes,,29,,no,bank transfer,67.59,1000.5,yes,no,none,yes,,yes,no,,no,yes
+CUST0709,Yvonne Lozano,,1,no,no,4,two year,no,electronic check,27.18,463.07,yes,no,dsl,,,,no,yes,no,
+CUST0710,John Lewis,male,0,no,no,17,two year,no,bank transfer,67.59,1000.5,no,no,,no,yes,yes,,no,no,no
+CUST0711,Anthony Yang,male,0,yes,no,51,month-to-month,yes,mailed check,67.59,1000.5,yes,yes,,no,no,yes,no,,yes,
+CUST0712,Charles Trevino,male,1,no,,68,month to month,no,mailed check,67.59,4885.88,,yes,none,no,yes,yes,no,,no,yes
+CUST0713,David Robinson,,1,yes,,63,two year,,mailed check,67.59,1000.5,,no,no,yes,,no,no,,,
+CUST0714,Bryan Martinez,,1,yes,,60,month to month,yes,electronic check,87.24,6798.05,yes,,none,no,no,,yes,yes,yes,yes
+CUST0715,Matthew Spence,male,0,no,yes,70,month to month,no,bank transfer,21.59,1000.5,,no,none,no,,yes,yes,,,yes
+CUST0716,Albert Martinez,male,1,yes,yes,19,two year,,,67.59,1000.5,,,none,,yes,yes,,,,no
+CUST0717,Courtney Olson,male,0,yes,yes,30,one year,no,bank transfer,67.59,1000.5,,,none,,no,,,no,yes,no
+CUST0718,Penny Cortez,female,1,yes,no,56,two year,yes,electronic check,67.59,1000.5,yes,,,yes,,no,yes,,,no
+CUST0719,Kristin Lee,male,0,no,yes,38,month-to-month,,,67.59,1000.5,no,,dsl,,,no,no,no,,yes
+CUST0720,Christina White,female,0,no,,69,month-to-month,yes,mailed check,67.59,1000.5,,no,,,yes,no,no,,yes,no
+CUST0721,Kevin Ward,male,0,,,3,one year,yes,mailed check,108.37,259.34,yes,no,fiber optic,yes,yes,no,yes,yes,,yes
+CUST0722,Kevin Stewart,male,1,,yes,44,month-to-month,no,bank transfer,67.59,1000.5,no,no,no,yes,,no,no,,no,
+CUST0723,Jesse Wilson,male,0,no,,61,month to month,,electronic check,67.59,1000.5,yes,no,fiber optic,yes,no,yes,no,,no,
+CUST0724,Jacqueline Heath,female,1,no,no,51,,no,electronic check,67.59,1000.5,yes,no,no,,no,yes,yes,,,
+CUST0725,Mark Adams,female,0,,yes,27,one year,yes,mailed check,67.59,1000.5,no,no,fiber optic,yes,no,yes,,yes,no,no
+CUST0726,Elizabeth Harrison,female,0,yes,yes,33,,no,electronic check,67.59,1000.5,no,,dsl,no,no,yes,yes,yes,,
+CUST0727,Ashley Vargas,male,1,no,,10,month to month,yes,mailed check,67.59,1000.5,no,yes,fiber optic,,,yes,,,yes,no
+CUST0728,Steven Smith,,0,yes,,25,,no,mailed check,67.59,1000.5,,yes,,yes,no,no,no,,yes,no
+CUST0729,Randall West,,0,,yes,68,month to month,no,,91.74,1000.5,no,yes,no,yes,,,yes,,,
+CUST0730,Caroline Hernandez,male,0,,,51,one year,no,,67.59,1000.5,,no,none,no,no,no,yes,yes,,
+CUST0731,Rebecca Nelson,,0,no,,9,two year,yes,bank transfer,76.36,1000.5,,no,fiber optic,,yes,,,yes,yes,
+CUST0732,Thomas Newman,,0,,yes,51,one year,yes,,67.59,1000.5,,,dsl,yes,,no,yes,,yes,no
+CUST0733,Brenda Hill,male,0,,yes,50,two year,no,mailed check,67.59,2691.31,,no,,no,no,no,no,,,no
+CUST0734,Eric Sanders,female,1,yes,,45,one year,no,,67.59,1000.5,yes,no,dsl,yes,yes,,no,yes,no,no
+CUST0735,Gregory Wilson,,1,,,50,,yes,mailed check,67.59,5996.67,yes,yes,none,yes,,no,yes,no,,yes
+CUST0736,Ann Melton,female,1,yes,no,50,two year,yes,electronic check,67.59,1000.5,no,no,dsl,yes,,yes,no,no,,no
+CUST0737,Frank Evans,female,1,no,,34,month to month,no,,81.78,1000.5,yes,no,fiber optic,yes,no,,,no,,no
+CUST0738,Donald Roberts,male,0,no,,29,one year,no,electronic check,67.59,1000.5,,no,dsl,no,yes,no,,no,,no
+CUST0739,Wendy Lee,female,0,yes,no,10,,yes,bank transfer,55.19,1000.5,,no,none,,,no,no,no,no,no
+CUST0740,Laura Patterson,female,0,yes,yes,57,month-to-month,yes,bank transfer,86.49,1000.5,,no,dsl,yes,,no,no,,yes,yes
+CUST0741,Joseph Harris,,1,,yes,68,month-to-month,no,electronic check,67.59,7673.3,no,no,,yes,yes,yes,yes,,,no
+CUST0742,Rebecca Lyons,male,1,yes,yes,9,,yes,credit card (automatic),44.52,1000.5,yes,,,,yes,yes,yes,,,yes
+CUST0743,Dr. Louis Osborne,,0,no,yes,30,month-to-month,yes,credit card (automatic),67.59,1000.5,yes,no,none,,no,,,,yes,no
+CUST0744,Calvin Hernandez,female,1,yes,yes,12,month-to-month,no,bank transfer,28.77,1249.67,yes,no,,no,no,,yes,no,yes,no
+CUST0745,Henry Hamilton,male,1,yes,yes,69,,yes,credit card (automatic),67.59,1000.5,yes,yes,dsl,,,yes,,yes,yes,no
+CUST0746,Sydney Ramos,male,1,yes,yes,18,two year,no,mailed check,67.59,1000.5,no,no,,yes,no,no,no,no,,
+CUST0747,Steven Armstrong,male,1,yes,,58,two year,no,,64.14,1000.5,,,no,no,yes,yes,no,,yes,no
+CUST0748,Desiree Pitts,male,1,no,yes,22,month-to-month,yes,bank transfer,19.36,1000.5,,yes,no,,,,no,yes,no,
+CUST0749,Gregory Barr,male,0,yes,yes,28,,no,credit card (automatic),67.59,1000.5,,no,fiber optic,yes,yes,no,no,yes,no,yes
+CUST0750,Jennifer Massey,male,0,yes,,46,,yes,electronic check,67.59,5189.97,,no,no,,yes,no,,,,no
+CUST0751,Mark Adams,female,1,no,,71,one year,yes,bank transfer,67.59,1000.5,no,yes,no,yes,yes,yes,yes,,yes,
+CUST0752,Mary Martin,female,1,yes,yes,31,one year,,credit card (automatic),67.59,1989.23,yes,no,none,,yes,no,no,yes,no,yes
+CUST0753,Courtney Frederick,male,0,yes,yes,28,,yes,,67.59,1000.5,no,no,none,no,yes,no,,no,,
+CUST0754,Tyler Smith,male,0,yes,no,4,,yes,bank transfer,67.59,1000.5,no,no,none,yes,,no,,,no,no
+CUST0755,Chad Young,male,1,yes,,57,,,credit card (automatic),67.59,1000.5,no,no,dsl,yes,no,no,,no,no,no
+CUST0756,Jodi Jefferson,female,0,no,yes,62,month-to-month,yes,mailed check,67.59,1000.5,yes,no,no,no,,no,no,,,
+CUST0757,Timothy Clements,,1,yes,,34,two year,yes,,67.59,1000.5,no,,dsl,yes,no,yes,no,yes,,yes
+CUST0758,Janice Clark,,0,,,58,month to month,,mailed check,63.66,1000.5,no,yes,no,,,,yes,no,,yes
+CUST0759,Christina Hill,female,1,,,45,one year,,bank transfer,67.59,1000.5,no,,fiber optic,yes,no,yes,yes,no,yes,no
+CUST0760,Crystal Perez,male,0,no,,25,one year,,,39.87,1000.5,yes,no,,,yes,yes,no,no,,
+CUST0761,Sandra Mendoza,female,1,no,,55,month-to-month,,credit card (automatic),67.59,1000.5,no,,none,yes,,yes,yes,yes,no,yes
+CUST0762,Joe Walsh,female,1,,,26,two year,yes,mailed check,67.59,1000.5,yes,yes,none,,yes,yes,,no,yes,no
+CUST0763,Katie Williams,male,1,yes,,56,one year,yes,credit card (automatic),67.59,1000.5,yes,,no,,no,yes,no,,no,
+CUST0764,Stephanie Nichols,male,1,,,46,month to month,yes,electronic check,67.59,4411.09,,,,,,,,yes,,
+CUST0765,Mary Guerra,,0,no,yes,69,two year,yes,,67.59,1000.5,no,no,fiber optic,yes,no,yes,yes,no,,yes
+CUST0766,Holly Taylor,,0,no,,30,,no,mailed check,68.74,1000.5,no,no,none,yes,yes,,no,,yes,yes
+CUST0767,Linda Mcintyre,male,0,,no,64,one year,yes,bank transfer,67.59,1000.5,,no,none,,no,no,,yes,,yes
+CUST0768,Jeffery Rodriguez,male,1,no,,32,one year,,mailed check,52.44,2661.75,,,none,no,yes,yes,yes,,,no
+CUST0769,Tiffany Davis,female,0,no,,46,one year,no,credit card (automatic),67.59,1000.5,yes,yes,,yes,no,,,,yes,no
+CUST0770,Marcus Robinson,,0,,no,3,two year,yes,mailed check,56.72,1000.5,,no,dsl,,yes,no,yes,,,yes
+CUST0771,Hunter Harris,male,1,yes,,29,month-to-month,,bank transfer,67.59,1000.5,yes,no,fiber optic,no,,no,no,yes,yes,yes
+CUST0772,Austin Francis,female,1,,,57,,yes,mailed check,24.13,1000.5,no,yes,fiber optic,no,no,,yes,no,,no
+CUST0773,Carol Long DDS,male,0,yes,no,47,month to month,no,electronic check,67.59,1000.5,yes,yes,dsl,,no,,no,,,no
+CUST0774,Vanessa Fitzgerald,male,1,,,8,month-to-month,no,bank transfer,68.91,1000.5,no,yes,,,,no,no,yes,yes,no
+CUST0775,Gene Velasquez,male,0,yes,no,65,two year,no,credit card (automatic),67.59,1000.5,no,no,dsl,yes,yes,,yes,yes,yes,no
+CUST0776,Timothy Brown,female,1,no,,48,month-to-month,no,electronic check,71.45,1000.5,,no,fiber optic,,yes,no,,yes,no,no
+CUST0777,Hector Wallace,male,1,yes,no,1,two year,,credit card (automatic),67.59,1000.5,,no,no,yes,,,,yes,,
+CUST0778,Katrina Hart,,0,no,yes,65,month to month,,bank transfer,35.96,3000.85,yes,,,,no,,yes,,,yes
+CUST0779,Casey Ruiz,male,1,no,yes,4,month to month,yes,,67.59,1000.5,no,,,,no,yes,yes,,yes,yes
+CUST0780,Brian Gonzalez,male,0,yes,yes,62,two year,,bank transfer,67.59,1000.5,no,yes,dsl,no,yes,,yes,no,no,
+CUST0781,Christopher Powers,female,1,no,yes,48,month to month,no,electronic check,67.59,1000.5,,yes,no,,yes,no,,,no,
+CUST0782,John Drake II,,1,no,,65,two year,yes,,67.59,1000.5,,yes,none,yes,no,no,yes,,yes,
+CUST0783,Thomas Hernandez,female,0,yes,yes,41,month to month,no,,67.59,1824.14,no,no,fiber optic,,no,no,yes,,yes,no
+CUST0784,Marissa Hogan,female,0,no,yes,47,month to month,,,67.59,1000.5,no,yes,fiber optic,,yes,no,,yes,,yes
+CUST0785,Natalie Norman,,1,yes,yes,3,month-to-month,no,bank transfer,87.67,302.14,,no,no,yes,no,no,yes,,no,
+CUST0786,Deborah Harris,male,1,yes,yes,36,two year,no,,18.33,1000.5,,,no,yes,yes,,no,yes,no,yes
+CUST0787,Shawn Walsh,female,1,yes,no,61,one year,,electronic check,67.59,1000.5,yes,no,no,yes,no,yes,,no,,yes
+CUST0788,Madison Richards,male,1,no,,72,two year,no,,29.12,1000.5,,,dsl,,yes,yes,,,yes,
+CUST0789,Megan Frazier,female,0,,no,23,two year,yes,bank transfer,67.59,1000.5,no,no,fiber optic,,no,no,,no,yes,
+CUST0790,Stacey Brown,female,1,no,yes,26,one year,yes,,67.59,1000.5,yes,no,,no,no,yes,yes,,no,
+CUST0791,Michael Harris,,0,no,yes,56,month to month,yes,mailed check,67.59,1000.5,yes,no,dsl,no,yes,no,,no,,yes
+CUST0792,Carla Miller,female,0,,,26,month-to-month,yes,credit card (automatic),28.42,1000.5,no,,fiber optic,,no,no,no,,,
+CUST0793,Ashley Collins,male,1,yes,,64,month to month,yes,credit card (automatic),21.3,1000.5,no,,dsl,,yes,,yes,no,yes,yes
+CUST0794,Andrew May,,1,yes,no,17,,yes,mailed check,72.37,1000.5,yes,no,no,no,yes,,yes,,yes,
+CUST0795,Mr. John Brown,male,1,,yes,11,two year,no,bank transfer,67.59,1000.5,yes,,fiber optic,,no,no,,,no,no
+CUST0796,Mckenzie Rodriguez,female,1,,no,27,one year,no,electronic check,67.59,1000.5,yes,yes,fiber optic,no,,no,yes,no,no,
+CUST0797,Corey Roberts,female,0,yes,,35,,no,mailed check,116.83,1000.5,no,,,yes,no,no,no,,,no
+CUST0798,Kelly Gaines,male,0,yes,no,46,month to month,yes,electronic check,67.59,1000.5,,yes,no,no,no,no,yes,no,no,
+CUST0799,Samuel Coleman,male,0,,yes,20,one year,yes,electronic check,67.59,442.61,,no,no,,no,no,yes,,no,no
+CUST0800,Lauren Lynch,female,0,no,yes,55,,no,credit card (automatic),67.59,1000.5,yes,no,none,no,no,yes,yes,,yes,
+CUST0801,Richard Pope,female,0,yes,yes,59,month to month,yes,electronic check,67.59,1000.5,,yes,no,no,yes,,,no,yes,yes
+CUST0802,Sara Bass,male,1,no,no,13,,yes,mailed check,72.77,1000.5,no,no,dsl,no,,yes,no,no,,
+CUST0803,April Steele,female,1,,,23,one year,no,mailed check,64.75,1537.11,,no,dsl,yes,yes,,,,,
+CUST0804,Shannon Boyle,,0,,,11,,no,bank transfer,101.14,1226.93,no,no,,,yes,yes,,,no,yes
+CUST0805,Albert Martinez,,1,no,,1,month-to-month,yes,,67.59,78.59,no,no,fiber optic,no,,yes,,yes,,
+CUST0806,Curtis Munoz,,1,,yes,72,one year,yes,mailed check,67.59,6942.91,,no,no,,no,no,yes,yes,no,no
+CUST0807,Jack Young,male,0,no,no,35,,,mailed check,67.59,1000.5,no,no,dsl,yes,,yes,no,yes,,
+CUST0808,Lance Wiley,,0,yes,,37,one year,no,mailed check,100.02,1000.5,,no,none,,yes,,,,yes,yes
+CUST0809,Gary Reeves,male,0,yes,,37,one year,,bank transfer,82.43,3907.64,,,fiber optic,yes,yes,yes,,,yes,no
+CUST0810,Natasha Madden MD,,1,yes,yes,37,month to month,no,,67.59,1000.5,no,no,none,,yes,,,no,no,no
+CUST0811,Tina Garcia,female,1,yes,,20,two year,yes,bank transfer,67.59,1000.5,yes,no,dsl,yes,,,no,,,yes
+CUST0812,Monica Fisher,,0,no,no,58,two year,no,electronic check,67.59,1000.5,,yes,none,,yes,,,,,yes
+CUST0813,Natasha Thompson,male,1,yes,,31,,yes,mailed check,67.59,1000.5,yes,,fiber optic,no,yes,yes,,no,no,no
+CUST0814,Chelsea Mills,male,0,no,,51,month-to-month,,mailed check,67.59,2306.65,,no,no,,,,no,,,
+CUST0815,Aaron Bishop,female,1,no,,48,one year,yes,,43.95,3664.23,,no,fiber optic,no,yes,yes,yes,yes,no,
+CUST0816,Dillon Duncan II,,1,yes,,27,,,mailed check,70.48,1000.5,yes,,dsl,yes,,no,no,no,yes,
+CUST0817,Anthony Gonzalez,male,0,no,,66,month-to-month,yes,bank transfer,50.13,1000.5,no,no,none,yes,,,,no,,yes
+CUST0818,Gregory Evans,female,1,yes,,39,,yes,mailed check,68.07,1000.5,no,no,fiber optic,,no,yes,,yes,,yes
+CUST0819,Edward Miles,,1,no,yes,38,one year,no,electronic check,67.59,1000.5,no,no,fiber optic,no,yes,,,,yes,yes
+CUST0820,Marissa Hill,,0,,no,45,two year,yes,mailed check,118.12,1125.18,no,no,fiber optic,yes,,yes,,no,no,no
+CUST0821,Elizabeth Farley,female,1,yes,no,32,two year,no,credit card (automatic),67.59,2044.87,no,no,dsl,yes,,yes,yes,,,no
+CUST0822,George Hernandez,male,1,no,no,29,month-to-month,yes,mailed check,64.46,1135.1,no,no,,yes,,yes,no,,no,no
+CUST0823,William Andrews,,1,no,,24,,yes,mailed check,67.59,1243.1,no,no,none,,no,yes,no,yes,yes,yes
+CUST0824,Sandra Gamble,female,0,,yes,15,month to month,no,,67.59,1000.5,,yes,fiber optic,yes,,,yes,yes,,
+CUST0825,Amber Roberts MD,male,0,no,yes,69,,yes,mailed check,67.59,1000.5,no,no,no,no,yes,,no,no,,yes
+CUST0826,Melanie Rodriguez,,0,no,yes,48,one year,no,mailed check,106.49,1000.5,,no,dsl,no,no,yes,,no,,
+CUST0827,Joshua Spears,female,0,yes,,13,,yes,electronic check,67.59,1000.5,no,,dsl,yes,no,no,no,yes,,yes
+CUST0828,Barbara Solis,male,0,yes,no,57,one year,no,mailed check,67.59,3436.02,no,,no,yes,no,no,yes,yes,no,no
+CUST0829,Laura Thompson,female,0,yes,yes,38,month-to-month,yes,mailed check,41.8,1000.5,yes,,,no,,no,yes,,,no
+CUST0830,Lisa Spencer,male,1,yes,no,19,two year,yes,electronic check,48.49,1000.5,no,no,,,no,yes,yes,,,no
+CUST0831,Jessica Jackson,female,1,,,35,,yes,mailed check,67.59,1000.5,no,no,fiber optic,yes,yes,,,,,
+CUST0832,Timothy Hurst,female,0,yes,no,3,,,electronic check,67.59,1000.5,yes,,,yes,,,yes,yes,yes,yes
+CUST0833,Meghan Anderson,male,0,no,,65,,no,credit card (automatic),67.59,1000.5,no,no,,no,yes,no,,no,yes,yes
+CUST0834,Jonathan Fernandez,female,0,yes,,22,,,mailed check,89.09,1000.5,,no,no,,,,,yes,,no
+CUST0835,Amanda Nichols,female,1,yes,yes,2,two year,no,credit card (automatic),92.68,220.51,,no,no,yes,,no,,yes,,no
+CUST0836,Stephen Johnson,,0,,yes,42,two year,no,electronic check,67.59,1000.5,yes,,fiber optic,yes,no,no,yes,no,,
+CUST0837,Kristi Mcmillan,male,0,yes,,31,month-to-month,,electronic check,67.59,1000.5,yes,no,fiber optic,,no,yes,,no,no,
+CUST0838,Ronald Newton,male,0,yes,,51,one year,no,electronic check,67.59,1000.5,yes,,no,no,yes,yes,no,yes,,yes
+CUST0839,Chloe Bruce,female,1,,no,5,two year,no,electronic check,32.6,1000.5,yes,,,,,no,no,,,no
+CUST0840,Stephanie Ward,male,0,yes,,34,month-to-month,,bank transfer,59.11,1000.5,yes,,fiber optic,no,yes,no,,,,
+CUST0841,Joanna Strickland,female,1,,no,61,,yes,,63.82,4547.03,yes,no,,no,no,yes,,,,no
+CUST0842,Dr. Katherine Matthews,male,0,no,,8,two year,no,,24.79,275.5,yes,,,,no,,,no,yes,
+CUST0843,Robert Martinez,female,1,,no,44,month to month,no,electronic check,67.59,1000.5,yes,,none,,,no,yes,,,
+CUST0844,Jenny Valdez,,0,yes,yes,29,one year,yes,mailed check,67.59,1000.5,yes,no,none,no,yes,yes,,no,no,
+CUST0845,William Hicks,male,0,no,yes,1,month to month,,,90.77,113.35,no,no,,no,yes,,yes,no,,
+CUST0846,Steven Hampton,female,0,no,yes,0,month-to-month,yes,bank transfer,70.98,1000.5,yes,,,,,no,,yes,,
+CUST0847,Marcia Garcia,female,1,yes,,67,month to month,yes,mailed check,33.06,1000.5,,,,no,,yes,,yes,,yes
+CUST0848,Stephen Pham,male,1,,no,30,month-to-month,yes,credit card (automatic),67.59,1000.5,yes,no,,yes,,yes,yes,yes,,no
+CUST0849,Anita Johnson,male,1,yes,no,49,month to month,yes,mailed check,67.59,4934.98,no,,no,yes,no,no,no,no,,yes
+CUST0850,Nicole Collins,female,1,,yes,26,month to month,yes,electronic check,67.59,3118.4,,,dsl,,yes,no,yes,no,,no
+CUST0851,Holly Palmer,,0,no,,62,two year,no,mailed check,67.59,1000.5,no,no,none,no,yes,no,,no,yes,yes
+CUST0852,Willie Campbell,female,1,no,no,31,,yes,credit card (automatic),67.59,1000.5,yes,,no,,,no,no,,yes,
+CUST0853,Michele Lee,male,0,yes,no,72,one year,yes,,67.59,1000.5,yes,no,fiber optic,no,yes,,,,no,
+CUST0854,Chad Ramirez,male,0,no,no,64,one year,no,,67.59,1000.5,no,no,no,,yes,yes,no,,,
+CUST0855,Jessica Anderson,,0,no,,51,month-to-month,yes,bank transfer,25.89,1000.5,,no,none,yes,no,yes,yes,yes,,yes
+CUST0856,Curtis Newman,female,1,no,no,8,,yes,electronic check,92.09,1000.5,,no,no,no,yes,yes,no,yes,,no
+CUST0857,Melissa Williams,male,0,,,48,two year,no,mailed check,51.94,1000.5,yes,,dsl,yes,,no,,,,yes
+CUST0858,Hannah Torres,,0,yes,no,34,month to month,yes,credit card (automatic),38.53,3238.57,,,dsl,yes,yes,no,no,no,no,no
+CUST0859,Keith Price,,1,,no,32,,no,bank transfer,67.59,1000.5,,no,fiber optic,,no,yes,no,no,,no
+CUST0860,Anthony Wright,female,0,yes,,24,two year,yes,mailed check,25.01,1000.5,yes,no,none,no,no,yes,yes,,yes,no
+CUST0861,Kevin Lee,male,1,no,,38,,yes,electronic check,67.59,1999.6,yes,no,none,no,yes,,yes,no,,no
+CUST0862,Bryan Sexton,,0,no,,60,one year,yes,bank transfer,67.59,6307.18,,no,fiber optic,yes,yes,no,no,yes,no,
+CUST0863,Ashley Smith,male,0,no,,54,one year,,,67.59,1000.5,,no,fiber optic,no,no,no,,no,,yes
+CUST0864,Andre Downs,male,0,no,yes,14,month-to-month,,mailed check,67.59,1102.21,no,yes,fiber optic,,no,no,,,yes,yes
+CUST0865,Jon Bolton,female,1,no,yes,0,month to month,yes,mailed check,67.59,1000.5,yes,,dsl,,yes,no,no,,yes,no
+CUST0866,Christina Marshall,,1,no,no,67,month to month,no,electronic check,107.3,1000.5,,yes,,no,no,yes,,yes,,no
+CUST0867,Jesse Jones,female,1,,no,53,,yes,mailed check,67.59,1000.5,no,no,fiber optic,no,yes,yes,no,no,,no
+CUST0868,James Taylor,female,1,,,68,two year,,mailed check,67.59,1000.5,,no,no,no,no,yes,yes,,,no
+CUST0869,Kelsey Jackson,male,0,no,,9,month-to-month,yes,,67.59,1000.5,,no,dsl,yes,yes,,yes,no,,no
+CUST0870,Dennis Stevens,female,1,no,yes,33,month-to-month,no,mailed check,67.59,1000.5,,no,none,,yes,yes,,no,,yes
+CUST0871,Donna Fisher,female,1,no,yes,62,two year,yes,credit card (automatic),67.59,1000.5,no,no,no,yes,,no,yes,no,yes,yes
+CUST0872,Michael Potter,female,0,yes,,47,month-to-month,no,mailed check,62.88,3665.09,yes,yes,,,,yes,,,,no
+CUST0873,Matthew Le,female,0,no,no,16,,yes,,118.67,1000.5,,yes,fiber optic,no,no,,yes,,no,no
+CUST0874,Emily Cummings,female,1,yes,,7,two year,yes,electronic check,38.53,1000.5,,no,none,yes,,yes,no,yes,yes,
+CUST0875,Kara Liu,male,0,no,,25,,yes,credit card (automatic),67.59,2099.82,,yes,,no,yes,yes,yes,yes,yes,no
+CUST0876,Mrs. Laura Dunn DDS,,0,yes,,31,month-to-month,,,67.59,1000.5,no,no,none,yes,no,yes,,,,
+CUST0877,Rachel Thomas,male,0,yes,yes,56,,yes,electronic check,67.59,1000.5,no,yes,fiber optic,no,yes,yes,yes,,no,no
+CUST0878,Adam Daniels,male,1,yes,yes,25,one year,yes,,34.62,1000.5,no,no,,no,,no,no,,yes,no
+CUST0879,Lindsey Allen,female,1,yes,no,57,month-to-month,no,bank transfer,67.59,1000.5,no,,no,no,no,no,yes,yes,yes,yes
+CUST0880,Charles Gaines,,0,yes,,50,month to month,yes,bank transfer,67.59,1000.5,yes,yes,fiber optic,no,yes,,no,,,no
+CUST0881,Natasha Figueroa,male,0,no,yes,68,one year,no,,23.88,1000.5,,,dsl,yes,,,no,yes,,yes
+CUST0882,Austin Trevino,male,1,no,,41,month to month,,mailed check,67.59,1242.66,yes,yes,dsl,,yes,yes,no,,no,yes
+CUST0883,Anthony Chandler,male,0,no,,53,two year,no,electronic check,67.59,1000.5,no,no,no,yes,yes,yes,yes,,,
+CUST0884,Beth Green,,1,no,no,36,,,,67.59,1000.5,no,no,dsl,yes,,no,yes,,,
+CUST0885,Todd Sanchez,female,1,,,46,two year,no,,67.59,1000.5,,no,dsl,yes,yes,yes,yes,,,
+CUST0886,Michael Garcia,female,1,yes,yes,14,two year,no,electronic check,67.59,1000.5,,no,none,no,no,no,no,no,,yes
+CUST0887,Elijah Griffith,female,1,no,,60,month-to-month,no,credit card (automatic),55.03,1000.5,no,,no,no,yes,,yes,yes,,
+CUST0888,Steven Carpenter,male,0,no,,21,month to month,,electronic check,67.59,1000.5,,no,dsl,,,yes,yes,,,no
+CUST0889,Emily Lawrence,female,0,yes,,39,,yes,electronic check,92.08,1000.5,yes,,dsl,yes,yes,,yes,no,,no
+CUST0890,Nicholas Navarro,male,0,yes,,46,,,mailed check,67.59,1000.5,yes,no,dsl,,no,yes,no,,yes,
+CUST0891,Susan Mack,female,0,,yes,2,one year,no,,67.59,1000.5,,,none,no,no,,,yes,yes,no
+CUST0892,Stephanie Johnson,female,0,no,,21,two year,yes,electronic check,42.16,1000.5,yes,yes,no,no,yes,no,yes,,,yes
+CUST0893,Ryan Ball,,0,yes,no,68,two year,no,,106.79,4047.74,no,no,dsl,yes,,yes,yes,yes,yes,yes
+CUST0894,Kara Baker,male,1,yes,,28,month to month,,credit card (automatic),67.59,1000.5,,yes,fiber optic,yes,no,no,,no,,
+CUST0895,Caitlyn Morton,female,0,,no,33,two year,yes,mailed check,38.11,1000.5,yes,yes,none,no,yes,yes,no,,,
+CUST0896,Brandon Owen,female,0,yes,,39,month to month,,,67.59,1000.5,,yes,none,no,yes,,,yes,yes,no
+CUST0897,Carl Le,,0,,,69,one year,,bank transfer,67.59,7123.11,,,,no,no,,no,yes,,no
+CUST0898,Elizabeth Harrington,female,0,no,,68,,no,mailed check,67.59,5943.86,no,no,dsl,no,yes,,yes,yes,,
+CUST0899,Xavier Allen,,1,,yes,47,two year,yes,,58.99,1000.5,yes,yes,fiber optic,no,yes,no,,no,yes,yes
+CUST0900,Maurice Larson,male,0,no,,42,month to month,,mailed check,67.59,2723.23,,yes,,no,yes,no,,yes,,no
+CUST0901,Alexis Miller,,1,,yes,61,month to month,no,credit card (automatic),87.78,1000.5,no,yes,no,yes,no,,no,yes,no,yes
+CUST0902,Nathan Cardenas,female,1,no,no,63,month to month,yes,electronic check,67.59,1000.5,,no,dsl,no,yes,yes,yes,yes,,
+CUST0903,Alyssa Gomez,female,1,no,yes,66,month to month,no,credit card (automatic),67.59,2617.93,no,no,none,no,no,no,yes,no,,no
+CUST0904,Joshua Gomez,female,0,,,43,,,credit card (automatic),67.59,1000.5,yes,no,fiber optic,yes,yes,yes,no,,yes,yes
+CUST0905,Katrina Bradley,female,0,no,yes,48,,yes,bank transfer,67.59,1000.5,yes,no,dsl,yes,,no,no,,no,yes
+CUST0906,Bryan Davis,female,0,no,,58,month-to-month,no,,99.94,1000.5,yes,no,dsl,,no,,yes,,,no
+CUST0907,Joanne Robertson,,0,,,57,,yes,bank transfer,21.7,1000.5,,yes,dsl,,,yes,yes,yes,,no
+CUST0908,David Wilson,female,0,,,47,two year,yes,,67.59,1000.5,no,yes,fiber optic,,no,,no,,no,yes
+CUST0909,James Holder,female,1,no,yes,27,,no,credit card (automatic),67.59,2308.0,,yes,no,yes,no,,yes,no,,yes
+CUST0910,Steven Smith,female,1,yes,,28,month to month,no,mailed check,43.65,1000.5,no,yes,dsl,yes,yes,no,no,no,no,no
+CUST0911,Phillip Williamson,female,0,,,2,month to month,yes,mailed check,67.59,1000.5,no,,none,yes,,no,,,yes,
+CUST0912,Melissa Salazar,male,0,no,yes,60,,no,bank transfer,67.59,1239.0,no,no,,,,,no,,,
+CUST0913,Adrian Wang,female,0,yes,no,69,one year,yes,bank transfer,70.85,1000.5,no,yes,dsl,,yes,yes,yes,,no,
+CUST0914,Marie Castro,female,1,,,53,,no,bank transfer,67.59,1000.5,no,yes,no,,yes,,no,no,,no
+CUST0915,Robert Salas,male,0,yes,,70,one year,yes,electronic check,67.59,1000.5,,no,no,yes,,,yes,,,
+CUST0916,Christine Hansen,,0,yes,yes,50,month to month,no,,67.59,1000.5,yes,no,none,,yes,,no,no,yes,
+CUST0917,Tara Marshall,,0,yes,no,55,month to month,no,,67.59,1000.5,,no,,no,no,no,,yes,no,yes
+CUST0918,Jessica Beck,female,1,yes,,24,two year,no,electronic check,67.59,1000.5,yes,yes,,no,yes,,yes,,yes,no
+CUST0919,Vanessa Pham,female,1,,no,19,two year,,electronic check,67.59,1000.5,no,no,none,,yes,no,,,,no
+CUST0920,Mr. John Stone,female,0,,no,62,month-to-month,yes,bank transfer,67.59,5860.17,no,,fiber optic,no,no,no,,,,
+CUST0921,Justin Flores,female,1,no,,44,month-to-month,yes,mailed check,111.0,1000.5,yes,,no,,no,no,no,no,,yes
+CUST0922,Rebecca Padilla,male,0,no,,71,month-to-month,no,,67.59,1000.5,,yes,fiber optic,yes,yes,no,yes,yes,no,yes
+CUST0923,Ryan Jones,female,0,no,,1,one year,no,electronic check,67.59,1000.5,no,yes,no,no,no,yes,no,,no,
+CUST0924,Omar Stevens,female,1,yes,yes,40,one year,no,mailed check,67.59,1000.5,,no,none,no,,,yes,,no,no
+CUST0925,Patrick Fisher,male,1,no,,59,month to month,yes,credit card (automatic),68.57,6684.52,,yes,no,,,,no,no,,
+CUST0926,Patricia Tapia,male,0,no,yes,31,month to month,yes,,67.59,3398.99,no,no,fiber optic,yes,yes,,yes,,yes,no
+CUST0927,Katie Dennis,male,1,,,26,month to month,,,112.02,1000.5,,no,no,yes,no,no,yes,yes,no,
+CUST0928,Karen Olson,female,0,yes,yes,46,two year,yes,credit card (automatic),115.92,1000.5,no,no,,yes,yes,no,,no,,no
+CUST0929,Betty Cervantes,female,1,yes,no,15,two year,yes,bank transfer,62.57,1000.5,,no,fiber optic,yes,yes,,no,,no,yes
+CUST0930,Bradley Shepard,male,1,,yes,0,,yes,mailed check,67.59,1000.5,yes,,none,yes,yes,yes,,,,no
+CUST0931,Robert Johnson,female,1,yes,,72,,no,,67.59,5310.3,,yes,none,yes,,,no,,,no
+CUST0932,Robert Sanchez,female,1,yes,,71,month to month,no,,67.59,1000.5,yes,,dsl,,,yes,yes,,,yes
+CUST0933,Maureen Cox,male,0,yes,yes,48,month to month,no,,67.59,1000.5,,,no,yes,yes,,yes,,,no
+CUST0934,Jonathan Gonzalez,male,0,yes,no,34,month to month,no,mailed check,67.59,2104.43,,yes,none,,yes,yes,,,yes,yes
+CUST0935,Scott Gray,male,0,no,no,44,,,bank transfer,67.59,1000.5,yes,yes,no,,no,no,,no,yes,no
+CUST0936,Dominique Bates,female,1,,no,49,month-to-month,yes,credit card (automatic),67.59,1000.5,no,no,none,,no,,,,no,
+CUST0937,Donald Taylor,,1,no,yes,33,one year,no,bank transfer,104.79,1000.5,yes,yes,fiber optic,,yes,yes,yes,no,,no
+CUST0938,Courtney Wells,male,1,no,,66,one year,no,bank transfer,67.59,4771.56,yes,,fiber optic,no,yes,,yes,,no,yes
+CUST0939,Cristian Colon,male,1,no,,29,one year,yes,,67.59,1000.5,yes,no,no,,,yes,no,,,yes
+CUST0940,Jonathan Gomez,male,1,,,65,month to month,,,67.59,1000.5,yes,yes,none,yes,yes,no,,yes,no,no
+CUST0941,James Fox,female,0,no,,30,,no,electronic check,67.59,1000.5,no,no,none,no,no,no,yes,yes,,no
+CUST0942,Melinda Briggs,male,0,yes,no,64,,yes,credit card (automatic),67.59,1000.5,,,fiber optic,no,no,yes,yes,no,,no
+CUST0943,Catherine Norris,male,0,yes,yes,13,one year,no,,67.59,942.63,no,yes,dsl,,,,yes,,,yes
+CUST0944,Brian Villanueva,,1,,,40,,no,mailed check,67.59,3698.18,no,no,none,yes,,no,no,yes,no,
+CUST0945,Edward Hogan,female,0,yes,,69,month to month,no,,75.96,1000.5,no,yes,none,no,yes,,yes,no,,yes
+CUST0946,Pamela Johnson,female,1,no,no,65,,yes,mailed check,83.94,1000.5,,no,fiber optic,no,no,,,yes,,no
+CUST0947,Brittany Davis,female,0,yes,,66,two year,no,bank transfer,67.59,1000.5,no,,dsl,,,,no,,,yes
+CUST0948,Amber Moore,female,1,yes,,70,,yes,mailed check,67.59,1000.5,,,dsl,yes,yes,no,no,yes,,
+CUST0949,Amy Mckinney,female,0,yes,,19,month-to-month,yes,,67.59,1000.5,yes,,fiber optic,no,yes,,yes,no,yes,no
+CUST0950,Charles Price,,1,yes,,28,,no,credit card (automatic),67.59,2557.09,no,,,,,no,yes,,,no
+CUST0951,Alyssa Thomas,female,0,yes,,13,month-to-month,,credit card (automatic),108.75,1000.5,,no,fiber optic,no,,,yes,no,yes,no
+CUST0952,Lindsay Logan,female,0,yes,,1,month to month,,mailed check,67.59,1000.5,,,,no,no,no,yes,no,yes,no
+CUST0953,Amy Cordova,female,1,,,33,month to month,no,bank transfer,102.07,3509.82,no,no,fiber optic,no,yes,no,,no,no,yes
+CUST0954,Joseph Hughes,female,0,no,,36,month to month,,credit card (automatic),41.35,1000.5,no,no,,yes,no,yes,,yes,,no
+CUST0955,Mr. Mark Dawson,male,1,no,yes,42,month-to-month,,credit card (automatic),67.59,4728.79,no,no,fiber optic,no,yes,no,no,,,no
+CUST0956,Natalie Peters,male,1,,yes,40,,,credit card (automatic),67.59,3214.19,no,,fiber optic,no,yes,,yes,,,no
+CUST0957,Nicole Richardson,male,1,yes,,0,one year,yes,electronic check,86.51,1000.5,no,no,none,,yes,,yes,yes,,yes
+CUST0958,Anne Morales,male,0,yes,,17,month-to-month,yes,mailed check,67.59,1000.5,,yes,no,,,,,,yes,
+CUST0959,Savannah Powers,female,1,no,yes,15,,no,bank transfer,67.59,1000.5,yes,yes,dsl,,no,,yes,yes,,yes
+CUST0960,Heather Brown,female,0,no,yes,30,two year,no,credit card (automatic),67.59,1000.5,yes,yes,fiber optic,yes,yes,yes,no,,no,
+CUST0961,Pamela Rodriguez,female,1,no,,29,,yes,credit card (automatic),67.59,1000.5,,no,,no,no,,,no,,yes
+CUST0962,Nancy Jacobs,male,1,no,yes,61,two year,yes,credit card (automatic),93.29,1000.5,,,dsl,,yes,yes,yes,yes,no,
+CUST0963,Meghan Lane,female,0,,yes,45,one year,yes,,67.59,1000.5,no,yes,dsl,no,yes,no,yes,,,
+CUST0964,James Hale,male,0,yes,,62,month-to-month,yes,credit card (automatic),116.48,7190.52,no,,none,no,no,no,,,yes,yes
+CUST0965,William Fields,,0,,no,4,two year,,credit card (automatic),74.97,1000.5,,,none,yes,yes,no,,,,
+CUST0966,Maria Fowler,female,0,yes,,48,month to month,yes,,67.59,1000.5,no,,fiber optic,,yes,yes,yes,,no,
+CUST0967,Jennifer Rasmussen,female,1,yes,,63,one year,,credit card (automatic),55.28,1000.5,,yes,no,no,no,no,,,yes,
+CUST0968,Amy Waters,male,1,no,,13,,yes,mailed check,83.81,1000.5,yes,,none,,no,yes,no,,yes,
+CUST0969,Sarah Watson,female,1,no,,55,one year,no,mailed check,67.59,1000.5,no,no,,yes,yes,,yes,no,,yes
+CUST0970,Samantha Matthews,male,1,yes,,47,,yes,bank transfer,109.13,1000.5,,,,no,yes,no,,no,no,yes
+CUST0971,Haley Flores,female,0,no,,35,two year,no,,67.59,3437.69,yes,no,,no,,,yes,,no,yes
+CUST0972,Shelly Reeves,male,1,,,23,one year,yes,electronic check,67.59,1000.5,,,dsl,yes,,yes,yes,,no,
+CUST0973,James Garcia,,1,yes,no,63,,,electronic check,74.39,1000.5,,no,,yes,no,no,yes,no,no,yes
+CUST0974,Alexander Ryan,,1,no,yes,45,month to month,,credit card (automatic),67.59,1000.5,no,yes,,yes,no,yes,,no,,no
+CUST0975,Rachael Houston,male,1,yes,no,63,month-to-month,no,electronic check,69.58,1000.5,no,yes,no,no,no,no,no,,yes,no
+CUST0976,Mary Martin,female,0,no,no,5,one year,,,67.59,1000.5,yes,no,,no,no,no,yes,no,,yes
+CUST0977,Jeanette Underwood,male,1,,yes,22,month-to-month,no,bank transfer,67.59,1000.5,yes,no,no,no,,yes,yes,,yes,no
+CUST0978,Tyler Murray,male,1,yes,,36,two year,,,67.59,1000.5,yes,,none,yes,yes,,,no,yes,
+CUST0979,Andrea Patterson,female,1,yes,,53,two year,no,,85.34,1000.5,no,,fiber optic,,no,no,no,yes,yes,yes
+CUST0980,Henry King,,0,yes,,60,month-to-month,no,,67.59,1000.5,no,yes,dsl,yes,yes,,no,yes,yes,
+CUST0981,Pamela Young,male,1,no,yes,36,month to month,,credit card (automatic),67.59,1000.5,yes,yes,dsl,no,no,no,no,,,
+CUST0982,Brent Jefferson,female,1,no,yes,51,month to month,yes,electronic check,67.59,1000.5,yes,no,none,,,yes,,,yes,no
+CUST0983,Mary Peterson,male,1,no,,43,one year,yes,credit card (automatic),34.58,1000.5,no,no,no,,no,no,yes,,no,no
+CUST0984,Shelly Martinez,female,0,yes,,27,month-to-month,yes,,67.59,494.87,,no,fiber optic,yes,no,no,no,yes,no,
+CUST0985,Jessica Lewis,female,0,no,yes,61,month to month,yes,mailed check,67.59,1000.5,yes,no,none,yes,,yes,no,,yes,no
+CUST0986,Jake Allen,female,0,no,,7,month to month,,mailed check,67.59,1000.5,no,yes,none,yes,no,yes,no,no,no,no
+CUST0987,Cody Warren,,0,no,,51,month-to-month,,mailed check,67.59,1305.09,,no,dsl,yes,yes,no,,,no,yes
+CUST0988,Brandon Brooks,female,0,no,no,29,month-to-month,no,bank transfer,67.59,1000.5,no,yes,,no,,yes,,yes,,
+CUST0989,John Sanchez,female,0,no,no,32,one year,,credit card (automatic),68.25,3269.97,no,no,dsl,,no,,,no,yes,no
+CUST0990,Terry Holmes,male,1,no,,52,,,mailed check,67.59,1000.5,,no,no,yes,yes,no,,yes,no,no
+CUST0991,Christopher Miller,male,0,yes,yes,47,month-to-month,no,mailed check,67.59,1000.5,no,no,none,yes,no,,yes,,yes,
+CUST0992,Leslie Martin,female,0,no,yes,4,,no,credit card (automatic),67.59,1000.5,,yes,,,no,yes,yes,,,no
+CUST0993,Francisco King,,0,no,,20,one year,yes,bank transfer,67.59,1000.5,,no,,no,yes,,,,,
+CUST0994,Paul Thompson,female,0,yes,no,1,one year,yes,bank transfer,67.59,1000.5,yes,yes,none,no,yes,yes,no,yes,,
+CUST0995,Kristin Hull,,0,no,,15,one year,,mailed check,114.31,1358.33,no,no,fiber optic,yes,,,no,yes,yes,yes
+CUST0996,Michael Evans,male,0,yes,no,12,two year,no,credit card (automatic),67.59,1000.5,,no,none,,no,,,yes,no,
+CUST0997,Sydney Carroll,male,1,,,37,month to month,,credit card (automatic),67.59,1000.5,,no,dsl,yes,,,,yes,yes,
+CUST0998,Jeffery Burton,male,1,no,yes,70,,no,mailed check,105.55,1000.5,yes,no,no,,,yes,no,,yes,no
+CUST0999,Sandra Delacruz,female,1,no,yes,60,,yes,mailed check,112.02,1000.5,yes,no,,yes,yes,no,yes,no,,
+CUST1000,Krista Morris,male,0,no,,54,one year,no,,67.59,1000.5,no,yes,fiber optic,,no,yes,yes,,,yes
+CUST1001,Alex Benton,female,0,no,no,45,,yes,mailed check,67.29,1000.5,,no,none,yes,,no,yes,,,yes
+CUST1002,David Ward,,0,,,69,two year,no,credit card (automatic),65.26,1000.5,no,no,no,,yes,no,yes,no,yes,
+CUST1003,Hannah Newton,,1,yes,,46,one year,,bank transfer,67.59,1000.5,no,yes,,no,,no,no,no,,no
+CUST1004,Deborah Smith,male,0,yes,,59,two year,no,electronic check,67.59,1000.5,,no,dsl,no,,,yes,,yes,
+CUST1005,Mark Gonzales,male,0,yes,,2,month to month,yes,mailed check,67.59,1000.5,,,fiber optic,,,no,yes,yes,,
+CUST1006,Devin Moyer,female,0,yes,,47,month-to-month,yes,mailed check,67.59,1465.04,yes,,no,no,,no,,,no,
+CUST1007,Jonathan Smith,male,1,,yes,60,one year,yes,bank transfer,67.59,1000.5,yes,yes,no,no,no,no,no,,no,yes
+CUST1008,Mr. Mark Stephens DVM,,0,yes,no,7,month to month,no,mailed check,67.59,796.78,no,yes,fiber optic,no,no,yes,no,,,
+CUST1009,Cassandra Ruiz,,1,no,no,38,two year,yes,electronic check,62.48,1000.5,,yes,no,no,no,yes,no,yes,yes,no
+CUST1010,Anthony Logan,male,0,,,41,month-to-month,no,mailed check,67.59,3077.79,,yes,fiber optic,no,,yes,,yes,yes,yes
+CUST1011,Mark Padilla,female,0,no,,66,one year,yes,electronic check,34.91,1000.5,no,no,no,,yes,no,no,no,,no
+CUST1012,Holly Lopez,male,0,yes,no,16,month to month,yes,credit card (automatic),67.59,1000.5,yes,no,none,no,,no,yes,,yes,no
+CUST1013,Danielle Graham,female,1,yes,,70,,,electronic check,67.59,1000.5,yes,no,fiber optic,yes,,yes,yes,no,yes,
+CUST1014,Todd Wilson,male,1,yes,,36,,no,credit card (automatic),67.59,1000.5,yes,,fiber optic,,,no,yes,no,,yes
+CUST1015,Alison Santiago,,0,,no,24,month-to-month,,electronic check,67.59,1000.5,,no,,yes,,yes,,no,no,
+CUST1016,Leah Duncan,female,1,no,no,31,one year,no,bank transfer,43.5,1000.5,,no,no,no,,no,no,yes,,yes
+CUST1017,Rachel Lowe,male,0,yes,,35,month-to-month,no,mailed check,52.39,1000.5,no,yes,no,no,,yes,yes,,yes,
+CUST1018,Kaitlyn Jackson,,1,no,yes,59,one year,no,mailed check,67.59,1000.5,,no,dsl,yes,no,,,yes,yes,yes
+CUST1019,Elizabeth Barker,,1,yes,no,2,month-to-month,no,credit card (automatic),67.59,1000.5,no,no,fiber optic,yes,no,,yes,,no,yes
+CUST1020,Matthew Lara,,1,no,,25,month to month,yes,bank transfer,67.59,1000.5,no,yes,no,yes,,no,,yes,no,
+CUST1021,Sydney Jones,male,1,no,no,42,month to month,no,electronic check,67.59,1000.5,,yes,,yes,yes,,no,,yes,
+CUST1022,Susan Jones,male,1,yes,no,30,one year,yes,mailed check,67.59,1000.5,yes,no,dsl,,,no,,no,,no
+CUST1023,Michael Russo,male,1,,yes,8,month to month,no,bank transfer,67.59,1000.5,yes,yes,fiber optic,yes,,,,yes,,yes
+CUST1024,Jeffrey Shah,female,0,yes,,11,one year,no,,67.59,1000.5,no,no,,,,no,,yes,,no
+CUST1025,Matthew Allen,male,1,no,,9,,,,67.59,655.55,yes,no,,yes,no,,no,,,
+CUST1026,Joshua Williams,male,1,no,yes,14,,yes,mailed check,67.59,1000.5,no,yes,none,no,,no,no,,yes,yes
+CUST1027,Christopher Vang,female,0,,no,9,two year,yes,bank transfer,67.59,1000.5,no,no,,no,yes,,yes,,,yes
+CUST1028,Shelley Conrad DVM,female,0,,yes,7,month to month,yes,electronic check,67.59,1000.5,no,no,dsl,yes,no,yes,yes,,,no
+CUST1029,Carrie Barrett,male,1,no,no,29,month-to-month,yes,mailed check,67.59,1000.5,,yes,no,,no,yes,no,yes,no,
+CUST1030,Veronica Garcia,female,0,no,no,27,one year,,,67.59,1000.5,,yes,dsl,,yes,,yes,,no,yes
+CUST1031,Christopher Mathis,male,0,,,12,,no,electronic check,67.59,578.5,,no,none,no,no,yes,,yes,yes,no
+CUST1032,Sergio Hensley,female,0,yes,no,11,month-to-month,no,bank transfer,67.59,1000.5,,no,fiber optic,yes,yes,no,,yes,,
+CUST1033,Richard Barron,female,0,no,yes,41,,yes,,67.59,4444.15,no,,fiber optic,yes,yes,,yes,,yes,yes
+CUST1034,Michael Rose,female,1,yes,yes,65,one year,yes,credit card (automatic),67.59,1000.5,,,no,,yes,yes,no,yes,,yes
+CUST1035,James Martinez,male,0,no,,62,month-to-month,no,electronic check,41.39,1000.5,no,,dsl,,,,no,,,
+CUST1036,Latasha Wall,male,1,no,,69,month-to-month,,electronic check,118.47,6259.75,yes,yes,dsl,,no,no,yes,no,no,yes
+CUST1037,Robert Rosales,,1,no,,3,,yes,credit card (automatic),106.36,1000.5,no,,fiber optic,,no,yes,yes,,,
+CUST1038,Peggy Price,female,1,yes,,1,one year,yes,electronic check,49.99,48.27,,yes,fiber optic,yes,,yes,no,,no,
+CUST1039,William Brennan,male,1,yes,,37,one year,no,bank transfer,67.59,1000.5,no,,no,no,no,,yes,,,yes
+CUST1040,Bethany Williams,,0,yes,yes,67,,yes,bank transfer,67.59,1000.5,yes,no,no,yes,yes,no,no,,no,
+CUST1041,Patty Stewart,male,1,no,,62,two year,yes,credit card (automatic),67.59,1000.5,,,no,,no,,,,yes,
+CUST1042,Amanda Wise,male,1,yes,,20,month-to-month,no,mailed check,67.59,1640.98,,yes,none,no,yes,,yes,no,,
+CUST1043,Karen Nelson,male,1,yes,,54,one year,yes,credit card (automatic),67.59,2474.06,yes,yes,none,,no,,no,,,yes
+CUST1044,Dr. Nicholas Mccormick,female,0,yes,no,45,month-to-month,no,mailed check,67.59,1000.5,yes,no,no,,no,no,no,no,,
+CUST1045,Hannah Morgan,female,1,yes,yes,65,month-to-month,yes,bank transfer,67.59,1000.5,,,dsl,,,no,no,,yes,yes
+CUST1046,Yolanda Dixon,male,0,yes,no,69,,no,,67.59,1000.5,yes,no,none,yes,yes,no,no,yes,yes,no
+CUST1047,Daniel Diaz,,1,no,yes,34,two year,,mailed check,67.59,1000.5,yes,no,no,,no,,yes,no,yes,no
+CUST1048,James Odom,male,1,,,65,one year,yes,credit card (automatic),67.59,1000.5,yes,no,no,,no,no,yes,yes,no,
+CUST1049,Lynn Fields,female,0,,yes,24,two year,,mailed check,67.59,1216.64,yes,,dsl,,yes,no,,no,,yes
+CUST1050,Gabriela Clark,female,0,no,,19,,yes,mailed check,67.59,580.97,yes,yes,no,no,yes,,no,yes,yes,no
+CUST1051,Jonathan Santiago,male,1,,no,57,one year,no,electronic check,67.59,3259.15,no,,none,,no,,yes,yes,yes,no
+CUST1052,Patricia Johnson,female,0,yes,no,16,,yes,bank transfer,27.01,1000.5,no,no,fiber optic,no,no,no,yes,,,
+CUST1053,Frederick Miller,female,0,,yes,25,,no,bank transfer,67.59,1000.5,,yes,none,,no,,,,,
+CUST1054,Steven Snyder,male,0,,yes,4,,,electronic check,85.26,1000.5,,no,fiber optic,no,no,yes,,,,yes
+CUST1055,April Adkins,male,1,no,,16,month to month,yes,,117.94,1000.5,yes,,no,,yes,yes,yes,no,yes,no
+CUST1056,Robert Nguyen,male,1,yes,,9,month to month,yes,,40.02,207.45,yes,no,dsl,no,no,no,,yes,no,no
+CUST1057,Samuel Sanders,,1,no,,28,one year,,electronic check,118.96,1000.5,,,none,,,no,no,yes,,no
+CUST1058,Kirk Santiago,,1,no,no,55,,no,credit card (automatic),67.59,1000.5,yes,,,,yes,no,,no,,yes
+CUST1059,Kimberly Malone,female,0,no,no,31,one year,yes,credit card (automatic),67.59,1000.5,yes,yes,none,no,no,,,no,yes,no
+CUST1060,Brian Clark,female,0,,,13,two year,yes,electronic check,67.59,1000.5,yes,no,no,yes,yes,yes,no,no,,
+CUST1061,Nathaniel Barker,female,1,yes,no,55,one year,yes,,67.59,3201.28,,no,none,,yes,no,,no,,
+CUST1062,John Escobar,male,0,,,21,month-to-month,no,electronic check,67.59,1000.5,,,fiber optic,,yes,no,no,no,no,
+CUST1063,Cassandra Delgado,male,1,,no,30,two year,yes,credit card (automatic),67.59,1000.5,,no,dsl,no,no,,,yes,no,no
+CUST1064,Tanya Rogers,female,0,no,,12,month-to-month,no,electronic check,67.59,1000.5,yes,no,dsl,,no,no,no,no,no,yes
+CUST1065,Richard Hunter,,0,,,46,one year,yes,electronic check,29.42,1000.5,yes,yes,no,yes,no,yes,,no,,yes
+CUST1066,Joanna Roy,male,0,yes,no,66,one year,no,mailed check,67.59,2804.47,yes,no,none,yes,no,yes,no,,yes,
+CUST1067,Joshua Schaefer,female,1,no,yes,23,month to month,yes,credit card (automatic),67.59,1000.5,yes,no,none,yes,yes,,no,yes,,yes
+CUST1068,Dennis Spears,male,1,no,,25,month to month,,,67.59,1000.5,,yes,dsl,yes,,no,yes,yes,yes,
+CUST1069,Alice Macias,,1,no,,62,,no,mailed check,67.59,1000.5,yes,no,fiber optic,yes,no,,yes,,,yes
+CUST1070,Michael Terry,male,1,yes,,21,,,credit card (automatic),67.59,1000.5,yes,no,none,,no,no,yes,no,yes,
+CUST1071,Mr. Mark Ryan DDS,female,1,yes,,20,month-to-month,no,bank transfer,109.97,1000.5,no,,none,yes,,yes,yes,,,no
+CUST1072,Andrew Fisher,,0,yes,yes,34,month-to-month,no,mailed check,67.59,1000.5,,no,dsl,,yes,yes,,yes,no,yes
+CUST1073,Preston Robinson,,0,yes,,37,,,mailed check,67.59,1000.5,no,yes,dsl,yes,no,yes,,,,no
+CUST1074,Joshua Smith,female,1,yes,yes,27,month to month,,mailed check,82.43,1000.5,no,,no,yes,,,,yes,no,no
+CUST1075,Dylan Davis MD,male,1,no,yes,71,month to month,no,mailed check,67.59,1000.5,yes,yes,,yes,yes,no,no,,no,yes
+CUST1076,Elizabeth Gilbert,female,0,yes,no,71,month to month,no,bank transfer,67.59,5136.61,no,no,,,no,yes,,,no,no
+CUST1077,Roy Jackson,,1,yes,yes,2,one year,yes,bank transfer,44.88,1000.5,no,,no,,yes,,yes,yes,yes,no
+CUST1078,Matthew Morales,male,1,yes,no,38,two year,no,bank transfer,67.01,1000.5,no,no,dsl,no,yes,,,no,,yes
+CUST1079,Kathleen Coleman,,0,,no,46,month to month,no,bank transfer,67.59,1000.5,no,yes,dsl,,no,,,no,no,
+CUST1080,Brenda Cooper,female,1,,yes,65,month-to-month,,,67.59,1000.5,no,,none,yes,yes,yes,,,yes,yes
+CUST1081,Alexander Irwin,male,1,no,no,47,two year,yes,electronic check,67.59,1000.5,,yes,,yes,no,,no,no,,no
+CUST1082,Ann King,male,1,no,,64,month-to-month,no,,67.59,1000.5,,no,dsl,,yes,yes,,yes,yes,
+CUST1083,Steve Velez,female,0,,,61,,yes,credit card (automatic),67.59,3981.0,yes,,fiber optic,no,,no,no,,,
+CUST1084,David Fernandez,,0,,no,34,,yes,electronic check,75.4,1000.5,no,no,no,,yes,,yes,,yes,yes
+CUST1085,Roberto Wilson,male,0,no,,70,two year,no,electronic check,71.42,5367.74,yes,no,dsl,,yes,yes,yes,yes,no,yes
+CUST1086,Zachary Jenkins,female,1,yes,yes,64,month to month,yes,,24.65,1000.5,no,yes,none,no,yes,no,,,,no
+CUST1087,Paul Lawrence,female,1,,no,14,one year,no,credit card (automatic),67.59,1000.5,no,no,,no,no,yes,,yes,,yes
+CUST1088,Thomas Green,male,1,,no,54,one year,yes,bank transfer,32.22,4865.37,no,no,no,,,no,yes,yes,,
+CUST1089,Jeanne Macdonald,female,1,no,,2,month-to-month,,mailed check,57.62,1000.5,no,no,no,,yes,yes,,,,yes
+CUST1090,Richard Hernandez,male,1,no,,4,month-to-month,no,electronic check,67.59,1000.5,,,dsl,yes,,yes,no,yes,yes,yes
+CUST1091,Kim Pope,male,1,no,,29,,yes,,62.63,1000.5,no,yes,fiber optic,no,yes,yes,,no,yes,yes
+CUST1092,Kimberly Watts,female,0,yes,yes,65,month-to-month,yes,,96.12,1000.5,no,no,dsl,no,,no,no,,,no
+CUST1093,Lisa Floyd,male,1,no,,10,month-to-month,yes,electronic check,29.43,1000.5,no,,no,,yes,,no,no,yes,
+CUST1094,Jimmy Davis,male,1,yes,,67,one year,no,,41.24,6938.79,no,,no,yes,,yes,,no,no,yes
+CUST1095,Kevin Harris,female,1,no,,20,,yes,,103.89,1000.5,no,,dsl,no,yes,no,no,,yes,no
+CUST1096,Heather Knight,,0,yes,,43,one year,no,credit card (automatic),67.59,1000.5,yes,no,fiber optic,no,no,yes,no,,yes,no
+CUST1097,James Brown,male,0,yes,,1,,yes,,67.59,61.94,no,yes,fiber optic,no,,no,no,,,no
+CUST1098,Carlos Perry,,1,no,,57,,no,mailed check,116.1,1000.5,yes,yes,no,yes,,no,no,yes,,
+CUST1099,Brittany Knight,,0,,yes,4,,no,bank transfer,32.21,1000.5,,no,,yes,yes,yes,,no,no,yes
+CUST1100,Holly Massey,female,1,no,yes,36,month-to-month,yes,credit card (automatic),67.59,1000.5,no,yes,dsl,yes,no,,,,no,yes
+CUST1101,Stephanie Moreno,male,1,no,no,41,two year,no,,67.59,2780.97,yes,,fiber optic,yes,no,no,yes,,,yes
+CUST1102,George Hall,female,0,no,,14,month to month,no,,67.59,1000.5,yes,,,yes,,yes,,,,no
+CUST1103,Cassandra Castaneda,female,1,no,yes,36,month to month,yes,electronic check,76.9,1000.5,yes,,none,yes,yes,,yes,yes,,no
+CUST1104,Regina Chan,,0,no,no,59,,no,bank transfer,86.08,1000.5,,,fiber optic,yes,no,yes,no,yes,yes,
+CUST1105,Emily Harvey,male,0,no,yes,40,one year,yes,credit card (automatic),80.47,1000.5,,no,fiber optic,yes,yes,,yes,no,yes,
+CUST1106,Jessica Quinn,female,0,yes,no,42,one year,yes,credit card (automatic),67.59,1000.5,yes,,no,no,no,,,no,,no
+CUST1107,Andrew Garcia,male,1,,yes,14,one year,no,,24.14,1000.5,,,dsl,no,yes,,no,no,no,yes
+CUST1108,Leonard Kline,male,0,,,4,month-to-month,yes,electronic check,64.67,1000.5,no,no,none,no,no,no,no,,,no
+CUST1109,Teresa Pollard,male,1,yes,,19,two year,yes,,67.59,1000.5,no,,dsl,yes,,no,yes,,,no
+CUST1110,Jacob Gill,,0,yes,,33,,,bank transfer,67.59,1241.79,,no,no,no,,yes,no,yes,no,
+CUST1111,Cynthia Hunter,female,1,,yes,2,one year,no,bank transfer,86.65,1000.5,no,,dsl,yes,yes,,no,,,
+CUST1112,Janet Stone,male,0,yes,,41,month-to-month,no,electronic check,92.79,1000.5,yes,yes,fiber optic,,,no,no,no,no,
+CUST1113,David White,female,0,yes,no,53,month-to-month,no,bank transfer,22.93,4113.65,yes,no,,no,,no,no,no,,yes
+CUST1114,Kyle Carter,female,0,yes,yes,11,month to month,no,bank transfer,91.13,286.19,no,no,fiber optic,yes,,no,,,,
+CUST1115,Christopher Stewart,female,0,yes,yes,36,,yes,mailed check,67.59,1244.45,,yes,none,no,,,yes,yes,,no
+CUST1116,Donna Ford,female,0,no,,43,one year,yes,bank transfer,67.59,4524.38,,yes,fiber optic,,no,no,yes,no,,yes
+CUST1117,John Colon,female,1,no,,47,one year,no,credit card (automatic),20.16,1000.5,yes,,dsl,,,yes,yes,no,no,no
+CUST1118,Joseph Avila,male,1,no,yes,10,,yes,electronic check,67.59,1000.5,,no,dsl,no,,,yes,,,yes
+CUST1119,Jordan Hicks,female,0,yes,,39,month-to-month,no,credit card (automatic),67.59,4382.2,yes,yes,fiber optic,yes,,no,,,,yes
+CUST1120,Jason Hernandez,male,0,no,,24,month to month,,electronic check,26.24,1000.5,,no,no,yes,no,no,yes,,yes,no
+CUST1121,Emily Wright,male,0,no,no,37,,no,credit card (automatic),67.59,1766.65,yes,yes,,no,no,,yes,no,yes,
+CUST1122,Katherine Clark,,1,no,yes,38,two year,no,mailed check,50.54,1000.5,,no,no,yes,no,,,no,,no
+CUST1123,Andrea Turner,female,1,,,60,one year,,credit card (automatic),67.59,1000.5,,no,no,,no,no,,yes,,no
+CUST1124,Alex Black,male,0,no,,50,month-to-month,,,67.59,1000.5,yes,yes,dsl,,,no,,,no,yes
+CUST1125,Deborah Craig,female,1,no,yes,12,month-to-month,no,credit card (automatic),34.81,1000.5,,no,no,,yes,no,yes,no,no,yes
+CUST1126,Vincent Powers,female,0,,no,62,month to month,no,,58.45,1000.5,,no,none,yes,no,,yes,yes,,no
+CUST1127,Elizabeth Jones,,0,no,,70,one year,,credit card (automatic),67.59,2605.68,,yes,none,,no,yes,no,,yes,yes
+CUST1128,Michael Sawyer,male,0,yes,yes,35,one year,no,mailed check,67.59,1434.86,no,,dsl,yes,yes,no,no,no,,yes
+CUST1129,Kelly Sanchez,female,0,yes,yes,57,two year,no,mailed check,67.59,1000.5,no,yes,none,yes,,no,,,,no
+CUST1130,Alan Houston,,0,,,52,two year,,bank transfer,116.37,1000.5,no,,no,no,yes,,no,,,
+CUST1131,Tammy Ward,female,1,no,,29,,no,mailed check,67.59,2660.08,,,no,no,yes,no,,,no,
+CUST1132,Vincent Ortega,male,1,,yes,52,month to month,,,67.59,1000.5,,no,none,no,no,yes,yes,,no,no
+CUST1133,Melody Davenport,male,1,no,yes,36,two year,yes,electronic check,67.59,1000.5,yes,yes,no,,yes,,no,no,no,yes
+CUST1134,Julie Johnson,female,1,yes,yes,63,,no,credit card (automatic),38.84,1000.5,no,,no,yes,yes,yes,yes,,,yes
+CUST1135,Matthew Cowan,,1,,no,25,month-to-month,no,electronic check,18.11,1000.5,yes,no,no,yes,,,,,yes,
+CUST1136,Carl Macdonald,female,0,yes,no,38,one year,,electronic check,67.59,1000.5,no,yes,,,yes,,no,yes,,yes
+CUST1137,Susan Reed,male,1,yes,,68,,no,credit card (automatic),67.59,1000.5,yes,no,no,no,,no,yes,,,yes
+CUST1138,Brian James,female,0,no,,42,one year,no,electronic check,67.59,1000.5,yes,,dsl,no,,,,,no,no
+CUST1139,David Oconnor,,0,,,57,two year,yes,credit card (automatic),67.59,1000.5,no,no,no,yes,yes,,yes,,,
+CUST1140,Martha Guerra,,0,no,yes,16,month to month,no,credit card (automatic),67.59,1000.5,yes,no,,yes,yes,no,yes,,,no
+CUST1141,Ryan Blevins,female,0,yes,yes,18,two year,yes,mailed check,67.59,1000.5,no,yes,none,,no,yes,yes,yes,,yes
+CUST1142,Justin Humphrey,male,1,no,,54,one year,yes,,67.59,1000.5,yes,yes,fiber optic,no,yes,,yes,,yes,no
+CUST1143,Kristen Wells,female,1,no,,68,two year,no,,67.59,1000.5,,no,no,,no,yes,,yes,yes,no
+CUST1144,Jeremy Robbins,,0,yes,yes,12,month-to-month,yes,bank transfer,67.59,1000.5,,no,none,yes,no,no,yes,,,
+CUST1145,Richard Roberts,male,1,no,,67,one year,no,,67.59,1000.5,no,no,none,yes,yes,,,,yes,yes
+CUST1146,Erin Morales,female,1,no,,57,month-to-month,yes,electronic check,67.59,1000.5,,no,no,yes,yes,no,,,no,yes
+CUST1147,Megan Harrison,male,1,no,no,67,month-to-month,no,electronic check,76.76,1000.5,,no,fiber optic,,no,yes,,,yes,
+CUST1148,Travis Evans,male,0,,,15,month-to-month,yes,,46.59,1004.29,,no,none,no,,no,yes,yes,no,no
+CUST1149,Martin David,male,0,no,,0,,yes,,67.59,1000.5,yes,,none,yes,yes,no,yes,,,yes
+CUST1150,Michael Powers,female,0,no,,5,month to month,no,bank transfer,67.59,1000.5,no,yes,,no,yes,no,,,,
+CUST1151,Becky Yang,,1,yes,yes,72,,yes,bank transfer,57.63,1000.5,no,,none,,no,yes,no,,,yes
+CUST1152,Elizabeth Allen,male,1,no,,11,,no,bank transfer,67.59,1000.5,no,no,,,yes,yes,,,,yes
+CUST1153,Monique Ayala,female,1,yes,yes,39,one year,yes,credit card (automatic),67.59,1000.5,yes,no,no,no,yes,yes,yes,yes,no,
+CUST1154,Michael Jackson,female,0,yes,yes,3,two year,yes,,67.59,160.61,,no,dsl,yes,yes,yes,no,,,yes
+CUST1155,Mike Sanchez,female,1,no,,37,two year,yes,,67.59,3441.05,yes,,,,no,yes,yes,no,,no
+CUST1156,Robert Mclaughlin,female,0,yes,yes,5,two year,yes,mailed check,67.59,136.42,,yes,,yes,yes,,,no,yes,
+CUST1157,Kelly Watts,female,0,no,no,17,one year,yes,,42.04,568.83,no,yes,none,,yes,yes,,no,,no
+CUST1158,Dawn Snow,male,1,no,,0,month to month,yes,electronic check,67.05,1000.5,no,no,dsl,no,no,no,yes,no,no,
+CUST1159,Maria Long,female,1,no,no,56,month to month,no,credit card (automatic),67.59,4390.82,yes,,,,,,yes,yes,,no
+CUST1160,Amanda Cox,,1,yes,,13,month-to-month,yes,mailed check,67.59,1000.5,,no,,no,yes,yes,yes,,no,no
+CUST1161,Rebecca Wallace,,0,no,,22,two year,no,mailed check,39.31,1000.5,,,,,no,yes,,no,no,
+CUST1162,Keith Fitzgerald,male,0,yes,,46,month to month,no,mailed check,67.59,1000.5,no,yes,none,no,yes,no,yes,no,yes,yes
+CUST1163,Jennifer Brown,female,0,,,22,two year,yes,bank transfer,67.59,1056.07,no,no,no,yes,yes,,yes,,yes,no
+CUST1164,Jennifer Sandoval DVM,female,1,no,yes,5,month-to-month,no,credit card (automatic),67.59,1000.5,no,yes,no,no,,yes,no,yes,,no
+CUST1165,Jessica Jones,female,0,yes,,27,month-to-month,no,electronic check,67.59,2895.08,yes,yes,none,no,,no,yes,,,
+CUST1166,Andre Mckay,female,1,yes,,63,two year,yes,mailed check,67.59,1000.5,no,no,dsl,yes,yes,no,no,,,no
+CUST1167,Brittney Gutierrez,,0,no,,10,,yes,electronic check,48.69,699.26,,no,,yes,,no,no,,yes,no
+CUST1168,Douglas Maldonado,female,1,yes,,58,month-to-month,no,,67.59,1000.5,yes,yes,fiber optic,yes,,,yes,yes,yes,no
+CUST1169,Nancy Woods,female,1,no,no,56,two year,no,bank transfer,67.59,1000.5,yes,,none,,no,,,,no,yes
+CUST1170,Ronald Robbins,female,0,yes,yes,46,,no,bank transfer,97.25,1000.5,no,,none,yes,,yes,no,no,no,yes
+CUST1171,Mrs. Nicole Mahoney MD,male,0,no,yes,14,two year,,mailed check,67.59,1000.5,no,,no,no,yes,,,yes,,yes
+CUST1172,Joshua Gomez,,0,yes,,36,one year,no,,67.59,2645.13,,no,,no,yes,,yes,no,,no
+CUST1173,Ashley Juarez,female,0,yes,yes,71,two year,,electronic check,67.59,1000.5,no,,none,,,yes,yes,,,
+CUST1174,James Lee,female,1,yes,no,48,,yes,credit card (automatic),67.59,1000.5,yes,no,fiber optic,no,no,no,no,yes,no,no
+CUST1175,Mary Perez,male,0,,,23,,no,,67.59,1795.31,no,yes,none,no,yes,yes,,,yes,yes
+CUST1176,Danielle Larson,male,0,no,,39,month-to-month,no,credit card (automatic),67.59,1000.5,yes,no,fiber optic,,,no,,yes,yes,no
+CUST1177,Amanda Castillo,female,1,yes,,16,,no,mailed check,28.57,1000.5,yes,no,no,yes,no,,,no,,no
+CUST1178,Christopher Weiss,female,1,no,,67,two year,,bank transfer,56.26,1000.5,,no,dsl,yes,no,,yes,yes,no,no
+CUST1179,Sheri Owen,,1,no,no,31,two year,yes,bank transfer,119.87,1000.5,yes,yes,no,yes,,yes,no,yes,,yes
+CUST1180,Anna Cisneros,female,0,yes,yes,66,two year,yes,credit card (automatic),67.59,1000.5,no,no,none,,no,,yes,no,yes,no
+CUST1181,Michael Anderson,female,1,,,7,month-to-month,no,electronic check,67.59,1000.5,yes,,none,no,,,no,,,yes
+CUST1182,Kevin May,,1,no,,12,two year,yes,mailed check,67.59,1000.5,,no,fiber optic,,,no,,,,
+CUST1183,Melissa Cook PhD,male,0,yes,,64,two year,yes,electronic check,61.5,1000.5,no,,,yes,no,no,yes,,no,yes
+CUST1184,Katherine Smith PhD,,0,,yes,38,,yes,bank transfer,67.59,1000.5,yes,yes,dsl,no,,no,,,yes,yes
+CUST1185,James Wong,,1,yes,no,30,month-to-month,,electronic check,67.59,1000.5,yes,yes,dsl,no,,yes,,no,,yes
+CUST1186,Marie Curry,male,1,no,,64,,no,mailed check,67.59,1000.5,no,no,fiber optic,no,no,no,yes,yes,,no
+CUST1188,Rachel Rios,female,0,no,,34,,no,bank transfer,58.08,3264.08,,,none,no,yes,no,no,,,
+CUST1189,Brian Mcmillan,,1,no,,31,two year,no,electronic check,27.71,2549.13,yes,no,fiber optic,no,no,no,,,,yes
+CUST1190,Kara Long,male,1,no,,0,two year,,credit card (automatic),67.59,1000.5,,,none,no,no,,,yes,no,no
+CUST1191,Caroline Miller,male,1,yes,no,40,month to month,,credit card (automatic),55.48,1000.5,,yes,no,,yes,no,yes,,yes,no
+CUST1192,Christopher Thompson,female,1,yes,,72,two year,yes,bank transfer,67.59,1000.5,,,no,yes,,,yes,,,
+CUST1193,Brian Hess,female,1,no,yes,37,two year,yes,,67.59,2863.54,yes,yes,no,yes,,no,no,,no,yes
+CUST1194,Tonya Sullivan,female,0,yes,,32,,no,bank transfer,67.59,1000.5,no,no,no,yes,,yes,yes,,yes,
+CUST1195,William Garcia,female,0,,no,32,month-to-month,no,,119.62,1000.5,,no,no,,no,yes,no,yes,,
+CUST1196,Nicole Love,female,1,,,60,month-to-month,yes,electronic check,67.59,6354.22,,,fiber optic,no,,yes,yes,,,yes
+CUST1197,Mathew Wright,female,1,yes,,61,two year,yes,,52.97,1000.5,no,no,no,yes,,yes,yes,yes,no,no
+CUST1198,Anthony Allison,male,0,yes,,48,,,bank transfer,58.29,1000.5,,no,dsl,no,yes,no,no,,,no
+CUST1199,Brandon Benitez,,1,,yes,22,month-to-month,no,bank transfer,67.59,1000.5,yes,no,no,,no,no,,no,no,yes
+CUST1200,Danielle Ward,female,1,yes,no,63,two year,no,mailed check,67.59,3055.84,yes,,fiber optic,yes,no,no,no,,,
+CUST1201,Matthew Williams,male,1,yes,yes,17,,no,,67.59,1000.5,yes,,,,yes,no,yes,yes,,yes
+CUST1202,Tina Gomez,female,0,yes,,54,month to month,no,electronic check,67.59,1000.5,yes,no,no,yes,yes,no,,,,
+CUST1203,William Hansen,female,0,yes,no,69,one year,no,credit card (automatic),67.59,4804.94,yes,no,dsl,yes,no,yes,,,no,yes
+CUST1204,Peter Johnson,female,0,yes,,10,two year,yes,,67.59,1000.5,yes,no,none,yes,,,no,yes,yes,
+CUST1205,Roy Nelson,female,1,yes,yes,1,two year,yes,mailed check,67.59,1000.5,yes,no,fiber optic,no,no,,,,yes,
+CUST1206,Phillip Casey,female,1,no,,65,two year,yes,electronic check,67.59,1000.5,no,,dsl,,no,,no,yes,yes,
+CUST1207,Robert Richardson,male,0,no,,12,month to month,,credit card (automatic),67.59,1192.14,,yes,,yes,yes,no,,yes,,yes
+CUST1208,Sheri Cohen,,0,yes,,8,one year,,bank transfer,67.59,1000.5,no,no,fiber optic,no,no,yes,no,,,
+CUST1209,Timothy Lin,male,0,,yes,51,two year,no,credit card (automatic),67.59,1000.5,yes,,none,yes,,,yes,yes,no,yes
+CUST1210,Adam Thomas,,0,no,,42,month to month,yes,electronic check,67.59,3792.91,no,yes,none,no,,,no,yes,no,
+CUST1211,Jon Martinez,female,0,yes,yes,34,one year,no,electronic check,83.77,1000.5,,,none,,,,,yes,,yes
+CUST1212,Juan Clark,male,1,no,,0,two year,yes,electronic check,67.59,0.0,yes,,no,no,,yes,yes,,,no
+CUST1213,David Goodwin,male,1,no,,20,one year,,bank transfer,67.59,1741.43,yes,yes,fiber optic,yes,no,yes,yes,no,,no
+CUST1214,Kimberly Schmidt,,0,no,yes,33,,yes,electronic check,67.59,1000.5,no,,dsl,yes,yes,no,no,no,no,no
+CUST1215,Debra Rice,,1,,yes,50,month-to-month,yes,mailed check,18.99,5846.8,yes,no,no,yes,no,yes,no,,,no
+CUST1216,Terry Wilkerson,,0,yes,yes,45,one year,,,64.41,1000.5,,,no,,no,,yes,,no,
+CUST1217,Gary Greene,female,1,yes,yes,9,one year,no,electronic check,67.59,1000.5,yes,,fiber optic,no,,,,no,,
+CUST1218,Melissa Estes,female,0,no,,61,,no,,67.59,5449.22,no,no,,,,no,no,,yes,no
+CUST1219,Hector Wilson,,1,,yes,12,one year,no,electronic check,115.9,1017.28,yes,yes,dsl,,,no,no,,,no
+CUST1220,Mark Roth,female,0,,yes,2,month to month,,electronic check,67.59,1000.5,yes,yes,no,yes,,yes,no,,,no
+CUST1221,Janice Jones,female,0,,yes,69,,no,mailed check,82.0,1000.5,yes,no,none,no,,,no,,,yes
+CUST1222,Nicole Garza,male,0,yes,,48,month to month,yes,credit card (automatic),67.59,1000.5,no,yes,no,no,no,no,,yes,yes,no
+CUST1223,Alison Weber,,0,no,no,21,,yes,credit card (automatic),67.59,1000.5,no,yes,,,no,,yes,,no,yes
+CUST1224,Alexis Thompson,female,1,no,yes,71,one year,yes,bank transfer,66.32,1000.5,,,,yes,,no,,,yes,
+CUST1225,Michael Norman,female,0,no,yes,1,one year,yes,electronic check,67.59,1000.5,,,,,no,no,,,no,
+CUST1226,Cameron Nguyen,male,1,yes,yes,24,one year,no,mailed check,67.59,1000.5,yes,,,yes,yes,no,yes,,yes,
+CUST1227,Jeanne Nelson,male,0,yes,no,40,month-to-month,yes,mailed check,67.59,1965.41,yes,no,none,yes,,no,,,,no
+CUST1228,Sierra Jackson,female,0,no,,1,month-to-month,yes,,72.1,1000.5,yes,no,none,,yes,,no,,,
+CUST1229,Nancy Berg,,0,yes,,30,one year,yes,,67.59,3033.73,,no,no,no,yes,,yes,no,,no
+CUST1230,Kenneth Robinson,female,0,no,no,37,two year,yes,bank transfer,67.59,3747.28,yes,,none,yes,no,,,no,yes,no
+CUST1231,Dominique Ayala,female,0,no,,41,month-to-month,,credit card (automatic),67.59,1000.5,no,,fiber optic,no,no,yes,no,,no,
+CUST1232,Brian Christian,,0,yes,yes,37,two year,,,41.31,1000.5,,no,dsl,,yes,yes,yes,yes,,no
+CUST1233,Jeremy Carr,,0,yes,,42,,yes,credit card (automatic),67.59,1000.5,no,yes,dsl,no,yes,yes,yes,no,,no
+CUST1234,Matthew Joseph,male,1,yes,yes,45,,no,credit card (automatic),67.59,5084.45,no,,no,no,no,yes,yes,,no,yes
+CUST1235,William Brown,,0,yes,,34,month to month,,electronic check,61.66,1000.5,,,no,no,no,no,no,no,,no
+CUST1236,Mr. Richard Carter,female,0,yes,yes,58,one year,yes,bank transfer,67.59,1000.5,yes,no,dsl,,yes,yes,,no,no,yes
+CUST1237,Jeffrey Zimmerman,,0,yes,yes,21,,no,electronic check,50.43,1000.5,,no,,yes,no,no,yes,no,no,yes
+CUST1238,Andrew Brady,male,1,yes,yes,44,,yes,electronic check,67.59,1000.5,yes,no,no,,yes,,,,,
+CUST1239,Gary Collins,female,1,no,no,54,one year,no,credit card (automatic),67.59,2083.55,no,no,fiber optic,,yes,,no,,,
+CUST1240,Tristan Wolf,,1,no,no,62,,yes,mailed check,67.59,4567.66,,,no,yes,no,,no,no,no,no
+CUST1241,Olivia Rivera,male,1,no,yes,67,month-to-month,yes,electronic check,82.93,1000.5,,no,no,yes,,,yes,,,yes
+CUST1242,Andrea Gross,female,0,yes,,11,,no,,52.01,704.4,yes,no,no,,no,,no,,yes,no
+CUST1243,James Colon,,0,,,8,two year,,,93.48,248.23,no,no,dsl,no,yes,yes,yes,,,
+CUST1244,Natalie Webb,,1,no,yes,52,month-to-month,yes,,70.62,1000.5,yes,no,none,,yes,,no,yes,,
+CUST1245,Brittney Fernandez,male,1,yes,no,56,month to month,yes,bank transfer,74.54,6151.43,yes,,dsl,,,yes,no,,no,yes
+CUST1246,Daniel Hayes,female,1,yes,yes,36,month-to-month,yes,mailed check,67.59,2964.55,,yes,fiber optic,no,,no,no,yes,,no
+CUST1247,Alex Morrison,female,1,no,,36,month-to-month,no,electronic check,67.59,1000.5,yes,no,,,no,,yes,,no,yes
+CUST1248,Sean Cameron,male,1,no,no,31,,no,electronic check,40.19,1954.63,yes,yes,dsl,yes,yes,,no,no,,yes
+CUST1249,Terry Esparza,female,1,no,,20,month to month,yes,credit card (automatic),67.59,1000.5,no,no,none,,,yes,,,,no
+CUST1250,Ricky Park,male,1,yes,,56,,no,electronic check,67.59,1000.5,no,yes,no,no,no,yes,,yes,no,yes
+CUST1251,Nicole Kirby,,1,,yes,14,two year,no,credit card (automatic),42.8,1000.5,no,,,no,no,,no,,yes,
+CUST1252,Lori Walton,,0,,,61,,no,electronic check,53.24,5468.33,,,dsl,yes,,no,yes,yes,no,yes
+CUST1253,Christopher Moore,,0,yes,,30,one year,yes,credit card (automatic),36.83,1000.5,,,dsl,,yes,no,yes,no,,yes
+CUST1254,Alexander Walton,female,1,yes,yes,11,,,bank transfer,67.59,1000.5,no,,,,yes,yes,no,,,no
+CUST1255,Samuel Burch,male,0,no,,34,one year,yes,bank transfer,67.59,1000.5,,yes,none,,no,,no,,,yes
+CUST1256,Angela Moore,female,0,yes,no,11,month to month,,,67.59,1000.5,,no,no,yes,no,,no,yes,yes,no
+CUST1257,Kayla Rodriguez,male,0,yes,no,2,month-to-month,,electronic check,67.59,58.0,,,fiber optic,no,no,no,yes,no,yes,yes
+CUST1258,Daniel Simmons,female,0,,yes,38,month to month,no,bank transfer,67.59,1000.5,no,,no,no,yes,yes,,yes,yes,yes
+CUST1259,Pamela Mcconnell,,0,,,56,month to month,yes,electronic check,67.59,1000.5,no,,fiber optic,yes,,no,,no,,no
+CUST1260,Marcus Williams,female,1,no,yes,20,two year,yes,credit card (automatic),67.59,1000.5,,no,no,no,,yes,,,,no
+CUST1261,Frank Hernandez,male,1,no,,64,month to month,yes,,95.32,1000.5,no,no,fiber optic,yes,,,,,,
+CUST1262,Ryan Hess,female,1,no,,66,month to month,yes,credit card (automatic),67.59,1000.5,yes,no,,,yes,,no,,,no
+CUST1263,Mark Jones,male,0,yes,no,61,,,credit card (automatic),67.59,1000.5,yes,no,fiber optic,yes,,,yes,,yes,yes
+CUST1264,Brian Nelson,female,0,no,,58,month to month,yes,,109.21,4019.85,no,no,no,,yes,no,yes,,no,
+CUST1265,Michael Chavez,female,1,no,,63,,yes,mailed check,37.55,1000.5,yes,,,no,,,,yes,,
+CUST1266,Dustin Wright,,0,no,,60,two year,yes,mailed check,67.59,1000.5,no,,dsl,,no,no,,yes,yes,yes
+CUST1267,Christian Hester,male,1,no,no,5,month to month,no,electronic check,67.59,138.68,,no,dsl,yes,,no,no,,,yes
+CUST1268,Zachary Mcdaniel,female,0,yes,,42,month to month,no,electronic check,67.59,4126.18,no,no,no,,,yes,,,,no
+CUST1269,Paula Hull,,0,no,,45,month-to-month,no,,67.59,1000.5,no,no,none,yes,,yes,yes,,,yes
+CUST1270,James Keller,male,0,no,no,9,month-to-month,yes,mailed check,19.6,177.89,yes,,dsl,no,,yes,yes,no,,no
+CUST1271,Stephanie Conner,,1,yes,yes,24,month to month,yes,bank transfer,67.59,1000.5,yes,yes,fiber optic,yes,yes,no,,yes,,no
+CUST1272,Antonio Jackson,male,1,yes,,58,month to month,no,bank transfer,41.03,1000.5,,no,,no,,,,yes,no,no
+CUST1273,Leslie Holmes,male,0,no,yes,7,month-to-month,yes,credit card (automatic),23.02,1000.5,,no,no,,no,yes,yes,no,no,
+CUST1274,Connie Brewer,,0,,,20,,yes,credit card (automatic),67.59,1000.5,,no,none,yes,yes,no,no,,,
+CUST1275,Maxwell Davis,,1,no,,7,one year,yes,credit card (automatic),67.59,1000.5,,yes,no,no,no,yes,yes,yes,no,yes
+CUST1276,Mark Jones,male,1,,yes,46,two year,yes,bank transfer,67.59,1000.5,,no,no,no,no,no,,no,yes,yes
+CUST1277,Laura Brown,female,1,yes,no,38,two year,no,,96.39,1000.5,,yes,no,yes,yes,no,yes,,no,no
+CUST1278,Christina Perry,male,1,no,,16,,yes,electronic check,106.43,1000.5,yes,yes,,yes,no,,,yes,no,
+CUST1279,Dr. Kristin Green,male,1,no,no,7,two year,no,electronic check,67.59,1000.5,,,,,no,no,no,no,no,
+CUST1280,Annette Figueroa,female,1,,,37,month to month,yes,mailed check,67.59,1000.5,yes,no,dsl,,no,no,no,,no,
+CUST1281,Cristian Cannon,male,0,no,,56,two year,no,credit card (automatic),67.59,1000.5,no,no,none,no,no,,yes,no,yes,yes
+CUST1282,Haley Pena,female,1,yes,no,65,one year,no,bank transfer,62.37,1000.5,,no,dsl,,,,yes,yes,yes,
+CUST1283,Jessica Weaver,female,1,no,,57,month-to-month,no,credit card (automatic),105.39,1000.5,no,,none,no,yes,,yes,,,no
+CUST1284,Dr. Brian Powers,,1,yes,,10,two year,no,electronic check,92.88,1000.5,no,no,,no,,yes,yes,yes,no,
+CUST1285,Lisa Dunn,female,1,,yes,37,one year,,bank transfer,67.59,1000.5,,yes,,yes,no,,no,,,
+CUST1286,Jon Johnson,female,0,no,,19,two year,no,,67.59,1000.5,,,,yes,,,yes,no,,yes
+CUST1287,William Davila,female,0,no,,31,,yes,credit card (automatic),67.59,1000.5,no,yes,,,,no,no,no,,
+CUST1288,Amy Hawkins,male,1,yes,,13,month-to-month,yes,credit card (automatic),21.12,1000.5,,,dsl,no,yes,no,no,,yes,
+CUST1289,Andrew Patton,female,1,no,no,1,month-to-month,no,electronic check,67.59,1000.5,no,no,,no,yes,,yes,,,no
+CUST1290,Kristina Mendoza,female,0,yes,no,52,,yes,,67.59,1000.5,,yes,,no,no,yes,,,,no
+CUST1291,Christopher Jones,male,0,yes,,31,month-to-month,yes,electronic check,98.21,1000.5,,no,dsl,no,no,no,no,,,no
+CUST1292,Elizabeth Moore,female,0,,yes,51,one year,no,mailed check,67.59,5986.45,no,yes,none,no,no,,no,yes,,yes
+CUST1293,Kimberly Gomez,,0,no,no,71,two year,no,mailed check,104.5,1000.5,yes,no,no,yes,no,,yes,yes,yes,no
+CUST1294,Ashley Jackson,male,0,yes,,36,two year,no,,67.59,1000.5,yes,no,dsl,yes,yes,no,yes,no,,yes
+CUST1295,James King,male,1,yes,,28,month to month,no,mailed check,80.03,1000.5,no,no,none,yes,,yes,,,yes,
+CUST1296,Aimee Lynch,,0,no,no,18,two year,no,mailed check,67.59,1000.5,yes,no,none,,yes,,yes,no,,no
+CUST1297,Adam Williams,male,0,no,yes,25,,no,bank transfer,26.99,1000.5,no,no,,no,,no,no,yes,no,yes
+CUST1298,Ralph Chen,male,1,yes,,34,month to month,yes,bank transfer,67.59,2792.91,,no,no,yes,,no,no,,,
+CUST1299,Kathy Rocha,male,0,yes,,45,two year,,bank transfer,67.59,1000.5,,,none,,yes,no,,,no,yes
+CUST1300,Mariah Perez,male,1,,,9,month to month,yes,electronic check,67.59,320.68,no,yes,fiber optic,,,no,,,yes,
+CUST1301,Allison Acosta,male,1,no,,55,month-to-month,yes,electronic check,87.44,1000.5,yes,yes,fiber optic,yes,,yes,,,,no
+CUST1302,Elizabeth Fields,female,0,no,yes,43,one year,no,bank transfer,67.59,1000.5,,yes,none,,,,,,,yes
+CUST1303,Amanda Henderson,male,1,,,20,two year,yes,credit card (automatic),21.52,1000.5,no,no,,yes,yes,yes,yes,,,yes
+CUST1304,Mary Avila,female,0,yes,,3,one year,no,,67.59,80.78,no,,no,,yes,,yes,yes,yes,
+CUST1305,Sarah Morgan,female,0,no,no,0,two year,no,,53.02,0.0,,,,,yes,yes,no,no,,no
+CUST1306,Brandon Burns,male,1,yes,,18,one year,no,credit card (automatic),67.59,1765.39,,no,,yes,,,yes,,no,no
+CUST1307,Eric Clark,male,1,,,60,one year,yes,bank transfer,88.73,6246.48,,yes,none,no,no,no,yes,yes,no,
+CUST1308,Alexander Morgan,male,0,,yes,9,month to month,no,credit card (automatic),67.59,1000.5,,,,no,no,yes,,yes,,no
+CUST1309,Gerald Gonzales,male,1,no,,39,one year,yes,,67.59,1000.5,yes,yes,none,no,,,no,,no,
+CUST1310,Joan Hunt,female,1,yes,,3,two year,yes,electronic check,21.8,1000.5,no,,dsl,yes,no,,,,no,yes
+CUST1311,David Wise,female,1,,yes,9,two year,no,bank transfer,67.59,1000.5,yes,no,none,no,no,,no,yes,,
+CUST1312,Keith Mitchell,,1,no,no,20,two year,no,mailed check,67.59,1000.5,,,none,no,yes,no,no,,yes,yes
+CUST1313,Timothy Moreno DVM,female,0,yes,no,62,one year,no,electronic check,67.59,3941.22,no,no,no,,no,,,no,,no
+CUST1314,Michael Mejia,female,1,,,25,two year,yes,bank transfer,67.59,1000.5,yes,yes,dsl,yes,,no,no,,yes,
+CUST1315,Joshua Cannon,male,1,yes,yes,16,one year,yes,bank transfer,67.59,1000.5,,no,none,,no,,yes,yes,no,yes
+CUST1316,Christine Baker,,0,yes,,42,month to month,no,electronic check,77.82,3965.53,no,,no,,no,,no,yes,no,yes
+CUST1317,Nicole Randolph,,0,yes,yes,42,,yes,electronic check,104.73,1000.5,,no,dsl,no,,yes,yes,,,no
+CUST1318,Stephen Braun,male,0,yes,no,20,month to month,,credit card (automatic),67.59,1000.5,yes,no,none,,yes,no,yes,,,
+CUST1319,Duane Robbins,female,1,yes,,57,month to month,yes,mailed check,67.59,1000.5,,,,yes,no,,no,,,yes
+CUST1320,Matthew Robinson,,0,no,no,5,two year,yes,bank transfer,61.17,427.54,no,yes,fiber optic,,,,yes,no,yes,
+CUST1321,Jamie Smith,male,0,no,,56,month to month,yes,mailed check,67.59,1000.5,,,none,yes,,no,no,,yes,
+CUST1322,Tammy Foster,,0,no,no,50,,yes,electronic check,83.53,1000.5,no,yes,no,yes,,yes,no,,no,no
+CUST1323,Wesley James,female,1,yes,,67,two year,yes,electronic check,67.59,1000.5,yes,no,fiber optic,yes,no,no,yes,,no,
+CUST1324,Diana Moody,male,1,,,14,one year,,,67.59,355.26,no,no,dsl,,no,yes,yes,yes,,
+CUST1325,Brittany Arnold,male,0,yes,,20,one year,yes,electronic check,67.59,1000.5,,yes,dsl,yes,yes,,yes,,no,
+CUST1326,Connie Wagner,female,1,,,7,two year,,electronic check,67.59,1000.5,,no,fiber optic,no,yes,yes,yes,yes,yes,no
+CUST1327,Joy Frazier,male,1,yes,yes,64,,no,,96.73,1000.5,,,,yes,,,no,,no,
+CUST1328,Robert Richard,female,0,yes,yes,28,,,bank transfer,67.59,1198.34,no,,,yes,no,no,yes,,yes,
+CUST1329,Eric Meyer,female,0,,,25,,no,mailed check,67.59,1000.5,yes,no,dsl,no,no,no,,,,no
+CUST1330,Paul Macdonald,male,0,no,,70,month to month,,,118.25,1000.5,,yes,no,yes,no,,yes,yes,no,yes
+CUST1331,Valerie Hawkins,female,0,no,,37,month-to-month,no,electronic check,67.59,1000.5,yes,no,fiber optic,,no,,no,no,,
+CUST1332,Jessica Taylor,female,0,yes,,67,month to month,,,67.59,1000.5,,no,no,yes,yes,no,yes,,no,no
+CUST1333,Nicole Johnson,,1,yes,,13,month-to-month,yes,mailed check,67.59,1000.5,no,no,none,,no,no,,,no,yes
+CUST1334,William Jefferson,male,1,no,yes,44,two year,no,mailed check,118.79,1000.5,no,no,,no,no,,,no,,
+CUST1335,Jonathan Owens MD,male,0,yes,,61,month-to-month,,,114.32,2333.61,no,,fiber optic,no,,,,,,no
+CUST1336,Sara Carroll,female,1,no,no,44,,no,bank transfer,67.59,1000.5,no,yes,no,no,,yes,no,,,
+CUST1337,Anthony Smith,female,1,no,no,64,month to month,no,electronic check,67.59,5211.27,yes,no,,yes,no,yes,,,no,
+CUST1338,Kyle Perez,female,1,no,,21,one year,no,electronic check,67.59,1000.5,no,,dsl,yes,no,no,no,no,yes,yes
+CUST1339,Walter French,,0,no,,19,,,mailed check,92.28,1000.5,no,yes,no,yes,,no,yes,,yes,yes
+CUST1340,Michael Fernandez,,0,yes,,62,month to month,no,bank transfer,67.59,1000.5,yes,yes,,no,yes,yes,no,no,yes,no
+CUST1341,Casey Reynolds,female,0,,,5,month to month,yes,mailed check,48.47,1000.5,,no,fiber optic,yes,yes,yes,,,no,no
+CUST1342,Jeffrey Hansen,female,0,no,,24,month to month,yes,bank transfer,67.59,1000.5,no,,none,yes,no,no,,,,yes
+CUST1343,Joshua Ray,female,0,no,,60,month-to-month,no,mailed check,67.59,1000.5,yes,no,no,,yes,,no,no,yes,yes
+CUST1344,Virginia Cummings,female,1,,yes,69,month to month,yes,bank transfer,67.59,1000.5,yes,yes,dsl,,,yes,,,yes,
+CUST1345,John Cuevas,male,1,yes,no,48,two year,,mailed check,67.59,1000.5,,yes,no,no,,,no,yes,no,no
+CUST1346,Beth Patel,male,0,no,yes,4,one year,yes,electronic check,67.59,1000.5,,,no,no,,yes,,no,no,
+CUST1347,Tina Lynch,,1,yes,no,69,month to month,yes,credit card (automatic),67.59,1000.5,no,no,fiber optic,,yes,no,,yes,,yes
+CUST1348,Richard Crawford,female,1,yes,no,19,,yes,bank transfer,104.68,1000.5,,yes,none,,no,yes,no,no,yes,
+CUST1349,Matthew Young,male,1,,,5,month to month,no,credit card (automatic),67.59,1000.5,yes,yes,,,,no,yes,,,no
+CUST1350,Richard Stevens,female,0,,yes,35,month to month,no,bank transfer,67.59,1345.56,yes,yes,none,no,,no,,,no,yes
+CUST1351,Laura Robbins,male,0,no,no,21,two year,,electronic check,67.59,1000.5,no,,no,no,,yes,yes,no,yes,no
+CUST1352,Julie Moore,male,0,,no,30,month-to-month,yes,bank transfer,67.59,1000.5,,,fiber optic,yes,yes,,yes,,,
+CUST1353,Mackenzie Hampton DDS,female,0,yes,no,69,month to month,yes,credit card (automatic),106.92,1000.5,,no,fiber optic,no,no,yes,,,,no
+CUST1354,Denise Williamson,,1,no,no,48,one year,no,electronic check,89.2,1743.88,,yes,,no,yes,yes,no,yes,yes,
+CUST1355,Michael Torres,female,1,yes,yes,19,one year,,mailed check,29.03,1000.5,yes,no,,yes,yes,,,,,yes
+CUST1356,Ernest Herman,male,0,yes,,9,two year,,mailed check,67.59,1000.5,yes,yes,,yes,yes,,no,no,yes,no
+CUST1357,Ashley Allen,female,1,,yes,50,month-to-month,yes,,67.59,1000.5,yes,,no,yes,no,no,no,,,no
+CUST1358,Tara Murphy,male,0,yes,,11,two year,no,,67.59,1000.5,yes,yes,,yes,yes,no,,no,yes,yes
+CUST1359,Christopher Williams,,1,yes,,11,,,credit card (automatic),67.59,1000.5,yes,no,no,yes,no,yes,yes,,no,
+CUST1360,Rebecca Steele,,1,no,,3,,yes,electronic check,67.59,1000.5,no,no,no,,yes,yes,yes,,,yes
+CUST1361,Mark Wong,female,0,yes,,63,month-to-month,no,credit card (automatic),22.13,1000.5,no,no,fiber optic,,,yes,no,no,yes,
+CUST1362,Lauren Ruiz,female,0,no,,64,,no,bank transfer,67.59,1815.75,,no,fiber optic,no,,yes,no,no,,
+CUST1363,Mr. Donald Jenkins DVM,,0,yes,no,46,,yes,credit card (automatic),67.59,1000.5,no,no,no,yes,yes,,,,,
+CUST1364,Timothy Anthony,female,0,,,30,two year,yes,bank transfer,67.59,1000.5,,yes,no,yes,yes,,no,,no,
+CUST1365,Bobby Lamb,,1,yes,yes,42,one year,no,mailed check,67.59,1000.5,no,,none,yes,,yes,yes,,no,
+CUST1366,Tiffany Howell,female,0,yes,yes,70,one year,yes,credit card (automatic),112.11,1000.5,no,no,,yes,,yes,,no,,yes
+CUST1367,Joshua Barnett,female,1,no,no,58,month-to-month,yes,,67.59,1000.5,,,,yes,yes,no,,,no,yes
+CUST1368,Kelly Rogers,female,0,,yes,54,month-to-month,no,,82.16,1000.5,,no,,no,,yes,,yes,yes,no
+CUST1369,Melissa Lamb,male,1,yes,no,30,month-to-month,,credit card (automatic),19.9,1000.5,,yes,no,,,,yes,,,
+CUST1370,Bryce Barnes,male,0,no,,58,,,,67.59,3596.25,,yes,no,,,no,no,yes,,
+CUST1371,Ashley Harris,male,1,no,,64,month-to-month,yes,mailed check,67.59,1000.5,,no,fiber optic,yes,,no,,,no,yes
+CUST1372,Ryan Cummings,male,0,yes,,13,two year,yes,,67.59,565.27,yes,no,fiber optic,no,no,,no,yes,no,no
+CUST1373,Brenda Hunter,male,1,yes,no,55,one year,,credit card (automatic),116.51,1000.5,,yes,no,yes,,,,,no,no
+CUST1374,Lisa Brown,,0,no,,51,one year,,credit card (automatic),67.59,2196.92,yes,no,dsl,,yes,no,yes,,yes,yes
+CUST1375,Heidi Howell,male,0,no,,27,month to month,yes,credit card (automatic),98.72,1000.5,no,,dsl,yes,,yes,no,yes,,no
+CUST1376,Anthony Johnston,female,0,yes,,10,one year,no,credit card (automatic),19.48,1000.5,yes,no,,yes,no,,yes,,yes,no
+CUST1377,Alicia Leblanc,female,1,yes,yes,63,month-to-month,yes,credit card (automatic),67.59,1000.5,no,no,,yes,,yes,,no,yes,yes
+CUST1378,Joseph Perry,male,1,no,yes,2,month-to-month,no,bank transfer,67.59,1000.5,yes,,dsl,yes,no,,,,,
+CUST1379,Garrett Reeves,female,1,no,,30,two year,no,electronic check,67.59,1000.5,no,yes,,,no,no,no,no,,no
+CUST1380,William Ayers DDS,female,0,,,54,month to month,yes,electronic check,67.59,1000.5,,,no,,,no,,,,no
+CUST1381,Michael Leonard,,1,no,yes,34,two year,yes,mailed check,67.59,1000.5,yes,,none,no,no,yes,yes,,yes,
+CUST1382,Patrick Velez,female,0,yes,no,27,two year,no,bank transfer,84.58,1588.74,no,no,no,yes,,no,yes,,,yes
+CUST1383,Holly Osborne,female,0,no,yes,0,two year,no,electronic check,67.59,1000.5,yes,no,dsl,yes,,yes,yes,,yes,
+CUST1384,Zachary Campbell,male,1,no,,25,two year,yes,mailed check,67.59,1000.5,yes,no,fiber optic,yes,,,,,yes,yes
+CUST1385,Laura Conway,,0,yes,,60,month to month,no,,67.59,1000.5,no,,no,yes,no,yes,no,,,no
+CUST1386,Jeffrey Morris,female,0,no,,56,month to month,yes,electronic check,67.59,1000.5,yes,,no,,,yes,,no,no,no
+CUST1387,Katie Johnson,male,0,yes,yes,55,month to month,yes,mailed check,109.54,1000.5,yes,yes,none,no,,yes,no,,,no
+CUST1388,Karen Miller,female,0,yes,,9,two year,no,electronic check,67.59,1000.5,,no,no,no,yes,,yes,yes,yes,
+CUST1389,Caitlin Garrett,,0,no,,7,month-to-month,no,,61.78,1000.5,yes,no,none,yes,no,yes,yes,,yes,yes
+CUST1390,John Morris,male,0,yes,,25,,,,67.59,1000.5,yes,no,dsl,yes,yes,yes,no,yes,yes,no
+CUST1391,Alex Robles,male,0,no,yes,31,month to month,yes,mailed check,45.49,1000.5,no,no,fiber optic,no,,,no,yes,,
+CUST1392,Briana Mosley,,0,yes,,60,,yes,,67.59,2186.5,no,no,dsl,no,,,yes,yes,yes,
+CUST1393,Andre Harrison,female,0,no,yes,52,month to month,,bank transfer,41.81,1000.5,yes,yes,,no,yes,yes,no,,,
+CUST1394,Jacob Hernandez,male,1,no,,69,month-to-month,no,mailed check,63.44,1000.5,yes,no,no,yes,no,,yes,no,no,no
+CUST1395,Jeffrey George,male,1,yes,,69,two year,,electronic check,55.13,1000.5,,yes,no,yes,,yes,yes,,,
+CUST1396,Jessica Hines,male,0,no,,47,month to month,no,electronic check,67.59,1000.5,no,yes,,,no,yes,no,,yes,no
+CUST1397,Patricia Mcgee,female,0,yes,,10,one year,no,bank transfer,67.59,208.18,no,,none,,yes,no,yes,yes,yes,no
+CUST1398,Joanna Charles,,1,yes,,40,month to month,yes,credit card (automatic),67.59,1000.5,yes,no,none,yes,yes,,no,,,yes
+CUST1399,Robert Bennett,female,1,,,43,two year,,bank transfer,67.59,1000.5,,yes,,yes,no,yes,,,no,yes
+CUST1400,Richard Johnson,female,0,yes,,38,month-to-month,no,credit card (automatic),67.59,1000.5,yes,,no,yes,yes,,no,,,no
+CUST1401,Joyce Smith,male,0,yes,,4,month to month,,,67.59,156.49,yes,no,,yes,no,,yes,no,,yes
+CUST1402,Julia Schmitt,male,0,yes,yes,48,,no,,67.59,1000.5,no,no,dsl,no,no,no,,,,
+CUST1403,Destiny Sullivan,female,1,no,,22,one year,yes,credit card (automatic),67.59,1000.5,no,no,,no,yes,no,,,,no
+CUST1404,Jessica Davis,female,1,,no,21,,,,42.96,1000.5,yes,no,dsl,no,yes,,yes,yes,yes,
+CUST1405,Jesse Scott,male,0,yes,,21,,yes,mailed check,67.59,1000.5,,,,yes,,,yes,no,,
+CUST1406,Stacy Johnson,male,0,yes,,4,two year,no,electronic check,21.6,1000.5,yes,yes,no,no,yes,yes,yes,yes,yes,
+CUST1407,Laura Morris,,0,no,,58,,,credit card (automatic),67.59,1000.5,no,no,,yes,,,,,,yes
+CUST1408,James Scott,female,0,no,,16,two year,yes,credit card (automatic),67.59,1000.5,,no,fiber optic,no,yes,no,,no,,yes
+CUST1409,Jonathan Ellis,female,0,,,67,one year,yes,bank transfer,99.83,4026.22,,yes,no,,no,no,yes,,,
+CUST1410,Preston Fisher,male,0,yes,no,8,,yes,bank transfer,69.31,1000.5,no,no,no,no,yes,no,,yes,no,yes
+CUST1411,David Crawford,female,0,yes,,34,,no,,67.59,1000.5,yes,yes,dsl,,,,yes,no,,
+CUST1412,Marie Hendrix,female,1,no,yes,45,month to month,no,mailed check,67.59,810.15,,yes,,,no,no,,no,,no
+CUST1413,Betty Mendoza,female,0,,,45,month to month,yes,electronic check,32.68,1000.5,,no,,yes,,,yes,yes,yes,
+CUST1414,Brian Olson,male,1,yes,,35,two year,yes,credit card (automatic),67.59,4058.86,yes,yes,fiber optic,no,,no,no,,,yes
+CUST1415,Jocelyn Johnson,female,1,no,,7,,no,credit card (automatic),67.59,1000.5,no,yes,fiber optic,no,no,yes,yes,,no,no
+CUST1416,Mary Good,female,0,no,yes,51,month-to-month,,,67.59,1000.5,no,no,no,no,yes,,no,,,no
+CUST1417,Molly Hansen,female,1,,,46,month-to-month,yes,bank transfer,67.59,1000.5,yes,,no,no,,yes,no,no,,yes
+CUST1418,Kathryn Brooks,female,1,no,yes,8,month to month,no,credit card (automatic),26.38,1000.5,,no,fiber optic,yes,yes,yes,no,,,yes
+CUST1419,Dr. Ryan Knight,,1,,no,62,month to month,,mailed check,67.59,1000.5,no,,fiber optic,yes,,,no,yes,,no
+CUST1420,Jim Smith,male,1,no,,45,month to month,yes,electronic check,67.59,1000.5,no,yes,no,yes,yes,yes,,yes,yes,yes
+CUST1421,Jordan Brown,female,1,,no,25,month-to-month,yes,electronic check,19.86,2803.35,no,no,dsl,yes,no,,yes,,,no
+CUST1422,Amanda Charles,male,1,no,,66,one year,yes,bank transfer,106.13,3758.06,yes,no,,yes,,no,yes,yes,,yes
+CUST1423,Sheryl Alvarado,female,1,no,,62,month to month,no,bank transfer,67.59,1000.5,,no,none,no,no,yes,no,no,,yes
+CUST1424,Angel Morgan,female,0,no,,20,month to month,yes,credit card (automatic),67.59,1000.5,,yes,dsl,yes,,yes,,yes,,yes
+CUST1425,Shannon Rogers,female,1,yes,yes,56,two year,yes,mailed check,67.59,1000.5,,yes,none,,,,yes,no,yes,yes
+CUST1426,Justin Rodriguez,female,1,no,no,13,month to month,yes,mailed check,67.59,1000.5,,yes,fiber optic,,,no,no,,yes,no
+CUST1427,Mallory Cobb,male,1,no,yes,24,one year,no,electronic check,103.88,1000.5,,no,no,,,yes,yes,yes,no,yes
+CUST1428,Joe Good,female,1,no,no,18,month to month,no,electronic check,67.59,2029.13,no,no,dsl,yes,,no,,,,no
+CUST1429,Kristin Dyer,male,0,yes,no,31,two year,yes,credit card (automatic),67.59,1000.5,no,yes,dsl,yes,yes,yes,no,yes,yes,no
+CUST1430,Jessica Abbott,male,1,no,yes,3,one year,no,bank transfer,67.59,1000.5,,yes,dsl,no,yes,,,yes,no,yes
+CUST1431,Heidi Daniels,male,1,,,60,two year,no,mailed check,77.29,4474.32,,yes,dsl,no,yes,yes,,,yes,
+CUST1432,Stephanie Russo,female,0,no,,45,,yes,bank transfer,37.85,1000.5,no,no,no,,yes,,,no,yes,yes
+CUST1433,Andrea Brown,male,1,no,yes,39,two year,no,bank transfer,50.5,1000.5,,no,fiber optic,yes,yes,,,no,yes,no
+CUST1434,Darren Woods,female,1,yes,,69,month-to-month,yes,bank transfer,67.53,2090.78,yes,no,fiber optic,yes,no,,no,no,no,
+CUST1435,Jonathan Jones,male,0,yes,no,47,two year,yes,credit card (automatic),62.15,1000.5,yes,yes,none,no,yes,yes,yes,no,,
+CUST1436,Lindsey Walter,female,1,yes,,32,one year,yes,mailed check,67.59,1000.5,,no,fiber optic,,,yes,yes,no,no,yes
+CUST1437,John Nguyen,,1,no,,27,month to month,yes,electronic check,67.59,1000.5,yes,,no,,yes,yes,yes,,,no
+CUST1438,Stephanie Wallace,male,1,,no,29,,no,mailed check,67.59,1000.5,no,no,dsl,no,yes,no,no,yes,,no
+CUST1439,Eric Hartman,male,0,yes,yes,59,month-to-month,no,bank transfer,54.03,1000.5,yes,no,,yes,no,,,yes,,
+CUST1440,Cheryl Davidson,female,0,yes,yes,62,one year,,,67.59,1000.5,yes,no,dsl,no,no,,no,no,yes,yes
+CUST1441,Vincent Graves,male,0,yes,no,31,month-to-month,,credit card (automatic),116.25,1000.5,yes,no,fiber optic,no,,,,no,no,
+CUST1442,Christopher Carter,male,1,yes,,6,month to month,,bank transfer,67.59,1000.5,,no,none,,,,,no,yes,
+CUST1443,Timothy Anthony,female,0,no,yes,16,month to month,yes,,67.59,1000.5,yes,yes,fiber optic,yes,no,yes,yes,,yes,no
+CUST1444,Ashley Sparks,male,1,,yes,65,one year,no,credit card (automatic),67.59,1000.5,yes,no,dsl,no,yes,yes,no,,,
+CUST1445,Ronald Davis,male,1,,,15,one year,yes,mailed check,36.95,1000.5,no,yes,no,yes,yes,yes,,no,,
+CUST1446,Darrell Hernandez,male,0,yes,,39,two year,no,mailed check,67.59,1000.5,,,dsl,,yes,no,yes,,yes,yes
+CUST1447,Suzanne Johnson,female,1,yes,no,53,,no,credit card (automatic),67.59,1000.5,yes,no,,no,yes,yes,,yes,,
+CUST1448,Barbara Johnson,male,0,no,yes,46,month to month,yes,bank transfer,67.59,1000.5,no,yes,none,,yes,,,yes,,yes
+CUST1449,Ricardo Stanley,female,0,yes,yes,36,,,,43.42,2961.62,yes,no,fiber optic,no,,,yes,yes,,yes
+CUST1450,Susan Brown,female,1,no,no,71,one year,no,electronic check,67.59,3095.65,no,no,,yes,no,no,no,yes,no,no
+CUST1451,Francis Lopez,female,1,,,72,month-to-month,no,mailed check,67.59,1000.5,,no,,,no,no,,,no,
+CUST1452,Ian Franklin,,1,no,,26,month to month,,mailed check,67.59,1000.5,yes,no,,,,,yes,,,no
+CUST1453,Julie Ortiz,,0,yes,yes,3,,yes,mailed check,67.59,1000.5,,no,dsl,no,,yes,yes,no,yes,no
+CUST1454,Bryan Martin,female,0,yes,yes,28,month-to-month,yes,credit card (automatic),67.59,1000.5,no,no,no,yes,yes,,yes,yes,,no
+CUST1455,Melissa Houston,female,0,no,yes,49,two year,yes,electronic check,108.99,1000.5,yes,yes,,yes,yes,no,,yes,no,yes
+CUST1456,Denise Carlson,male,0,,no,48,two year,yes,electronic check,67.59,1000.5,,no,fiber optic,no,,yes,no,yes,yes,
+CUST1457,Molly Williams,female,0,no,,8,one year,yes,credit card (automatic),67.59,1000.5,,no,no,no,no,yes,no,,,
+CUST1458,Joshua Cole,male,0,yes,yes,51,month-to-month,no,electronic check,67.59,1000.5,,no,dsl,,no,yes,yes,,no,
+CUST1459,Jeremy Newton,female,1,,,29,month-to-month,yes,credit card (automatic),67.59,1000.5,yes,no,dsl,,no,,no,no,no,no
+CUST1460,Colton Diaz,female,0,yes,,42,month-to-month,yes,,67.59,1000.5,yes,,,,,,yes,no,no,
+CUST1461,Thomas Krause,male,1,no,no,24,month to month,no,credit card (automatic),67.59,1000.5,,no,fiber optic,no,no,,no,,,
+CUST1462,Tonya Davis,female,1,,,23,month-to-month,no,bank transfer,67.59,1000.5,,no,dsl,yes,,,no,yes,yes,yes
+CUST1463,Richard Peck,male,0,no,no,63,month-to-month,,,67.59,3154.44,yes,no,no,no,no,,no,yes,,yes
+CUST1464,Charles Williams,male,1,yes,,29,one year,no,,51.43,1000.5,,no,fiber optic,yes,no,no,yes,yes,,no
+CUST1465,Pamela Davis,male,0,no,,58,two year,no,credit card (automatic),67.59,1000.5,,no,dsl,,no,,no,yes,yes,no
+CUST1466,Caleb Sullivan,male,0,yes,,37,one year,yes,mailed check,25.89,1000.5,no,yes,dsl,,no,no,no,,,yes
+CUST1467,Jeremy Gonzalez,female,1,yes,no,26,two year,yes,bank transfer,67.59,1000.5,,,dsl,,,,no,,yes,
+CUST1468,Lynn Hill,male,1,,,36,two year,no,bank transfer,67.59,3663.32,yes,no,,,no,no,no,no,yes,no
+CUST1469,Amanda Browning,female,1,yes,,53,month to month,yes,bank transfer,84.69,3747.47,yes,,,no,,yes,,,no,
+CUST1470,Ryan Walker,male,1,,,48,two year,yes,mailed check,67.59,1000.5,no,,none,yes,yes,,no,yes,,no
+CUST1471,Carmen Jackson,female,0,yes,yes,41,month to month,no,credit card (automatic),114.19,1000.5,yes,no,no,,no,no,yes,,,
+CUST1472,Sarah Johnson,,0,no,no,25,two year,yes,credit card (automatic),67.59,1000.5,,no,dsl,yes,,,yes,,,no
+CUST1473,Emily Suarez,,1,,,17,one year,yes,,67.59,1000.5,yes,no,dsl,,,,no,,no,no
+CUST1474,Jonathan Martin,male,1,yes,,13,month to month,no,credit card (automatic),67.59,1000.5,,no,none,yes,,no,,yes,,yes
+CUST1475,Jonathan Fuller,male,1,no,no,4,one year,no,,67.59,1000.5,yes,yes,no,no,yes,yes,,no,,no
+CUST1476,Jeanette Lawson,male,1,yes,yes,25,month-to-month,no,electronic check,67.59,1000.5,,,none,,yes,,,,,no
+CUST1477,Matthew Thompson,,1,,yes,58,,,bank transfer,44.26,1000.5,,no,no,no,yes,,yes,no,yes,no
+CUST1478,Karen Walker,female,0,,yes,0,one year,no,mailed check,32.9,1000.5,,yes,fiber optic,,,no,no,no,,
+CUST1479,James Collins,male,0,yes,no,59,,no,,67.59,4597.48,yes,,,no,yes,no,yes,,yes,yes
+CUST1480,Wanda Smith,female,1,no,,69,one year,no,bank transfer,77.05,1000.5,,no,dsl,yes,yes,no,no,yes,,yes
+CUST1481,Michael Jackson,female,1,no,no,40,,no,electronic check,67.59,1000.5,,,none,yes,,no,,no,,yes
+CUST1482,Kevin Ramos,,1,yes,,65,two year,no,bank transfer,67.59,3752.74,yes,yes,fiber optic,,no,no,yes,yes,,no
+CUST1483,Mark Rodriguez,female,1,yes,no,48,month-to-month,yes,credit card (automatic),67.59,1000.5,,no,dsl,,no,,,yes,,yes
+CUST1484,Courtney Davis,male,0,,yes,47,month-to-month,no,,75.77,1000.5,yes,no,no,,,no,yes,no,,yes
+CUST1485,Christina Smith,male,1,no,yes,40,,yes,,39.28,1000.5,no,no,none,yes,yes,,yes,,,
+CUST1486,Thomas Wright,male,1,yes,,17,,no,credit card (automatic),67.59,1000.5,yes,no,,yes,no,no,,no,yes,no
+CUST1487,Tony Watts,,0,,yes,19,month to month,yes,credit card (automatic),21.98,1000.5,,yes,fiber optic,no,no,,no,no,no,no
+CUST1488,Sandra Watkins,male,0,no,yes,36,month-to-month,no,bank transfer,37.86,1000.5,,no,dsl,yes,,no,no,yes,,no
+CUST1489,Dr. James Webb,male,1,,,71,month-to-month,no,credit card (automatic),41.71,1000.5,yes,no,none,no,yes,no,no,,,no
+CUST1490,Sheila Fernandez,,0,,,34,,yes,,22.13,3487.72,,no,fiber optic,yes,no,yes,yes,,yes,yes
+CUST1491,Angela Perry,,0,yes,no,19,month to month,no,electronic check,67.59,1000.5,no,,none,no,no,no,no,no,,
+CUST1492,Stephen Hess,,1,yes,yes,62,one year,no,electronic check,67.59,1000.5,no,no,dsl,no,no,,,,yes,yes
+CUST1493,Christopher Vargas,male,1,yes,yes,17,,,credit card (automatic),83.4,1000.5,no,,dsl,yes,yes,no,no,yes,yes,
+CUST1494,Jacqueline Williams,male,0,no,no,27,month to month,no,electronic check,67.59,1000.5,,yes,dsl,,no,,yes,yes,,
+CUST1495,Carol Green,female,0,no,,26,one year,no,,70.61,1000.5,no,no,none,,no,yes,,no,yes,yes
+CUST1496,Daniel Rodgers,male,0,,yes,67,one year,no,mailed check,67.59,1000.5,,,fiber optic,yes,no,,,,yes,no
+CUST1497,Angela Cooper,male,1,,,8,month-to-month,,bank transfer,47.97,1000.5,,yes,fiber optic,,yes,yes,yes,,yes,yes
+CUST1498,Richard Yang,female,0,no,yes,7,one year,no,credit card (automatic),67.59,1000.5,no,no,no,yes,yes,no,yes,no,no,yes
+CUST1499,Steve Fritz,female,1,yes,yes,34,two year,yes,electronic check,57.74,1000.5,yes,yes,no,,,,yes,no,,no
+CUST1500,Victoria Munoz,male,1,no,,13,month-to-month,yes,mailed check,67.59,1000.5,no,no,none,,,no,no,,,yes
