@@ -1,5 +1,5 @@
 # 📊 Data-Driven Customer Retention: Churn Modeling with Data Analytics  
-
+Done by: Devaprakash R
 ## 📌 Project Overview  
 Customer churn is one of the most critical business problems faced by subscription-based companies.  
 This project builds a **data-driven churn prediction system** leveraging **Python, SQL, and Machine Learning** to identify customers at risk of leaving.  
