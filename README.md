@@ -91,7 +91,8 @@ By identifying customers most likely to churn, businesses can:
 Clone the repository:  
 
 - git clone https://github.com/devaprakash27r/Data-Driven-Customer-Retention-Churn-Modeling-with-Data-Analytics.git
-- Create a virtual environment & install dependencies:
+
+Create a virtual environment & install dependencies:
 
 
 - python -m venv venv
