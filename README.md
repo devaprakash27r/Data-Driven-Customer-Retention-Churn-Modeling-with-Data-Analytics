@@ -1,6 +1,6 @@
-# 📊 Data-Driven Customer Retention: Churn Modeling with Data Analytics  
+#  Data-Driven Customer Retention: Churn Modeling with Data Analytics  
 Done by: Devaprakash R
-## 📌 Project Overview  
+##  Project Overview  
 Customer churn is one of the most critical business problems faced by subscription-based companies.  
 This project builds a **data-driven churn prediction system** leveraging **Python, SQL, and Machine Learning** to identify customers at risk of leaving.  
 
@@ -8,7 +8,7 @@ The pipeline covers everything end-to-end — from **raw data extraction to feat
 
 ---
 
-## 📂 Repository Structure  
+##  Repository Structure  
 - ├── datasets/ # Raw and processed datasets
 - ├── jupyter_notebook_codes/ # Jupyter notebooks for step-by-step experimentation
 - ├── model/ # Trained machine learning model (Best_Model.pkl)
@@ -26,7 +26,7 @@ The pipeline covers everything end-to-end — from **raw data extraction to feat
 
 ---
 
-## ⚙️ Project Workflow  
+##  Project Workflow  
 
 ### 1. Data Extraction (`1_data_extraction.py`)  
 - Pulls customer data from SQL database.  
@@ -60,7 +60,7 @@ The pipeline covers everything end-to-end — from **raw data extraction to feat
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 - **Languages:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
 - **Data Handling:** SQL, CSV  
 - **Modeling:** Logistic Regression, Decision Tree, KNN, Random Forest  
@@ -69,7 +69,7 @@ The pipeline covers everything end-to-end — from **raw data extraction to feat
 
 ---
 
-## 🚀 Key Deliverables  
+##  Key Deliverables  
 - ✅ End-to-End ML Pipeline (from raw data to deployable churn prediction)  
 - ✅ Trained Model (`Best_Model.pkl`) for future use  
 - ✅ EDA Visuals for business insights  
@@ -78,7 +78,7 @@ The pipeline covers everything end-to-end — from **raw data extraction to feat
 
 ---
 
-## 📈 Business Impact  
+##  Business Impact  
 By identifying customers most likely to churn, businesses can:  
 - Launch targeted retention campaigns  
 - Optimize customer support efforts  
@@ -86,7 +86,7 @@ By identifying customers most likely to churn, businesses can:
 
 ---
 
-## ▶️ How to Run  
+## ▶ How to Run  
 
 Clone the repository:  
 
